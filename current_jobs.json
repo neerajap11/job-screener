@@ -1822,16 +1822,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210798369",
-   "title": "Payments Client Service Account Manager - Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798369",
-   "posted": "2026-10-12",
-   "closes": "",
-   "years": 8
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210804767",
    "title": "Business Management - Associate",
    "location": "Bengaluru, Karnataka, India, India",
@@ -1901,6 +1891,16 @@
    "years": 2
   },
   {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210798369",
+   "title": "Payments Client Service Account Manager - Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798369",
+   "posted": "2026-10-12",
+   "closes": "",
+   "years": 8
+  },
+  {
    "company": "American Express",
    "id": "American Express:26013012",
    "title": "Manager-Risk Management",
@@ -1962,16 +1962,6 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557041532",
-   "title": "Sr. Strategic Account Technology Strategist - Global Accounts",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041532",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557042367",
    "title": "Strategic Account Technology",
    "location": "India, Haryana, Gurgaon; India, Karnataka, Bangalore; India, Maharashtra, Mumbai",
@@ -2002,11 +1992,11 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557016611",
-   "title": "Senior Product Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
-   "posted": "2026-10-06",
+   "id": "Microsoft:1970393557041532",
+   "title": "Sr. Strategic Account Technology Strategist - Global Accounts",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041532",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -2032,21 +2022,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557016561",
+   "id": "Microsoft:1970393557016611",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
    "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557038894",
-   "title": "Product Manager -II",
+   "id": "Microsoft:1970393557016561",
+   "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
-   "posted": "2026-10-13",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -2062,21 +2052,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557044076",
-   "title": "Project Manager",
+   "id": "Microsoft:1970393557038894",
+   "title": "Product Manager -II",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044076",
-   "posted": "2026-10-29",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
+   "posted": "2026-10-13",
    "closes": "",
    "years": null
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393556988781",
-   "title": "Consulting Project Management",
-   "location": "India, Telangana, Hyderabad; India, Multiple Locations, Multiple Locations; India, Uttar Pradesh, Noida",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556988781",
-   "posted": "2026-10-06",
+   "id": "Microsoft:1970393557044076",
+   "title": "Project Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044076",
+   "posted": "2026-10-29",
    "closes": "",
    "years": null
   },
@@ -2182,21 +2172,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721410533",
-   "title": "Finance Analyst, Associate",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721410533",
-   "posted": "2026-10-23",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721765981",
    "title": "Finance Analyst, Associate",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446721765981",
    "posted": "2026-10-28",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721410533",
+   "title": "Finance Analyst, Associate",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721410533",
+   "posted": "2026-10-23",
    "closes": "",
    "years": null
   },
@@ -2242,51 +2232,11 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612436815",
-   "title": "Fixed Income Product Specialist",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612436815",
+   "id": "HSBC:563774612437134",
+   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
+   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
    "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612513047",
-   "title": "Data Product Strategy and Design Lead",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612513047",
-   "posted": "2026-10-20",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612513554",
-   "title": "Non-Financial Risk Senior Manager",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612513554",
-   "posted": "2026-10-20",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612386913",
-   "title": "Associate Balance Sheet Steering and Optimisation",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
-   "posted": "2026-10-01",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612411216",
-   "title": "Technical Business Analyst - User Experience Interface",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
-   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -2297,16 +2247,6 @@
    "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612556772",
    "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612437134",
-   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
-   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
-   "posted": "2026-10-09",
    "closes": "",
    "years": null
   },
@@ -2402,16 +2342,6 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:62316",
-   "title": "Senior Manager, Credit Risk Governance",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Credit-Risk-Governance/62316-en_GB",
-   "posted": "2026-10-06",
-   "closes": "2026-10-31",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:64057",
    "title": "Senior Manager, Market Risk Management",
    "location": "Bangalore, IND ",
@@ -2428,6 +2358,16 @@
    "url": "https://jobs.standardchartered.com/job/Associate-Manager-Country-Regulatory-Reporting/62817-en_GB",
    "posted": "2026-10-07",
    "closes": "2026-11-06",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64365",
+   "title": "Senior Manager, OTCR, Third Party Risk SME",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-OTCR%2C-Third-Party-Risk-SME/64365-en_GB",
+   "posted": "2026-10-22",
+   "closes": "2026-11-05",
    "years": null
   },
   {
@@ -2452,12 +2392,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64205",
-   "title": "Business Manager, Markets Clusters Services",
+   "id": "Standard Chartered:64467",
+   "title": "Associate, WRB Model Development",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Business-Manager%2C-Markets-Clusters-Services/64205-en_GB",
-   "posted": "2026-10-16",
-   "closes": "2026-10-31",
+   "url": "https://jobs.standardchartered.com/job/Associate%2C-WRB-Model-Development/64467-en_GB",
+   "posted": "2026-10-19",
+   "closes": "2026-11-01",
    "years": null
   },
   {
@@ -7179,7 +7119,7 @@
    null
   ],
   "Microsoft": [
-   18,
+   17,
    null
   ],
   "Qualcomm": [
@@ -7187,7 +7127,7 @@
    null
   ],
   "HSBC": [
-   7,
+   2,
    null
   ],
   "Atlassian": [
