@@ -1,0 +1,50 @@
+name: Job screener
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours (UTC)
+  workflow_dispatch:         # "Run workflow" button for an on-demand check
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: screener
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check career sites
+        run: python3 -I screener.py
+
+      - name: Save state (seen jobs, latest results)
+        run: |
+          git config user.name "job-screener-bot"
+          git config user.email "job-screener-bot@users.noreply.github.com"
+          git add seen_jobs.json current_jobs.json jobs.html last_run.log
+          git commit -m "Update jobs $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
+          git push
+
+      - name: Prepare page
+        run: mkdir -p site && cp jobs.html site/index.html
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
