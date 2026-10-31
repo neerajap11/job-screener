@@ -1,38 +1,56 @@
-Run 2026-10-30 23:49 took 3997s; 611 matches, 2 new this run
+Run 2026-10-31 07:58 took 1262s; 703 matches, 114 new this run
+  Acko: 5 jobs
   Adobe: 3 jobs
-  Amazon: 343 jobs
+  Amazon: 344 jobs
+  American Express: 2 jobs
+  Apple: 6 jobs
   Arcesium: 6 jobs
+  Atlassian: 1 jobs
   Barclays: 2 jobs
-  BlackRock: 1 jobs
+  BlackRock: 0 jobs  ERROR ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE html>\n<html>\n\n<head>\n    <style>\n        body {\n  '
   BrowserStack: 0 jobs
   CRED: 3 jobs
+  Cars24: 10 jobs
   Cisco: 11 jobs
   Citi: 2 jobs
   D. E. Shaw: 8 jobs
   Deutsche Bank: 2 jobs
   Freshworks: 1 jobs
   Goldman Sachs: 14 jobs
-  Google: 43 jobs
+  Google: 41 jobs
   Groww: 1 jobs
+  HSBC: 7 jobs
   InMobi: 7 jobs
-  JPMorgan Chase: 66 jobs
+  Intuit: 3 jobs
+  JPMorgan Chase: 58 jobs
+  Jupiter: 2 jobs
+  Juspay: 7 jobs
+  Lenskart: 2 jobs
+  Licious: 1 jobs
   Lowe's: 4 jobs
   Mastercard: 0 jobs
   Meesho: 9 jobs
-  Microsoft: 19 jobs
+  Microsoft: 18 jobs
   Morgan Stanley: 2 jobs
+  Navi: 19 jobs
   Novartis: 5 jobs
   Oracle: 5 jobs
-  PayPal: 3 jobs
+  PayPal: 2 jobs
   Paytm: 23 jobs
+  PhonePe: 23 jobs
+  Postman: 0 jobs
+  Qualcomm: 14 jobs
   Razorpay: 8 jobs
   Salesforce: 3 jobs
   ServiceNow: 8 jobs
+  ShareChat: 0 jobs
   Slice: 0 jobs
+  Standard Chartered: 10 jobs
   Swiggy: 4 jobs
   Target: 2 jobs
-  Tesco: 4 jobs
+  Tesco: 3 jobs
   Unacademy: 0 jobs
+  Urban Company: 0 jobs
   Visa: 7 jobs
-  Wells Fargo: 6 jobs
+  Wells Fargo: 0 jobs  ERROR ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Workday: 0 jobs
