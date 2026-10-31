@@ -1,13 +1,13 @@
-Run 2026-10-31 07:58 took 1262s; 703 matches, 114 new this run
+Run 2026-10-31 16:52 took 1223s; 704 matches, 3 new this run
   Acko: 5 jobs
   Adobe: 3 jobs
-  Amazon: 344 jobs
+  Amazon: 343 jobs
   American Express: 2 jobs
   Apple: 6 jobs
   Arcesium: 6 jobs
   Atlassian: 1 jobs
   Barclays: 2 jobs
-  BlackRock: 0 jobs  ERROR ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE html>\n<html>\n\n<head>\n    <style>\n        body {\n  '
+  BlackRock: 1 jobs
   BrowserStack: 0 jobs
   CRED: 3 jobs
   Cars24: 10 jobs
@@ -24,7 +24,7 @@ Run 2026-10-31 07:58 took 1262s; 703 matches, 114 new this run
   Intuit: 3 jobs
   JPMorgan Chase: 58 jobs
   Jupiter: 2 jobs
-  Juspay: 7 jobs
+  Juspay: 8 jobs
   Lenskart: 2 jobs
   Licious: 1 jobs
   Lowe's: 4 jobs
@@ -45,12 +45,12 @@ Run 2026-10-31 07:58 took 1262s; 703 matches, 114 new this run
   ServiceNow: 8 jobs
   ShareChat: 0 jobs
   Slice: 0 jobs
-  Standard Chartered: 10 jobs
+  Standard Chartered: 8 jobs
   Swiggy: 4 jobs
   Target: 2 jobs
   Tesco: 3 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 7 jobs
-  Wells Fargo: 0 jobs  ERROR ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Wells Fargo: 2 jobs
   Workday: 0 jobs

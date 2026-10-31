@@ -121,6 +121,26 @@
    "years": null
   },
   {
+   "company": "Wells Fargo",
+   "id": "Wells Fargo:/job/Bengaluru-India/Portfolio-Associate_R-578520-1",
+   "title": "Portfolio Associate",
+   "location": "Bengaluru, India",
+   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Portfolio-Associate_R-578520-1",
+   "posted": "2026-10-30",
+   "closes": "2026-11-02",
+   "years": null
+  },
+  {
+   "company": "Wells Fargo",
+   "id": "Wells Fargo:/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-567048-1",
+   "title": "Commercial Loan Closing Associate",
+   "location": "Bengaluru, India",
+   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-567048-1",
+   "posted": "2026-10-28",
+   "closes": "2026-11-02",
+   "years": null
+  },
+  {
    "company": "Citi",
    "id": "Citi:/job/Pune-Maharashtra-India/Digital-Analytics---Clickstream--_25819979",
    "title": "Digital Strategy Analyst-C11",
@@ -399,6 +419,16 @@
    "posted": "2026-10-16",
    "closes": "2026-11-06",
    "years": 1
+  },
+  {
+   "company": "BlackRock",
+   "id": "BlackRock:/job/Bengaluru-India/Associate---Fund-Accounting_R266780",
+   "title": "Associate - Fund Accounting",
+   "location": "Bengaluru, India",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Bengaluru-India/Associate---Fund-Accounting_R266780",
+   "posted": "2026-10-13",
+   "closes": "2026-12-31",
+   "years": 4
   },
   {
    "company": "Arcesium",
@@ -1522,16 +1552,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210795316",
-   "title": "Control Management-Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795316",
-   "posted": "2026-10-19",
-   "closes": "",
-   "years": 7
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210800965",
    "title": "CRE Environmental Risk Review Analyst",
    "location": "Bengaluru, Karnataka, India",
@@ -1539,6 +1559,16 @@
    "posted": "2026-10-21",
    "closes": "",
    "years": 3
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210795316",
+   "title": "Control Management-Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795316",
+   "posted": "2026-10-19",
+   "closes": "",
+   "years": 7
   },
   {
    "company": "JPMorgan Chase",
@@ -1892,21 +1922,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557047351",
-   "title": "Group Product Manager",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557040598",
    "title": "Senior Product Manager",
    "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
    "posted": "2026-10-16",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557047351",
+   "title": "Group Product Manager",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -1927,6 +1957,16 @@
    "location": "India, Karnataka, Bangalore",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037558",
    "posted": "2026-10-22",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557041532",
+   "title": "Sr. Strategic Account Technology Strategist - Global Accounts",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041532",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -1962,16 +2002,6 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557041532",
-   "title": "Sr. Strategic Account Technology Strategist - Global Accounts",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041532",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557016611",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
@@ -1982,11 +2012,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557037770",
+   "id": "Microsoft:1970393557040189",
+   "title": "Sr Product Manager",
+   "location": "India, Telangana, Hyderabad; India, Uttar Pradesh, Noida",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040189",
+   "posted": "2026-10-19",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557040071",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-   "posted": "2026-10-15",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -2012,21 +2052,11 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557040189",
-   "title": "Sr Product Manager",
-   "location": "India, Telangana, Hyderabad; India, Uttar Pradesh, Noida",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040189",
-   "posted": "2026-10-19",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393557040071",
+   "id": "Microsoft:1970393557037770",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
-   "posted": "2026-10-28",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+   "posted": "2026-10-15",
    "closes": "",
    "years": null
   },
@@ -2152,21 +2182,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721765981",
-   "title": "Finance Analyst, Associate",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721765981",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721410533",
    "title": "Finance Analyst, Associate",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446721410533",
    "posted": "2026-10-23",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721765981",
+   "title": "Finance Analyst, Associate",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721765981",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -2242,16 +2272,6 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612411216",
-   "title": "Technical Business Analyst - User Experience Interface",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
-   "posted": "2026-10-06",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612386913",
    "title": "Associate Balance Sheet Steering and Optimisation",
    "location": "Bangalore, Karnataka, India",
@@ -2262,11 +2282,11 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612437134",
-   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
-   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
-   "posted": "2026-10-09",
+   "id": "HSBC:563774612411216",
+   "title": "Technical Business Analyst - User Experience Interface",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
+   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -2277,6 +2297,16 @@
    "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612556772",
    "posted": "2026-10-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612437134",
+   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
+   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
+   "posted": "2026-10-09",
    "closes": "",
    "years": null
   },
@@ -2402,16 +2432,6 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64365",
-   "title": "Senior Manager, OTCR, Third Party Risk SME",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-OTCR%2C-Third-Party-Risk-SME/64365-en_GB",
-   "posted": "2026-10-22",
-   "closes": "2026-11-05",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:64512",
    "title": "Associate Manager, Product Control",
    "location": "Bangalore, IND ",
@@ -2442,16 +2462,6 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64467",
-   "title": "Associate, WRB Model Development",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate%2C-WRB-Model-Development/64467-en_GB",
-   "posted": "2026-10-19",
-   "closes": "2026-11-01",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:65155",
    "title": "Associate, People Insights, Workforce Strategy & Organisational Effectiveness",
    "location": "Bangalore, IND ",
@@ -2468,6 +2478,16 @@
    "url": "https://jobs.standardchartered.com/job/Lead-Risk-Manager-International-Markets-%28Malaysia%2CIndia%29/63337-en_GB",
    "posted": "2026-10-14",
    "closes": "2026-11-13",
+   "years": null
+  },
+  {
+   "company": "Juspay",
+   "id": "Juspay:PRD01",
+   "title": "Product Manager",
+   "location": "Bangalore",
+   "url": "https://juspay.io/careers",
+   "posted": "",
+   "closes": "",
    "years": null
   },
   {
@@ -3462,6 +3482,16 @@
   },
   {
    "company": "Amazon",
+   "id": "Amazon:10575471",
+   "title": "Strategic Account Manager, Amazon Business India",
+   "location": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10575471/strategic-account-manager-amazon-business-india",
+   "posted": "2026-10-12",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Amazon",
    "id": "Amazon:10572787",
    "title": "Sr. Technical Program Manager, HST Health Foundation",
    "location": "Bengaluru, Karnataka, IND",
@@ -4189,16 +4219,6 @@
    "posted": "2026-09-28",
    "closes": "",
    "years": 3
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10563363",
-   "title": "Sr Associate Acc Management, IN SSR",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10563363/sr-associate-acc-management-in-ssr",
-   "posted": "2026-09-29",
-   "closes": "",
-   "years": 1
   },
   {
    "company": "Amazon",
@@ -5539,16 +5559,6 @@
    "posted": "2026-07-27",
    "closes": "",
    "years": 2
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10483122",
-   "title": "Senior Product Manager - Tech, Amazon Finance Technology",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10483122/senior-product-manager-tech-amazon-finance-technology",
-   "posted": "2026-07-24",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Amazon",
@@ -7061,8 +7071,8 @@
    null
   ],
   "Wells Fargo": [
-   0,
-   "ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 680, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 658, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
+   2,
+   null
   ],
   "Citi": [
    2,
@@ -7097,8 +7107,8 @@
    null
   ],
   "BlackRock": [
-   0,
-   "ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE html>\\n<html>\\n\\n<head>\\n    <style>\\n        body {\\n  '\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 680, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 658, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE html>\\n<html>\\n\\n<head>\\n    <style>\\n        body {\\n  '\n"
+   1,
+   null
   ],
   "Postman": [
    0,
@@ -7193,11 +7203,11 @@
    null
   ],
   "Standard Chartered": [
-   10,
+   8,
    null
   ],
   "Juspay": [
-   7,
+   8,
    null
   ],
   "Lenskart": [
@@ -7233,7 +7243,7 @@
    null
   ],
   "Amazon": [
-   344,
+   343,
    null
   ],
   "Goldman Sachs": [
@@ -7254,120 +7264,9 @@
   ]
  },
  "latest": [
-  "PhonePe:1000000000005167",
-  "PhonePe:1000000000005116",
-  "PhonePe:1000000000005047",
-  "PhonePe:1000000000004665",
-  "PhonePe:1000000000004653",
-  "PhonePe:1000000000004641",
-  "PhonePe:1000000000004629",
-  "PhonePe:1000000000004593",
-  "PhonePe:1000000000004587",
-  "PhonePe:1000000000004558",
-  "PhonePe:1000000000004335",
-  "PhonePe:1000000000003840",
-  "PhonePe:1000000000003667",
-  "PhonePe:1000000000003587",
-  "PhonePe:1000000000003325",
-  "PhonePe:1000000000003271",
-  "PhonePe:1000000000003165",
-  "PhonePe:1000000000003142",
-  "PhonePe:1000000000003026",
-  "PhonePe:1000000000002566",
-  "PhonePe:1000000000002128",
-  "PhonePe:1000000000001869",
-  "PhonePe:1000000000001604",
-  "American Express:26013012",
-  "American Express:26015657",
-  "Qualcomm:446721038403",
-  "Qualcomm:446721651086",
-  "Qualcomm:446720750523",
-  "Qualcomm:446721499575",
-  "Qualcomm:446718894423",
-  "Qualcomm:446721582625",
-  "Qualcomm:446721230961",
-  "Qualcomm:446720725585",
-  "Qualcomm:446721765981",
-  "Qualcomm:446721410533",
-  "Qualcomm:446721732292",
-  "Qualcomm:446721309717",
-  "Qualcomm:446720385257",
-  "Qualcomm:446716674472",
-  "HSBC:563774612436815",
-  "HSBC:563774612513047",
-  "HSBC:563774612513554",
-  "HSBC:563774612411216",
-  "HSBC:563774612386913",
-  "HSBC:563774612437134",
-  "HSBC:563774612556772",
-  "Apple:200689654",
-  "Apple:200688394",
-  "Apple:200682195",
-  "Apple:200675701",
-  "Apple:200670682",
-  "Apple:200634214",
-  "Intuit:99742134144",
-  "Intuit:102552281344",
-  "Intuit:100109903856",
-  "Standard Chartered:62316",
-  "Standard Chartered:64057",
-  "Standard Chartered:62817",
-  "Standard Chartered:64365",
-  "Standard Chartered:64512",
-  "Standard Chartered:64505",
-  "Standard Chartered:64205",
-  "Standard Chartered:64467",
-  "Standard Chartered:65155",
-  "Standard Chartered:63337",
-  "Juspay:PRG01",
-  "Juspay:APRD01",
-  "Juspay:BDA01",
-  "Juspay:PMR01",
-  "Juspay:APRG01",
-  "Juspay:PM-TPBE01",
-  "Juspay:SLA01",
-  "Lenskart:178",
-  "Lenskart:400",
-  "Licious:1497",
-  "Acko:59191",
-  "Acko:59193",
-  "Acko:62175",
-  "Acko:64249",
-  "Acko:64250",
-  "Cars24:69f1002ea0057",
-  "Cars24:a6a300570d8f5c",
-  "Cars24:a6a47c209bbcf9",
-  "Cars24:a6a4bc3a0d1381",
-  "Cars24:a6a4bc7c73c3f6",
-  "Cars24:a6a4dd6717db4f",
-  "Cars24:a6a57477939c68",
-  "Cars24:a6a5a44f85076b",
-  "Cars24:a6a632fcee8872",
-  "Cars24:a6a8300e0d293b",
-  "Navi:3ed417ae-a668-49cc-914d-518d8d3f0b23",
-  "Navi:c16b4f99-255a-491b-b56c-c5d0897faa25",
-  "Navi:f4035760-2bde-466e-8090-651950c08fa7",
-  "Navi:f5a7bc08-1875-4f68-9b24-d8ff4ccbf9af",
-  "Navi:fbcf7b5a-f004-4725-9170-46a6a0f197e8",
-  "Navi:60fc6983-1ab2-44eb-8fe6-210ee50c7db6",
-  "Navi:5048f8d1-686d-435c-8387-331622bb3101",
-  "Navi:e75fe489-d034-41e2-a311-5f5663ea51d5",
-  "Navi:c5114993-6eb8-4994-9f6a-28bdcb6b1b38",
-  "Navi:96f30c47-5a70-48f5-9ad3-844bf602437a",
-  "Navi:38a782bb-ae5c-40bf-8167-ca1bbd1b4b6f",
-  "Navi:8e46ae54-4f20-4c60-a232-bc9a934b228e",
-  "Navi:f4ceea6f-7155-4648-a177-732d1b354975",
-  "Navi:744252e1-edba-467f-80cf-f756f855ba80",
-  "Navi:a741d862-7954-4be3-91e7-2b22aed792c4",
-  "Navi:84510d00-9891-4d80-b078-69ae520066b2",
-  "Navi:4389e3b5-5e86-49ed-8efb-bafed5a119a0",
-  "Navi:b3861626-81a2-4d99-80a3-4da6616811f6",
-  "Navi:66c58ce9-05c7-4a36-83be-3a2665db73ac",
-  "Jupiter:132016",
-  "Jupiter:127248",
-  "Amazon:10593639",
-  "Amazon:10593786",
-  "Amazon:10593676"
+  "Wells Fargo:/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-567048-1",
+  "Juspay:PRD01",
+  "Amazon:10575471"
  ],
- "latest_at": "31 Oct, 07:58 AM"
+ "latest_at": "31 Oct, 04:52 PM"
 }
