@@ -1392,16 +1392,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210801656",
-   "title": "Data Governance Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801656",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210804246",
    "title": "Financial Analysis-Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -1469,6 +1459,16 @@
    "posted": "2026-10-26",
    "closes": "",
    "years": 6
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210801656",
+   "title": "Data Governance Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801656",
+   "posted": "2026-10-28",
+   "closes": "",
+   "years": 5
   },
   {
    "company": "JPMorgan Chase",
@@ -1822,6 +1822,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210798369",
+   "title": "Payments Client Service Account Manager - Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798369",
+   "posted": "2026-10-12",
+   "closes": "",
+   "years": 8
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210804767",
    "title": "Business Management - Associate",
    "location": "Bengaluru, Karnataka, India, India",
@@ -1862,16 +1872,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210703314",
-   "title": "Financial Controller - Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703314",
-   "posted": "2026-02-10",
-   "closes": "",
-   "years": 4
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210746917",
    "title": "Commercial & Investment Bank Risk Associate - GHHN",
    "location": "Bengaluru, Karnataka, India",
@@ -1889,16 +1889,6 @@
    "posted": "2026-04-01",
    "closes": "",
    "years": 2
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210798369",
-   "title": "Payments Client Service Account Manager - Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798369",
-   "posted": "2026-10-12",
-   "closes": "",
-   "years": 8
   },
   {
    "company": "American Express",
@@ -1972,21 +1962,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557007321",
-   "title": "Sr. Strategic Account Technologist - ITeS",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557007321",
-   "posted": "2026-09-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393556981490",
    "title": "Account Technology Strategist - ITeS",
    "location": "India, Karnataka, Bangalore",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
    "posted": "2026-09-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557007321",
+   "title": "Sr. Strategic Account Technologist - ITeS",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557007321",
+   "posted": "2026-09-29",
    "closes": "",
    "years": null
   },
@@ -2012,21 +2002,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557040071",
-   "title": "Senior Product Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557016611",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557016611",
    "posted": "2026-10-06",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557040071",
+   "title": "Senior Product Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -2042,21 +2032,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557037770",
-   "title": "Senior Product Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
-   "posted": "2026-10-15",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557038894",
    "title": "Product Manager -II",
    "location": "India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
    "posted": "2026-10-13",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557037770",
+   "title": "Senior Product Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
+   "posted": "2026-10-15",
    "closes": "",
    "years": null
   },
@@ -2342,22 +2332,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64057",
-   "title": "Senior Manager, Market Risk Management",
+   "id": "Standard Chartered:64505",
+   "title": "Associate Lead - IRRBB Reporting",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
-   "posted": "2026-10-20",
-   "closes": "2026-11-04",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:62817",
-   "title": "Associate Manager - Country Regulatory Reporting",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager-Country-Regulatory-Reporting/62817-en_GB",
-   "posted": "2026-10-07",
-   "closes": "2026-11-06",
+   "url": "https://jobs.standardchartered.com/job/Associate-Lead-IRRBB-Reporting/64505-en_GB",
+   "posted": "2026-10-23",
+   "closes": "2026-11-07",
    "years": null
   },
   {
@@ -2382,22 +2362,32 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64505",
-   "title": "Associate Lead - IRRBB Reporting",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Lead-IRRBB-Reporting/64505-en_GB",
-   "posted": "2026-10-23",
-   "closes": "2026-11-07",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:64467",
    "title": "Associate, WRB Model Development",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Associate%2C-WRB-Model-Development/64467-en_GB",
    "posted": "2026-10-19",
    "closes": "2026-11-01",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:62817",
+   "title": "Associate Manager - Country Regulatory Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager-Country-Regulatory-Reporting/62817-en_GB",
+   "posted": "2026-10-07",
+   "closes": "2026-11-06",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64057",
+   "title": "Senior Manager, Market Risk Management",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
+   "posted": "2026-10-20",
+   "closes": "2026-11-04",
    "years": null
   },
   {
@@ -2682,16 +2672,6 @@
   },
   {
    "company": "Navi",
-   "id": "Navi:3ed417ae-a668-49cc-914d-518d8d3f0b23",
-   "title": "Associate Manager - AI Strategy & Operations",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/28Ey3QV0mIisYrFUV3bNh1h1geUHtjba27ULM4%2Faw6Mb9bePlfYPDe1r03oNXR1X",
-   "posted": "2026-09-18",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
    "id": "Navi:c16b4f99-255a-491b-b56c-c5d0897faa25",
    "title": "Associate Manager - Capital Markets",
    "location": "Bangalore, Karnataka, India",
@@ -2762,16 +2742,6 @@
   },
   {
    "company": "Navi",
-   "id": "Navi:c5114993-6eb8-4994-9f6a-28bdcb6b1b38",
-   "title": "Associate Manager II - IT Auditor",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/oqXI54GRS5aL_%2FJuo7OWK8mHGXHjKUwBzJUrOYaEoA4Ma3BH%2FBMAVL3a2s%2FjmxEl",
-   "posted": "2026-07-24",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Navi",
    "id": "Navi:96f30c47-5a70-48f5-9ad3-844bf602437a",
    "title": "Associate Product Manager",
    "location": "Bangalore, Karnataka, India",
@@ -2779,16 +2749,6 @@
    "posted": "2026-10-01",
    "closes": "",
    "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:38a782bb-ae5c-40bf-8167-ca1bbd1b4b6f",
-   "title": "Business Analyst I",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/8i1Ao7EWDlzt3jxUnfHP5u6i75BC_AQvk%2F%2FhamqQTUF0bl7o8KtZffyqy01BdSul",
-   "posted": "2026-08-06",
-   "closes": "",
-   "years": 1
   },
   {
    "company": "Navi",
@@ -2817,16 +2777,6 @@
    "location": "Bengaluru, Karnataka, India",
    "url": "https://navi.turbohire.co/job/publicjobs/0kYZ9Jns49ubhWv2h8gDFNB0NUpJhlAxNcAtgxacYbi%2F6qoe7eUZDYSRJXE_3I9q",
    "posted": "2026-10-14",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:a741d862-7954-4be3-91e7-2b22aed792c4",
-   "title": "Program Manager - Secured Loans",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/un6s0g19wySam6kb6U6n6_NwrGZ7gmMvwcHKl0KJluszCr5C5PYX2hUPsklYYC6E",
-   "posted": "2026-09-30",
    "closes": "",
    "years": null
   },
@@ -6962,16 +6912,6 @@
   },
   {
    "company": "Tesco",
-   "id": "Tesco:204796",
-   "title": "Senior Associate-Data Privacy Assurance",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Senior-Associate-Data-Privacy-Assurance/204796",
-   "posted": "2026-09-15",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
    "id": "Tesco:190974",
    "title": "Technical Programme Manager",
    "location": "Bengaluru, Karnataka, India",
@@ -7111,7 +7051,7 @@
    null
   ],
   "JPMorgan Chase": [
-   58,
+   57,
    null
   ],
   "American Express": [
@@ -7175,7 +7115,7 @@
    null
   ],
   "Navi": [
-   19,
+   15,
    null
   ],
   "Jupiter": [
@@ -7199,7 +7139,7 @@
    null
   ],
   "Tesco": [
-   3,
+   2,
    null
   ]
  },
