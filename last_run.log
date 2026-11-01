@@ -1,7 +1,7 @@
-Run 2026-11-01 03:41 took 1221s; 692 matches, 0 new this run
+Run 2026-11-01 12:42 took 1319s; 691 matches, 1 new this run
   Acko: 5 jobs
   Adobe: 3 jobs
-  Amazon: 343 jobs
+  Amazon: 341 jobs
   American Express: 2 jobs
   Apple: 6 jobs
   Arcesium: 6 jobs
@@ -22,7 +22,7 @@ Run 2026-11-01 03:41 took 1221s; 692 matches, 0 new this run
   HSBC: 2 jobs
   InMobi: 7 jobs
   Intuit: 3 jobs
-  JPMorgan Chase: 57 jobs
+  JPMorgan Chase: 58 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
   Lenskart: 2 jobs
@@ -41,11 +41,11 @@ Run 2026-11-01 03:41 took 1221s; 692 matches, 0 new this run
   Postman: 0 jobs
   Qualcomm: 14 jobs
   Razorpay: 8 jobs
-  Salesforce: 3 jobs
+  Salesforce: 4 jobs
   ServiceNow: 8 jobs
   ShareChat: 0 jobs
   Slice: 0 jobs
-  Standard Chartered: 8 jobs
+  Standard Chartered: 7 jobs
   Swiggy: 4 jobs
   Target: 2 jobs
   Tesco: 2 jobs
