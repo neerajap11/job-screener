@@ -132,6 +132,36 @@
   },
   {
    "company": "Wells Fargo",
+   "id": "Wells Fargo:/job/Bengaluru-India/Trade-and-Transaction-Reporting-Associate_R-564984-1",
+   "title": "Trade and Transaction Reporting Associate",
+   "location": "Bengaluru, India",
+   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Trade-and-Transaction-Reporting-Associate_R-564984-1",
+   "posted": "2026-11-02",
+   "closes": "2026-11-04",
+   "years": null
+  },
+  {
+   "company": "Wells Fargo",
+   "id": "Wells Fargo:/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+   "title": "Senior Product Manager",
+   "location": "Bengaluru, India",
+   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+   "posted": "2026-11-02",
+   "closes": "2026-11-09",
+   "years": 4
+  },
+  {
+   "company": "Wells Fargo",
+   "id": "Wells Fargo:/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873",
+   "title": "Commercial Loan Closing Associate",
+   "location": "Bengaluru, India",
+   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873",
+   "posted": "2026-11-02",
+   "closes": "2026-11-03",
+   "years": null
+  },
+  {
+   "company": "Wells Fargo",
    "id": "Wells Fargo:/job/Bengaluru-India/Customer-Resolution-Associate-Manager_R-581712",
    "title": "Customer Resolution Associate Manager",
    "location": "Bengaluru, India",
@@ -282,16 +312,6 @@
   },
   {
    "company": "Cisco",
-   "id": "Cisco:/job/Bangalore-India/Strategy---Planning-Manager_2026495",
-   "title": "Strategy & Planning Manager",
-   "location": "Bangalore, India",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Strategy---Planning-Manager_2026495",
-   "posted": "2026-10-15",
-   "closes": "",
-   "years": 7
-  },
-  {
-   "company": "Cisco",
    "id": "Cisco:/job/Bangalore-India/Product-Lifecycle-New-Product-Program-Manager_2026762",
    "title": "Product Lifecycle New Product Program Manager",
    "location": "Bangalore, India",
@@ -411,16 +431,6 @@
    "years": 1
   },
   {
-   "company": "Lowe's",
-   "id": "Lowe's:/job/Bengaluru/IND-Associate-Analyst-Supply-Chain_JR-02674614",
-   "title": "IND-Associate Analyst Supply Chain",
-   "location": "Bengaluru",
-   "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Associate-Analyst-Supply-Chain_JR-02674614",
-   "posted": "2026-10-16",
-   "closes": "2026-11-06",
-   "years": 1
-  },
-  {
    "company": "BlackRock",
    "id": "BlackRock:/job/Bengaluru-India/Associate---Fund-Accounting_R266780",
    "title": "Associate - Fund Accounting",
@@ -502,16 +512,6 @@
   },
   {
    "company": "Razorpay",
-   "id": "Razorpay:4748409005",
-   "title": "Associate, SME Sales",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": 1
-  },
-  {
-   "company": "Razorpay",
    "id": "Razorpay:4729533005",
    "title": "Product Manager II - Ads",
    "location": "Bengaluru",
@@ -539,6 +539,16 @@
    "posted": "2026-09-21",
    "closes": "",
    "years": 3
+  },
+  {
+   "company": "Razorpay",
+   "id": "Razorpay:4749803005",
+   "title": "Senior Associate, Product Marketing",
+   "location": "Bengaluru",
+   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749803005",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 1
   },
   {
    "company": "Razorpay",
@@ -702,6 +712,16 @@
   },
   {
    "company": "Meesho",
+   "id": "Meesho:f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
+   "title": "Associate - Operations",
+   "location": "Bangalore, Karnataka, Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/meesho/f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
+   "posted": "2026-10-01",
+   "closes": "",
+   "years": 1
+  },
+  {
+   "company": "Meesho",
    "id": "Meesho:d7924eb1-301e-4098-ab7b-f3a4c92c210a",
    "title": "Group Product Manager",
    "location": "Bangalore, Karnataka, Bangalore, Karnataka",
@@ -749,6 +769,16 @@
    "posted": "2026-08-18",
    "closes": "",
    "years": 4
+  },
+  {
+   "company": "Meesho",
+   "id": "Meesho:19d34992-cc3d-4066-9de4-69c17f952ba1",
+   "title": "Senior Associate - Performance Marketing",
+   "location": "Bangalore, Karnataka, Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/meesho/19d34992-cc3d-4066-9de4-69c17f952ba1",
+   "posted": "2026-05-11",
+   "closes": "",
+   "years": 3
   },
   {
    "company": "Meesho",
@@ -982,26 +1012,6 @@
   },
   {
    "company": "ServiceNow",
-   "id": "ServiceNow:744000158441069",
-   "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
-   "location": "Bangalore, Karnataka, in",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000158441069",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "ServiceNow",
-   "id": "ServiceNow:744000158440984",
-   "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards",
-   "location": "Bangalore, Karnataka, in",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000158440984",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "ServiceNow",
    "id": "ServiceNow:744000157721999",
    "title": "Sr Staff Inbound Product Manager",
    "location": "Hyderabad, in",
@@ -1067,6 +1077,26 @@
    "location": "Bengaluru, in",
    "url": "https://jobs.smartrecruiters.com/freshworks/744000150936730",
    "posted": "2026-09-22",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "PhonePe",
+   "id": "PhonePe:1000000000005325",
+   "title": "Associate Manager, Category Management - Insurance",
+   "location": "Bengaluru, Karnataka, in",
+   "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000005325",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 2
+  },
+  {
+   "company": "PhonePe",
+   "id": "PhonePe:1000000000005302",
+   "title": "Associate Manager, Category Management - Health Insurance",
+   "location": "Bengaluru, Karnataka, in",
+   "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000005302",
+   "posted": "2026-11-02",
    "closes": "",
    "years": 3
   },
@@ -1332,6 +1362,16 @@
   },
   {
    "company": "Oracle",
+   "id": "Oracle:346181",
+   "title": "Financial Business Analyst 01\u2013 Order Management / Quote-to-Order",
+   "location": "BENGALURU, KARNATAKA, India",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346181",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Oracle",
    "id": "Oracle:346183",
    "title": "Financial Business Analyst 02\u2013 Order Management / Quote-to-Order",
    "location": "BENGALURU, KARNATAKA, India",
@@ -1352,16 +1392,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210803284",
-   "title": "Senior Product Associate",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803284",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210784365",
    "title": "Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore",
    "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
@@ -1369,6 +1399,36 @@
    "posted": "2026-08-26",
    "closes": "",
    "years": 2
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210788929",
+   "title": "Solution Analyst/ Technical Program Manager",
+   "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788929",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210803765",
+   "title": "Valuation Controller-Associate",
+   "location": "Bengaluru, Karnataka, India, Mumbai, Maharashtra, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803765",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210803766",
+   "title": "Applied AI ML Lead RISK MODELING",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803766",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 8
   },
   {
    "company": "JPMorgan Chase",
@@ -1622,16 +1682,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210765194",
-   "title": "Control Manager - Sr Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765194",
-   "posted": "2026-07-08",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210794788",
    "title": "Asset Serving Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -1822,6 +1872,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210805378",
+   "title": "Applied AI ML Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805378",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 2
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210792425",
    "title": "Tech Risk and Controls Senior Associate -  Regulatory change management (RCM)",
    "location": "Bengaluru, Karnataka, India",
@@ -1837,16 +1897,6 @@
    "location": "Bengaluru, Karnataka, India",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799199",
    "posted": "2026-10-16",
-   "closes": "",
-   "years": 4
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210703314",
-   "title": "Financial Controller - Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210703314",
-   "posted": "2026-02-10",
    "closes": "",
    "years": 4
   },
@@ -1872,6 +1922,16 @@
   },
   {
    "company": "American Express",
+   "id": "American Express:26015406",
+   "title": "Manager-Digital Product Management",
+   "location": "Bengaluru, KA, India",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015406",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 1
+  },
+  {
+   "company": "American Express",
    "id": "American Express:26013012",
    "title": "Manager-Risk Management",
    "location": "Bengaluru, KA, India",
@@ -1882,11 +1942,11 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393556950582",
-   "title": "Senior Project Manager",
-   "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556950582",
-   "posted": "2026-08-03",
+   "id": "Microsoft:1970393557040598",
+   "title": "Senior Product Manager",
+   "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+   "posted": "2026-10-16",
    "closes": "",
    "years": null
   },
@@ -1902,31 +1962,31 @@
   },
   {
    "company": "Microsoft",
+   "id": "Microsoft:1970393556950582",
+   "title": "Senior Project Manager",
+   "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556950582",
+   "posted": "2026-08-03",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557037558",
+   "title": "Responsible AI Solution Risk Assessor",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037558",
+   "posted": "2026-10-22",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
    "id": "Microsoft:1970393557042367",
    "title": "Strategic Account Technology",
    "location": "India, Haryana, Gurgaon; India, Karnataka, Bangalore; India, Maharashtra, Mumbai",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557042367",
    "posted": "2026-10-27",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393557040598",
-   "title": "Senior Product Manager",
-   "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-   "posted": "2026-10-16",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393556981490",
-   "title": "Account Technology Strategist - ITeS",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
-   "posted": "2026-09-01",
    "closes": "",
    "years": null
   },
@@ -1942,21 +2002,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557041532",
-   "title": "Sr. Strategic Account Technology Strategist - Global Accounts",
+   "id": "Microsoft:1970393556981490",
+   "title": "Sr. Account Technology Strategist - ITeS",
    "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041532",
-   "posted": "2026-10-28",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
+   "posted": "2026-09-01",
    "closes": "",
    "years": null
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557037558",
-   "title": "Responsible AI Solution Risk Assessor",
+   "id": "Microsoft:1970393557041532",
+   "title": "Sr. Strategic Account Technology Strategist - Global Accounts",
    "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557037558",
-   "posted": "2026-10-22",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041532",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -1982,21 +2042,11 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557040071",
-   "title": "Senior Product Manager",
+   "id": "Microsoft:1970393557038894",
+   "title": "Product Manager -II",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393557016561",
-   "title": "Senior Product Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
-   "posted": "2026-10-06",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
+   "posted": "2026-10-13",
    "closes": "",
    "years": null
   },
@@ -2012,11 +2062,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557038894",
-   "title": "Product Manager -II",
+   "id": "Microsoft:1970393557040071",
+   "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557038894",
-   "posted": "2026-10-13",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+   "posted": "2026-10-28",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557016561",
+   "title": "Senior Product Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016561",
+   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -2082,21 +2142,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446718894423",
-   "title": "Senior HW Program Manager",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446718894423",
-   "posted": "2026-06-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721582625",
    "title": "DDR Subsystem - Sr HW Program Manager",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446721582625",
    "posted": "2026-10-15",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446718894423",
+   "title": "Senior HW Program Manager",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446718894423",
+   "posted": "2026-06-10",
    "closes": "",
    "years": null
   },
@@ -2112,10 +2172,30 @@
   },
   {
    "company": "Qualcomm",
+   "id": "Qualcomm:446719717832",
+   "title": "Business Operations Analyst, Processor",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446719717832",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
    "id": "Qualcomm:446720725585",
    "title": "Business Operations Analyst, Processor",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446720725585",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446720810529",
+   "title": "Business Operations Analyst, Processor",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446720810529",
    "posted": "2026-11-02",
    "closes": "",
    "years": null
@@ -2192,11 +2272,21 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612556772",
-   "title": "Governance Functional Business Analyst",
-   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612556772",
-   "posted": "2026-10-29",
+   "id": "HSBC:563774611695272",
+   "title": "Senior Business Analyst - Securities Services",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774611695272",
+   "posted": "2026-07-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612411216",
+   "title": "Technical Business Analyst - User Experience Interface",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
+   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -2212,11 +2302,31 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612411216",
-   "title": "Technical Business Analyst - User Experience Interface",
+   "id": "HSBC:563774612556772",
+   "title": "Governance Functional Business Analyst",
+   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612556772",
+   "posted": "2026-10-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612318958",
+   "title": "Business Risk Project Management Office",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
-   "posted": "2026-10-06",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612318958",
+   "posted": "2026-09-22",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612467863",
+   "title": "Process Optimisation and Modeling Senior Associate",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612467863",
+   "posted": "2026-10-15",
    "closes": "",
    "years": null
   },
@@ -2322,12 +2432,82 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:62817",
+   "title": "Associate Manager - Country Regulatory Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager-Country-Regulatory-Reporting/62817-en_GB",
+   "posted": "2026-10-07",
+   "closes": "2026-11-06",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64512",
+   "title": "Associate Manager, Product Control",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager%2C-Product-Control/64512-en_GB",
+   "posted": "2026-10-16",
+   "closes": "2026-11-14",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64505",
    "title": "Associate Lead - IRRBB Reporting",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Associate-Lead-IRRBB-Reporting/64505-en_GB",
    "posted": "2026-10-23",
    "closes": "2026-11-07",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64057",
+   "title": "Senior Manager, Market Risk Management",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
+   "posted": "2026-10-20",
+   "closes": "2026-11-04",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:63438",
+   "title": "Associate Manager - Direct Tax",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager-Direct-Tax/63438-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-04",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64126",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64127",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64127-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64128",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
    "years": null
   },
   {
@@ -2439,16 +2619,6 @@
    "posted": "2026-09-07",
    "closes": "",
    "years": null
-  },
-  {
-   "company": "Licious",
-   "id": "Licious:1497",
-   "title": "Senior Commercial Associate",
-   "location": "Bengaluru",
-   "url": "https://licious.mynexthire.com/employer/jobs?src=careers&p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjE0OTcsInJlcXVlc3RlciI6eyJpZCI6IiIsImNvZGUiOiIiLCJuYW1lIjoiIn0sInBhZ2UiOiJjYXJlZXJzIiwiYnVmaWx0ZXIiOi0xLCJjdXN0b21GaWVsZHMiOnt9fQ==",
-   "posted": "2026-08-28",
-   "closes": "",
-   "years": 6
   },
   {
    "company": "Acko",
@@ -2642,6 +2812,16 @@
   },
   {
    "company": "Navi",
+   "id": "Navi:939c818b-c57c-4c26-9dea-390beabaaff1",
+   "title": "Associate Manager - Company Secretary",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://navi.turbohire.co/job/publicjobs/CI_spCmYZQvjUVHsUjM%2F%2FjzuLoLf4bc5ld_JlM0XF%2F0wZYh8NyBSvucJ2P62EdF%2F",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 1
+  },
+  {
+   "company": "Navi",
    "id": "Navi:60fc6983-1ab2-44eb-8fe6-210ee50c7db6",
    "title": "Associate Manager - Compliance",
    "location": "Bangalore, Karnataka, India",
@@ -2792,16 +2972,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10591297",
-   "title": "SDM Risk Systems, SPS Core Services",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10591297/sdm-risk-systems-sps-core-services",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10593337",
    "title": "Senior Technical Account Manager, Enterprise Support, Strategic Industries, Healthcare and Life Sciences, ES - INDIA",
    "location": "Bengaluru, Karnataka, IND",
@@ -2862,6 +3032,16 @@
   },
   {
    "company": "Amazon",
+   "id": "Amazon:10594193",
+   "title": "Capacity Intelligence Analyst, Network Strategy & Performance",
+   "location": "Hyderabad, Telangana, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10594193/capacity-intelligence-analyst-network-strategy-performance",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Amazon",
    "id": "Amazon:10585094",
    "title": "Ops Support Expert, NASC, North America Supply Chain (NASC)",
    "location": "Bengaluru, Karnataka, IND",
@@ -2887,6 +3067,16 @@
    "location": "Hyderabad, Telangana, IND",
    "url": "https://www.amazon.jobs/en/jobs/10582405/eu-fba-ops-specialist-eu-fba",
    "posted": "2026-10-19",
+   "closes": "",
+   "years": 1
+  },
+  {
+   "company": "Amazon",
+   "id": "Amazon:10589592",
+   "title": "Program Manager, Flow Control",
+   "location": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10589592/program-manager-flow-control",
+   "posted": "2026-11-02",
    "closes": "",
    "years": 1
   },
@@ -3322,16 +3512,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10573803",
-   "title": "Program Manager I, Global Transportation Services (GTS)",
-   "location": "Hyderabad, Telangana, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10573803/program-manager-i-global-transportation-services-gts",
-   "posted": "2026-10-08",
-   "closes": "",
-   "years": 2
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10571719",
    "title": "CTK Svc Associate (S)",
    "location": "Hyderabad, Telangana, IND",
@@ -3462,16 +3642,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10581101",
-   "title": "Program Manager, Amazon Now, GSF - Last Mile Program",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10581101/program-manager-amazon-now-gsf-last-mile-program",
-   "posted": "2026-10-16",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10575330",
    "title": "Program Manager, Translations, Education, and Development (TED)",
    "location": "Bengaluru, Karnataka, IND",
@@ -3567,6 +3737,16 @@
    "location": "Bengaluru, Karnataka, IND",
    "url": "https://www.amazon.jobs/en/jobs/10576800/program-manager-ii-seller-fulfilment-services",
    "posted": "2026-10-13",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Amazon",
+   "id": "Amazon:10594266",
+   "title": "Program Manager II, Supply Chain",
+   "location": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10594266/program-manager-ii-supply-chain",
+   "posted": "2026-11-02",
    "closes": "",
    "years": 3
   },
@@ -3702,6 +3882,16 @@
   },
   {
    "company": "Amazon",
+   "id": "Amazon:10579260",
+   "title": "Prod Compliance Associate Sr, Transparency",
+   "location": "Hyderabad, Telangana, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10579260/prod-compliance-associate-sr-transparency",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": 1
+  },
+  {
+   "company": "Amazon",
    "id": "Amazon:10564203",
    "title": "QAE II, Amazon Business Operations, Amazon Business Operations",
    "location": "Hyderabad, Telangana, IND",
@@ -3709,6 +3899,16 @@
    "posted": "2026-09-29",
    "closes": "",
    "years": 4
+  },
+  {
+   "company": "Amazon",
+   "id": "Amazon:10578343",
+   "title": "Business Analyst, Amazon Pay, Data Products",
+   "location": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10578343/business-analyst-amazon-pay-data-products",
+   "posted": "2026-10-14",
+   "closes": "",
+   "years": 1
   },
   {
    "company": "Amazon",
@@ -4422,6 +4622,16 @@
   },
   {
    "company": "Amazon",
+   "id": "Amazon:10551665",
+   "title": "Program Manager, Compliance, Value Commerce",
+   "location": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10551665/program-manager-compliance-value-commerce",
+   "posted": "2026-09-17",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Amazon",
    "id": "Amazon:10537138",
    "title": "Program Manager II, Transportation Long Term Capacity Planning",
    "location": "Bengaluru, Karnataka, IND",
@@ -4659,16 +4869,6 @@
    "posted": "2026-09-01",
    "closes": "",
    "years": 5
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10529756",
-   "title": "Risk Manager-II, Controllership",
-   "location": "Hyderabad, Telangana, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10529756/risk-manager-ii-controllership",
-   "posted": "2026-09-04",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Amazon",
@@ -5912,16 +6112,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10432649",
-   "title": "Sr. Program Manager, Inventory Optimization Program",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10432649/sr-program-manager-inventory-optimization-program",
-   "posted": "2026-05-28",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10442492",
    "title": "Risk Manager II, Selling Partner Identity Verification (SPIV)",
    "location": "Hyderabad, Telangana, IND",
@@ -6232,20 +6422,20 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:186705_GS_MID_CAREER",
-   "title": "Global Banking & Markets Operations-TxB Ops Enablement-Associate-Bengaluru",
+   "id": "Goldman Sachs:a9dd85ce-d5ef-4abc-ab2d-bede931a6745",
+   "title": "Asset & Wealth Management , Private Bank Lending, Underwriting, Associate, Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/186705",
+   "url": "https://higher.gs.com/roles/a9dd85ce-d5ef-4abc-ab2d-bede931a6745",
    "posted": "",
    "closes": "",
    "years": null
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:a9dd85ce-d5ef-4abc-ab2d-bede931a6745",
-   "title": "Asset & Wealth Management , Private Bank Lending, Underwriting, Associate, Bengaluru",
+   "id": "Goldman Sachs:186705_GS_MID_CAREER",
+   "title": "Global Banking & Markets Operations-TxB Ops Enablement-Associate-Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/a9dd85ce-d5ef-4abc-ab2d-bede931a6745",
+   "url": "https://higher.gs.com/roles/186705",
    "posted": "",
    "closes": "",
    "years": null
@@ -6372,16 +6562,6 @@
   },
   {
    "company": "Google",
-   "id": "Google:80550414641963718",
-   "title": "Technical Program Manager Pixel Enterprise",
-   "location": "Bengaluru (search)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/80550414641963718-technical-program-manager-pixel-enterprise",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Google",
    "id": "Google:118369092036895430",
    "title": "Strategic Partner Manager Pixel For Business Devices And Services",
    "location": "Bengaluru (search)",
@@ -6452,6 +6632,16 @@
   },
   {
    "company": "Google",
+   "id": "Google:102779740242223814",
+   "title": "Technical Program Manager Product Ops Digitization",
+   "location": "Bengaluru (search)",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/102779740242223814-technical-program-manager-product-ops-digitization",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Google",
    "id": "Google:76482805734744774",
    "title": "Senior Product Manager Geo Local Data Next Billion Users",
    "location": "Bengaluru (search)",
@@ -6512,10 +6702,30 @@
   },
   {
    "company": "Google",
+   "id": "Google:126521128943264454",
+   "title": "Technical Program Manager Google Enterprise Networks Workspace Delivery",
+   "location": "Bengaluru (search)",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/126521128943264454-technical-program-manager-google-enterprise-networks-workspace-delivery",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Google",
    "id": "Google:85550744416985798",
    "title": "Technical Program Manager Ai Products Ism Product Operations",
    "location": "Bengaluru (search)",
    "url": "https://www.google.com/about/careers/applications/jobs/results/85550744416985798-technical-program-manager-ai-products-ism-product-operations",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Google",
+   "id": "Google:135155409877902022",
+   "title": "Technical Program Manager Dcnet Capacity Delivery",
+   "location": "Bengaluru (search)",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/135155409877902022-technical-program-manager-dcnet-capacity-delivery",
    "posted": "",
    "closes": "",
    "years": null
@@ -6562,30 +6772,10 @@
   },
   {
    "company": "Google",
-   "id": "Google:107501710234002118",
-   "title": "Technical Program Manager Cloud Storage",
-   "location": "Bengaluru (search)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/107501710234002118-technical-program-manager-cloud-storage",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Google",
    "id": "Google:115864078936613574",
    "title": "Product Manager Google Cloud Business Platform",
    "location": "Bengaluru (search)",
    "url": "https://www.google.com/about/careers/applications/jobs/results/115864078936613574-product-manager-google-cloud-business-platform",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Google",
-   "id": "Google:120881375174632134",
-   "title": "Account Strategist Mid Market Sales Google Customer Solutions",
-   "location": "Bengaluru (search)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/120881375174632134-account-strategist-mid-market-sales-google-customer-solutions",
    "posted": "",
    "closes": "",
    "years": null
@@ -6642,16 +6832,6 @@
   },
   {
    "company": "Google",
-   "id": "Google:81207405051814598",
-   "title": "Strategy And Operations Lead Gtech Ads Solutions",
-   "location": "Hyderabad (search)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/81207405051814598-strategy-and-operations-lead-gtech-ads-solutions",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Google",
    "id": "Google:116457760723215046",
    "title": "Ai Strategist",
    "location": "Hyderabad (search)",
@@ -6676,16 +6856,6 @@
    "title": "Senior Technical Program Manager Google Data Centers",
    "location": "Hyderabad (search)",
    "url": "https://www.google.com/about/careers/applications/jobs/results/82537748623172294-senior-technical-program-manager-google-data-centers",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Google",
-   "id": "Google:126521128943264454",
-   "title": "Technical Program Manager Google Enterprise Networks Workspace Delivery",
-   "location": "Hyderabad (search)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/126521128943264454-technical-program-manager-google-enterprise-networks-workspace-delivery",
    "posted": "",
    "closes": "",
    "years": null
@@ -6822,6 +6992,36 @@
   },
   {
    "company": "Tesco",
+   "id": "Tesco:208630",
+   "title": "Associate-Buying Assistant",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Buying-Assistant/208630",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
+   "id": "Tesco:207820",
+   "title": "Associate-Ranging Specialist",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Ranging-Specialist/207820",
+   "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
+   "id": "Tesco:154247",
+   "title": "Product Manager - Fusion",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Product-Manager/154247",
+   "posted": "2026-07-28",
+   "closes": "",
+   "years": 8
+  },
+  {
+   "company": "Tesco",
    "id": "Tesco:190974",
    "title": "Technical Programme Manager",
    "location": "Bengaluru, Karnataka, India",
@@ -6861,7 +7061,7 @@
    null
   ],
   "Wells Fargo": [
-   1,
+   4,
    null
   ],
   "Citi": [
@@ -6881,7 +7081,7 @@
    null
   ],
   "Cisco": [
-   11,
+   10,
    null
   ],
   "Visa": [
@@ -6889,7 +7089,7 @@
    null
   ],
   "Lowe's": [
-   4,
+   3,
    null
   ],
   "BrowserStack": [
@@ -6929,7 +7129,7 @@
    null
   ],
   "Meesho": [
-   9,
+   11,
    null
   ],
   "Paytm": [
@@ -6937,7 +7137,7 @@
    null
   ],
   "ServiceNow": [
-   8,
+   6,
    null
   ],
   "Swiggy": [
@@ -6953,19 +7153,19 @@
    null
   ],
   "PhonePe": [
-   23,
+   25,
    null
   ],
   "Oracle": [
-   5,
+   6,
    null
   ],
   "JPMorgan Chase": [
-   55,
+   56,
    null
   ],
   "American Express": [
-   1,
+   2,
    null
   ],
   "Microsoft": [
@@ -6973,11 +7173,11 @@
    null
   ],
   "Qualcomm": [
-   15,
+   17,
    null
   ],
   "HSBC": [
-   3,
+   6,
    null
   ],
   "Atlassian": [
@@ -6993,7 +7193,7 @@
    null
   ],
   "Standard Chartered": [
-   3,
+   10,
    null
   ],
   "Juspay": [
@@ -7009,7 +7209,7 @@
    null
   ],
   "Licious": [
-   1,
+   0,
    null
   ],
   "ShareChat": [
@@ -7025,7 +7225,7 @@
    null
   ],
   "Navi": [
-   15,
+   16,
    null
   ],
   "Jupiter": [
@@ -7033,7 +7233,7 @@
    null
   ],
   "Amazon": [
-   341,
+   342,
    null
   ],
   "Goldman Sachs": [
@@ -7041,7 +7241,7 @@
    null
   ],
   "Google": [
-   41,
+   39,
    null
   ],
   "D. E. Shaw": [
@@ -7049,12 +7249,46 @@
    null
   ],
   "Tesco": [
-   2,
+   5,
    null
   ]
  },
  "latest": [
-  "Qualcomm:446721156193"
+  "Wells Fargo:/job/Bengaluru-India/Trade-and-Transaction-Reporting-Associate_R-564984-1",
+  "Wells Fargo:/job/Bengaluru-India/Senior-Product-Manager_R-575518-1",
+  "Wells Fargo:/job/Bengaluru-India/Commercial-Loan-Closing-Associate_R-579873",
+  "Razorpay:4749803005",
+  "Meesho:f8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
+  "Meesho:19d34992-cc3d-4066-9de4-69c17f952ba1",
+  "PhonePe:1000000000005325",
+  "PhonePe:1000000000005302",
+  "Oracle:346181",
+  "JPMorgan Chase:210788929",
+  "JPMorgan Chase:210803765",
+  "JPMorgan Chase:210803766",
+  "JPMorgan Chase:210805378",
+  "American Express:26015406",
+  "Qualcomm:446719717832",
+  "Qualcomm:446720810529",
+  "HSBC:563774611695272",
+  "HSBC:563774612318958",
+  "HSBC:563774612467863",
+  "Standard Chartered:63438",
+  "Standard Chartered:64126",
+  "Standard Chartered:64127",
+  "Standard Chartered:64128",
+  "Navi:939c818b-c57c-4c26-9dea-390beabaaff1",
+  "Amazon:10594193",
+  "Amazon:10589592",
+  "Amazon:10594266",
+  "Amazon:10579260",
+  "Amazon:10578343",
+  "Amazon:10551665",
+  "Google:102779740242223814",
+  "Google:135155409877902022",
+  "Tesco:208630",
+  "Tesco:207820",
+  "Tesco:154247"
  ],
- "latest_at": "02 Nov, 03:50 AM"
+ "latest_at": "02 Nov, 02:37 PM"
 }
