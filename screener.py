@@ -70,22 +70,53 @@ WORKDAY = [  # name, tenant, wdN, site
     ("BrowserStack", "browserstack", "wd3", "External"),
     ("BlackRock", "blackrock", "wd1", "BlackRock_Professional"),
     ("Postman", "postman", "wd108", "careers"),
+    ("Nvidia", "nvidia", "wd5", "NVIDIAExternalCareerSite"),
+    ("Intel", "intel", "wd1", "External"),
+    ("Expedia", "expedia", "wd108", "Search"),
+    ("Autodesk", "autodesk", "wd1", "Ext"),
+    ("Sprinklr", "sprinklr", "wd1", "careers"),
+    ("Samsung", "sec", "wd3", "Samsung_Careers"),
+    ("Philips", "philips", "wd3", "jobs-and-careers"),
+    ("Shell", "shell", "wd3", "ShellCareers"),
+    ("Nike", "nike", "wd1", "nke"),
+    ("Fidelity", "fmr", "wd1", "FidelityCareers"),
+    ("State Street", "statestreet", "wd1", "Global"),
+    ("Northern Trust", "ntrs", "wd1", "northerntrust"),
+    ("Invesco", "invesco", "wd1", "IVZ"),
+    ("FactSet", "factset", "wd108", "FactSetCareers"),
+    ("Nasdaq", "nasdaq", "wd1", "Global_External_Site"),
+    ("Broadridge", "broadridge", "wd5", "Careers"),
+    ("SS&C", "ssctech", "wd1", "SSCTechnologies"),
+    ("Millennium", "mlp", "wd5", "mlpcareers"),
 ]
 GREENHOUSE = [("Arcesium", "arcesiumllc"), ("Razorpay", "razorpaysoftwareprivatelimited"),
-              ("Groww", "groww"), ("Slice", "slice"), ("InMobi", "inmobi")]
-LEVER = [("CRED", "cred"), ("Meesho", "meesho"), ("Paytm", "paytm")]
+              ("Groww", "groww"), ("Slice", "slice"), ("InMobi", "inmobi"),
+              ("Stripe", "stripe"), ("Databricks", "databricks"), ("Okta", "okta"), ("Twilio", "twilio"),
+              ("Airbnb", "airbnb"), ("Agoda", "agoda"), ("AQR", "aqr"), ("WorldQuant", "worldquant"),
+              ("Squarepoint", "squarepointcapital")]
+LEVER = [("CRED", "cred"), ("Meesho", "meesho"), ("Paytm", "paytm"), ("Mindtickle", "mindtickle"), ("Fi Money", "fi"),
+         ("LinkedIn", "linkedin")]
 SMARTRECRUITERS = [("ServiceNow", "servicenow"), ("Swiggy", "swiggy"),
-                   ("Freshworks", "freshworks"), ("Unacademy", "unacademy"), ("PhonePe", "PHONEPELIMITED")]
+                   ("Freshworks", "freshworks"), ("Unacademy", "unacademy"), ("PhonePe", "PHONEPELIMITED"),
+                   ("Lendingkart", "lendingkart"), ("ixigo", "ixigo"), ("Whatfix", "whatfix"), ("Bosch", "boschgroup")]
+ASHBY = [("Snowflake", "snowflake"), ("Atlan", "atlan")]
 ORACLE = [("Oracle", "eeho.fa.us2.oraclecloud.com", "CX_45001"),
           ("JPMorgan Chase", "jpmc.fa.oraclecloud.com", "CX_1001"),
           ("American Express", "egug.fa.us2.oraclecloud.com", "CX_1")]
 
 NOT_COVERED = [
     "Rapido, Zepto, upGrad, Spinny, Ather, SAP Labs, Uber (sites block automated access)",
+    "Perfios, Moneyview, Digit Insurance, BigBasket, Darwinbox (Darwinbox careers sites block automated access)",
     "Zomato, Chargebee, Dream11 (no public job listings; referrals or LinkedIn only)",
     "Ola, Zerodha (careers site lists 0 openings right now)",
     "Flipkart, Nykaa, Udaan, Khatabook, OfBusiness (careers pages broken, missing or placeholder)",
-    "Walmart Global Tech, UBS, LinkedIn (not worked out yet)",
+    "Pine Labs, BharatPe, PayU, Zeta, M2P, KreditBee, INDmoney, Smallcase, PolicyBazaar, CoinDCX, CoinSwitch, "
+    "Myntra, Blinkit, Delhivery, Shiprocket, Purplle, Honasa, boAt, MakeMyTrip, Cleartrip, OYO, PhysicsWallah, "
+    "Vedantu, Innovaccer, Icertis, Zetwerk, Moglix, Infra.Market, Tata Digital, Jio (no readable job feed found)",
+    "Meta, Netflix, IBM, Dell, AMD, Booking.com, Palo Alto Networks, Nutanix, DocuSign, ThoughtSpot, Rakuten, "
+    "Siemens, Walmart Global Tech (no readable job feed found)",
+    "Bank of America, UBS, Societe Generale, BNP Paribas, HDFC Bank, ICICI Bank, Axis Bank, Kotak, MSCI, Qube, "
+    "Addepar (no readable job feed found)",
     "Zoho (only support/sales roles listed)",
 ]
 
@@ -258,6 +289,29 @@ def smartrecruiters(name, slug):
                             (p.get("releasedDate") or "")[:10], desc))
         offset += 100
         if offset >= d.get("totalFound", 0):
+            break
+    return jobs
+
+
+def ashby(name, board):
+    jobs = []
+    for j in http(f"https://api.ashbyhq.com/posting-api/job-board/{board}").get("jobs", []):
+        loc = "; ".join([j.get("location") or ""] + [l.get("location", "") for l in j.get("secondaryLocations") or []])
+        if in_city(loc) and title_ok(j["title"]):
+            jobs.append(job(name, j["id"], j["title"], loc, j["jobUrl"], (j.get("publishedAt") or "")[:10],
+                            j.get("descriptionPlain")))
+    return jobs
+
+
+def rippling(name, board):
+    jobs = []
+    for page in range(100):
+        d = http(f"https://ats.rippling.com/api/v2/board/{board}/jobs?page={page}&pageSize=100")
+        for j in d.get("items", []):
+            loc = "; ".join(l.get("name", "") for l in j.get("locations") or [])
+            if in_city(loc) and title_ok(j["name"]):
+                jobs.append(job(name, j["id"], j["name"], loc, j["url"]))
+        if page + 1 >= d.get("totalPages", 0):
             break
     return jobs
 
@@ -597,7 +651,9 @@ def kula(name, account):
                     f"&type=ats_job_post.index&items=99").get("data") or []
         for r in rows:
             aj = r.get("ats_job") or {}
-            loc = "; ".join(o.get("name", "") for o in aj.get("offices") or [])
+            # the office name can be just the company, and the city a locality such as Bellandur
+            loc = "; ".join((o.get("location") or o.get("name", "")) + (", Bengaluru" if o.get("state") == "Karnataka" else "")
+                            for o in aj.get("offices") or [])
             if in_city(loc) and title_ok(r["title"]):
                 jobs.append(job(name, r["id"], r["title"], loc, f"https://careers.kula.ai/{account}/{r['id']}",
                                 (r.get("launch_at") or "")[:10], strip_html(aj.get("job_description")),
@@ -659,6 +715,7 @@ def sources():
     s += [(n, lambda n=n, b=b: greenhouse(n, b)) for n, b in GREENHOUSE]
     s += [(n, lambda n=n, b=b: lever(n, b)) for n, b in LEVER]
     s += [(n, lambda n=n, b=b: smartrecruiters(n, b)) for n, b in SMARTRECRUITERS]
+    s += [(n, lambda n=n, b=b: ashby(n, b)) for n, b in ASHBY]
     s += [(a[0], lambda a=a: oracle(*a)) for a in ORACLE]
     s += [("Microsoft", lambda: pcsx("Microsoft", "apply.careers.microsoft.com", "microsoft.com")),
           ("Qualcomm", lambda: pcsx("Qualcomm", "careers.qualcomm.com", "qualcomm.com")),
@@ -666,6 +723,7 @@ def sources():
           ("Standard Chartered", standard_chartered), ("Juspay", juspay), ("Lenskart", lenskart),
           ("Urban Company", urban_company), ("Licious", lambda: mynexthire("Licious", "licious")),
           ("ShareChat", lambda: mynexthire("ShareChat", "sharechat")), ("Acko", lambda: kula("Acko", "acko")),
+          ("Cashfree", lambda: kula("Cashfree", "cashfree")), ("Rippling", lambda: rippling("Rippling", "rippling")),
           ("Cars24", cars24), ("Navi", lambda: turbohire("Navi", "navi", "3e818601-0baa-429c-b6f8-4b21903ae0e6")),
           ("Jupiter", lambda: keka("Jupiter", "jupiter", "b5279857-cf81-4dde-a215-fc48957ee2b5"))]
     s += [("Amazon", amazon), ("Goldman Sachs", goldman),
