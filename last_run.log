@@ -1,56 +1,94 @@
-Run 2026-11-03 00:30 took 1082s; 702 matches, 9 new this run
+Run 2026-11-03 11:05 took 1585s; 853 matches, 168 new this run
+  AQR: 6 jobs
   Acko: 5 jobs
   Adobe: 3 jobs
-  Amazon: 344 jobs
-  American Express: 3 jobs
+  Agoda: 0 jobs
+  Airbnb: 0 jobs
+  Amazon: 382 jobs
+  American Express: 4 jobs
   Apple: 6 jobs
   Arcesium: 6 jobs
+  Atlan: 0 jobs
   Atlassian: 1 jobs
+  Autodesk: 0 jobs
   Barclays: 2 jobs
   BlackRock: 1 jobs
+  Bosch: 28 jobs
+  Broadridge: 3 jobs
   BrowserStack: 0 jobs
   CRED: 3 jobs
   Cars24: 10 jobs
+  Cashfree: 5 jobs
   Cisco: 10 jobs
   Citi: 2 jobs
   D. E. Shaw: 8 jobs
+  Databricks: 2 jobs
   Deutsche Bank: 2 jobs
+  Expedia: 1 jobs
+  FactSet: 1 jobs
+  Fi Money: 0 jobs
+  Fidelity: 1 jobs
   Freshworks: 1 jobs
-  Goldman Sachs: 14 jobs
+  Goldman Sachs: 16 jobs
   Google: 38 jobs
   Groww: 1 jobs
   HSBC: 5 jobs
   InMobi: 7 jobs
+  Intel: 0 jobs
   Intuit: 3 jobs
-  JPMorgan Chase: 57 jobs
+  Invesco: 7 jobs
+  JPMorgan Chase: 56 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
+  Lendingkart: 0 jobs
   Lenskart: 2 jobs
   Licious: 0 jobs
-  Lowe's: 3 jobs
+  LinkedIn: 0 jobs
+  Lowe's: 4 jobs
   Mastercard: 0 jobs
   Meesho: 11 jobs
-  Microsoft: 16 jobs
+  Microsoft: 18 jobs
+  Millennium: 0 jobs
+  Mindtickle: 1 jobs
   Morgan Stanley: 2 jobs
-  Navi: 16 jobs
+  Nasdaq: 4 jobs
+  Navi: 17 jobs
+  Nike: 0 jobs
+  Northern Trust: 9 jobs
   Novartis: 5 jobs
+  Nvidia: 1 jobs
+  Okta: 4 jobs
   Oracle: 6 jobs
   PayPal: 2 jobs
   Paytm: 23 jobs
-  PhonePe: 25 jobs
+  Philips: 5 jobs
+  PhonePe: 26 jobs
   Postman: 0 jobs
-  Qualcomm: 17 jobs
-  Razorpay: 8 jobs
+  Qualcomm: 16 jobs
+  Razorpay: 7 jobs
+  Rippling: 11 jobs
+  SS&C: 2 jobs
   Salesforce: 5 jobs
+  Samsung: 0 jobs
   ServiceNow: 7 jobs
   ShareChat: 0 jobs
+  Shell: 1 jobs
   Slice: 0 jobs
-  Standard Chartered: 7 jobs
+  Snowflake: 0 jobs
+  Sprinklr: 0 jobs
+  Squarepoint: 0 jobs
+  Standard Chartered: 11 jobs
+  State Street: 13 jobs
+  Stripe: 8 jobs
   Swiggy: 4 jobs
-  Target: 2 jobs
-  Tesco: 5 jobs
+  Target: 3 jobs
+  Tesco: 6 jobs
+  Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
-  Visa: 7 jobs
-  Wells Fargo: 3 jobs
+  Visa: 8 jobs
+  Wells Fargo: 4 jobs
+  Whatfix: 0 jobs
   Workday: 0 jobs
+  WorldQuant: 0 jobs
+  ixigo: 0 jobs
