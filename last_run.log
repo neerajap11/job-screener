@@ -1,17 +1,17 @@
-Run 2026-11-04 13:48 took 1128s; 872 matches, 39 new this run
+Run 2026-11-04 23:24 took 1458s; 868 matches, 8 new this run
   AQR: 6 jobs
   Acko: 5 jobs
   Adobe: 3 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 378 jobs
+  Amazon: 379 jobs
   American Express: 4 jobs
   Apple: 6 jobs
   Arcesium: 5 jobs
   Atlan: 0 jobs
   Atlassian: 1 jobs
   Autodesk: 0 jobs
-  Barclays: 2 jobs
+  Barclays: 1 jobs
   BlackRock: 1 jobs
   Bosch: 28 jobs
   Broadridge: 3 jobs
@@ -30,9 +30,9 @@ Run 2026-11-04 13:48 took 1128s; 872 matches, 39 new this run
   Fidelity: 1 jobs
   Freshworks: 1 jobs
   Goldman Sachs: 18 jobs
-  Google: 38 jobs
+  Google: 39 jobs
   Groww: 1 jobs
-  HSBC: 8 jobs
+  HSBC: 6 jobs
   InMobi: 6 jobs
   Intel: 0 jobs
   Intuit: 3 jobs
@@ -47,7 +47,7 @@ Run 2026-11-04 13:48 took 1128s; 872 matches, 39 new this run
   Lowe's: 5 jobs
   Mastercard: 0 jobs
   Meesho: 11 jobs
-  Microsoft: 19 jobs
+  Microsoft: 18 jobs
   Millennium: 0 jobs
   Mindtickle: 1 jobs
   Morgan Stanley: 2 jobs
@@ -55,10 +55,10 @@ Run 2026-11-04 13:48 took 1128s; 872 matches, 39 new this run
   Navi: 18 jobs
   Nike: 0 jobs
   Northern Trust: 9 jobs
-  Novartis: 5 jobs
+  Novartis: 6 jobs
   Nvidia: 1 jobs
   Okta: 4 jobs
-  Oracle: 8 jobs
+  Oracle: 9 jobs
   PayPal: 2 jobs
   Paytm: 23 jobs
   Philips: 5 jobs
@@ -67,7 +67,7 @@ Run 2026-11-04 13:48 took 1128s; 872 matches, 39 new this run
   Qualcomm: 16 jobs
   Razorpay: 8 jobs
   Rippling: 11 jobs
-  SS&C: 3 jobs
+  SS&C: 2 jobs
   Salesforce: 6 jobs
   Samsung: 0 jobs
   ServiceNow: 7 jobs
@@ -77,17 +77,17 @@ Run 2026-11-04 13:48 took 1128s; 872 matches, 39 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 11 jobs
-  State Street: 12 jobs
+  Standard Chartered: 9 jobs
+  State Street: 11 jobs
   Stripe: 8 jobs
   Swiggy: 7 jobs
-  Target: 5 jobs
-  Tesco: 5 jobs
+  Target: 6 jobs
+  Tesco: 6 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 5 jobs
-  Wells Fargo: 9 jobs
+  Wells Fargo: 7 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
