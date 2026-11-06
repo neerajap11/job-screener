@@ -2522,6 +2522,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210805734",
+   "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805734",
+   "posted": "2026-11-05",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210803765",
    "title": "Valuation Controller-Associate",
    "location": "Bengaluru, Karnataka, India, Mumbai, Maharashtra, India",
@@ -2689,16 +2699,6 @@
    "posted": "2026-04-24",
    "closes": "",
    "years": 2
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210805734",
-   "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805734",
-   "posted": "2026-11-05",
-   "closes": "",
-   "years": 3
   },
   {
    "company": "JPMorgan Chase",
@@ -3252,16 +3252,6 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612556635",
-   "title": "Climate risk Reporting",
-   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612556635",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612591234",
    "title": "Tech Product Owner / Consultant Specialist",
    "location": "Bangalore, Karnataka, India; Pune, Maharashtra, India; Hyderabad, Telangana, India",
@@ -3292,21 +3282,31 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612386913",
-   "title": "Associate Balance Sheet Steering and Optimisation",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
-   "posted": "2026-10-01",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612437134",
    "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
    "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
    "posted": "2026-10-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612556635",
+   "title": "Climate risk Reporting",
+   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612556635",
+   "posted": "2026-10-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612386913",
+   "title": "Associate Balance Sheet Steering and Optimisation",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
+   "posted": "2026-10-01",
    "closes": "",
    "years": null
   },
@@ -3422,6 +3422,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:64127",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64127-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64128",
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
@@ -3442,6 +3452,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:64505",
+   "title": "Associate Lead - IRRBB Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Lead-IRRBB-Reporting/64505-en_GB",
+   "posted": "2026-10-23",
+   "closes": "2026-11-07",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:63210",
    "title": "Senior Manager, OTCR Risk Reporting",
    "location": "Bangalore, IND ",
@@ -3452,22 +3472,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65113",
-   "title": "Manager Strategy & Governance",
+   "id": "Standard Chartered:54503",
+   "title": "Product Specialist- WalkMe",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Manager-Strategy-&amp;-Governance/65113-en_GB",
+   "url": "https://jobs.standardchartered.com/job/Product-Specialist-WalkMe/54503-en_GB",
    "posted": "2026-11-05",
-   "closes": "2026-11-13",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:62910",
-   "title": "Associate Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/62910-en_GB",
-   "posted": "2026-11-06",
-   "closes": "2026-11-13",
+   "closes": "2026-11-12",
    "years": null
   },
   {
@@ -3478,6 +3488,16 @@
    "url": "https://jobs.standardchartered.com/job/Regulatory-Conduct-Risk-Governance-Lead/65358-en_GB",
    "posted": "2026-11-06",
    "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:62910",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/62910-en_GB",
+   "posted": "2026-11-06",
+   "closes": "2026-11-13",
    "years": null
   },
   {
@@ -7902,16 +7922,6 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187271_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187271",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
    "id": "Goldman Sachs:186705_GS_MID_CAREER",
    "title": "Global Banking & Markets Operations-TxB Ops Enablement-Associate-Bengaluru",
    "location": "Bengaluru",
@@ -7942,10 +7952,10 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188008_GS_MID_CAREER",
-   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "id": "Goldman Sachs:187271_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188008",
+   "url": "https://higher.gs.com/roles/187271",
    "posted": "",
    "closes": "",
    "years": null
@@ -7956,6 +7966,16 @@
    "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/187896",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:188008_GS_MID_CAREER",
+   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/188008",
    "posted": "",
    "closes": "",
    "years": null
@@ -8492,16 +8512,6 @@
   },
   {
    "company": "Tesco",
-   "id": "Tesco:200938",
-   "title": "Associate-Digital Transformation",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Digital-Transformation/200938",
-   "posted": "2026-09-10",
-   "closes": "",
-   "years": 1
-  },
-  {
-   "company": "Tesco",
    "id": "Tesco:218928",
    "title": "Technical Programme Manager Tagetik SaaS Platform",
    "location": "Bengaluru, Karnataka, India",
@@ -8509,6 +8519,16 @@
    "posted": "2026-11-06",
    "closes": "",
    "years": null
+  },
+  {
+   "company": "Tesco",
+   "id": "Tesco:200938",
+   "title": "Associate-Digital Transformation",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Digital-Transformation/200938",
+   "posted": "2026-09-10",
+   "closes": "",
+   "years": 1
   },
   {
    "company": "Tesco",
@@ -8857,7 +8877,7 @@
    null
   ],
   "Standard Chartered": [
-   12,
+   14,
    null
   ],
   "Juspay": [
