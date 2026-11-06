@@ -1,12 +1,12 @@
-Run 2026-11-06 10:55 took 1357s; 857 matches, 16 new this run
+Run 2026-11-06 13:48 took 1248s; 853 matches, 7 new this run
   AQR: 6 jobs
   Acko: 5 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 370 jobs
+  Amazon: 367 jobs
   American Express: 4 jobs
-  Apple: 6 jobs
+  Apple: 0 jobs  ERROR JSONDecodeError: Expecting value: line 1 column 1 (char 0)
   Arcesium: 5 jobs
   Atlan: 0 jobs
   Atlassian: 1 jobs
@@ -23,13 +23,13 @@ Run 2026-11-06 10:55 took 1357s; 857 matches, 16 new this run
   Citi: 2 jobs
   D. E. Shaw: 8 jobs
   Databricks: 2 jobs
-  Deutsche Bank: 1 jobs
+  Deutsche Bank: 2 jobs
   Expedia: 1 jobs
   FactSet: 2 jobs
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 1 jobs
-  Goldman Sachs: 17 jobs
+  Goldman Sachs: 18 jobs
   Google: 40 jobs
   Groww: 1 jobs
   HSBC: 11 jobs
@@ -37,7 +37,7 @@ Run 2026-11-06 10:55 took 1357s; 857 matches, 16 new this run
   Intel: 0 jobs
   Intuit: 3 jobs
   Invesco: 9 jobs
-  JPMorgan Chase: 51 jobs
+  JPMorgan Chase: 52 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
   Lendingkart: 0 jobs
@@ -47,14 +47,14 @@ Run 2026-11-06 10:55 took 1357s; 857 matches, 16 new this run
   Lowe's: 6 jobs
   Mastercard: 0 jobs
   Meesho: 11 jobs
-  Microsoft: 15 jobs
+  Microsoft: 14 jobs
   Millennium: 0 jobs
   Mindtickle: 1 jobs
   Morgan Stanley: 2 jobs
   Nasdaq: 4 jobs
   Navi: 19 jobs
   Nike: 0 jobs
-  Northern Trust: 11 jobs
+  Northern Trust: 12 jobs
   Novartis: 6 jobs
   Nvidia: 1 jobs
   Okta: 4 jobs
@@ -77,7 +77,7 @@ Run 2026-11-06 10:55 took 1357s; 857 matches, 16 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 11 jobs
+  Standard Chartered: 13 jobs
   State Street: 11 jobs
   Stripe: 7 jobs
   Swiggy: 7 jobs
