@@ -1262,21 +1262,21 @@
   },
   {
    "company": "Stripe",
-   "id": "Stripe:7813411",
-   "title": "Strategy and Analytics Business Partner",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=7813411",
-   "posted": "2026-04-30",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Stripe",
    "id": "Stripe:8245230",
    "title": "Strategy and Analytics Business Partner",
    "location": "Bangalore",
    "url": "https://stripe.com/jobs/search?gh_jid=8245230",
    "posted": "2026-10-13",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Stripe",
+   "id": "Stripe:7813411",
+   "title": "Strategy and Analytics Business Partner",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+   "posted": "2026-04-30",
    "closes": "",
    "years": 3
   },
@@ -2492,16 +2492,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210799688",
-   "title": "Agility Senior Associate - AI Enablement",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799688",
-   "posted": "2026-11-03",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210784011",
    "title": "Valuation Control - Associate",
    "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India",
@@ -2532,6 +2522,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210799688",
+   "title": "Agility Senior Associate - AI Enablement",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799688",
+   "posted": "2026-11-03",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210803765",
    "title": "Valuation Controller-Associate",
    "location": "Bengaluru, Karnataka, India, Mumbai, Maharashtra, India",
@@ -2549,26 +2549,6 @@
    "posted": "2026-11-02",
    "closes": "",
    "years": 8
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210782810",
-   "title": "Associate - Entity Controller",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782810",
-   "posted": "2026-10-30",
-   "closes": "",
-   "years": 6
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210799593",
-   "title": "Associate - Analytics Solutions",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799593",
-   "posted": "2026-10-23",
-   "closes": "",
-   "years": 3
   },
   {
    "company": "JPMorgan Chase",
@@ -2652,13 +2632,13 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210801311",
-   "title": "Chief Data Office - Records Retention & Destruction - Associate",
+   "id": "JPMorgan Chase:210782810",
+   "title": "Associate - Entity Controller",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801311",
-   "posted": "2026-10-23",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782810",
+   "posted": "2026-10-30",
    "closes": "",
-   "years": null
+   "years": 6
   },
   {
    "company": "JPMorgan Chase",
@@ -2749,6 +2729,16 @@
    "posted": "2026-10-21",
    "closes": "",
    "years": null
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210799593",
+   "title": "Associate - Analytics Solutions",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799593",
+   "posted": "2026-10-23",
+   "closes": "",
+   "years": 3
   },
   {
    "company": "JPMorgan Chase",
@@ -2867,6 +2857,16 @@
    "location": "Bengaluru, Karnataka, India",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788295",
    "posted": "2026-09-15",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210801311",
+   "title": "Chief Data Office - Records Retention & Destruction - Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801311",
+   "posted": "2026-10-23",
    "closes": "",
    "years": null
   },
@@ -3052,21 +3052,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393556981490",
-   "title": "Sr. Account Technology Strategist - ITeS",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
-   "posted": "2026-09-01",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557007321",
    "title": "Sr. Strategic Account Technologist - ITeS",
    "location": "India, Karnataka, Bangalore",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557007321",
    "posted": "2026-09-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393556981490",
+   "title": "Sr. Account Technology Strategist - ITeS",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
+   "posted": "2026-09-01",
    "closes": "",
    "years": null
   },
@@ -3252,6 +3252,26 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774612556635",
+   "title": "Climate risk Reporting",
+   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612556635",
+   "posted": "2026-10-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612386913",
+   "title": "Associate Balance Sheet Steering and Optimisation",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
+   "posted": "2026-10-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612591234",
    "title": "Tech Product Owner / Consultant Specialist",
    "location": "Bangalore, Karnataka, India; Pune, Maharashtra, India; Hyderabad, Telangana, India",
@@ -3287,26 +3307,6 @@
    "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
    "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612556635",
-   "title": "Climate risk Reporting",
-   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612556635",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612386913",
-   "title": "Associate Balance Sheet Steering and Optimisation",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
-   "posted": "2026-10-01",
    "closes": "",
    "years": null
   },
@@ -3422,6 +3422,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:64126",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64127",
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
@@ -3436,16 +3446,6 @@
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
-   "posted": "2026-11-02",
-   "closes": "2026-11-16",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:64126",
-   "title": "Associate Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
    "posted": "2026-11-02",
    "closes": "2026-11-16",
    "years": null
@@ -3512,22 +3512,22 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65458",
-   "title": "Manager, Risk Management - AI(India/ Malaysia)",
-   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
-   "posted": "2026-11-03",
-   "closes": "2026-11-17",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:54620",
    "title": "Senior Manager, Credit Risk and Assurance - Bangalore / Malaysia",
    "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Credit-Risk-and-Assurance-Bangalore-Malaysia/54620-en_GB",
    "posted": "2026-11-05",
    "closes": "2026-11-09",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:65458",
+   "title": "Manager, Risk Management - AI(India/ Malaysia)",
+   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
+   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
+   "posted": "2026-11-03",
+   "closes": "2026-11-17",
    "years": null
   },
   {
@@ -8472,31 +8472,11 @@
   },
   {
    "company": "Tesco",
-   "id": "Tesco:212819",
-   "title": "Manager-People Risk &Controls",
+   "id": "Tesco:218928",
+   "title": "Technical Programme Manager Tagetik SaaS Platform",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Manager-People-Risk-Controls/212819",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:218125",
-   "title": "Associate - Property Delivery Planning",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Property-Delivery-Planning/218125",
-   "posted": "2026-11-04",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:217177",
-   "title": "Associate - Property Delivery Planning",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Property-Delivery-Planning/217177",
-   "posted": "2026-11-03",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
+   "posted": "2026-11-06",
    "closes": "",
    "years": null
   },
@@ -8512,11 +8492,11 @@
   },
   {
    "company": "Tesco",
-   "id": "Tesco:218928",
-   "title": "Technical Programme Manager Tagetik SaaS Platform",
+   "id": "Tesco:218125",
+   "title": "Associate - Property Delivery Planning",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
-   "posted": "2026-11-06",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-Property-Delivery-Planning/218125",
+   "posted": "2026-11-04",
    "closes": "",
    "years": null
   },
@@ -8537,16 +8517,6 @@
    "location": "Bengaluru, Karnataka, India",
    "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Senior-Associate-Resource-Planning/217445",
    "posted": "2026-11-03",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:211133",
-   "title": "Associate-CEC Operations",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-CEC-Operations/211133",
-   "posted": "2026-11-05",
    "closes": "",
    "years": null
   },
@@ -8941,7 +8911,7 @@
    null
   ],
   "Tesco": [
-   10,
+   7,
    null
   ]
  },
