@@ -1262,21 +1262,21 @@
   },
   {
    "company": "Stripe",
-   "id": "Stripe:8245230",
-   "title": "Strategy and Analytics Business Partner",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8245230",
-   "posted": "2026-10-13",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Stripe",
    "id": "Stripe:7813411",
    "title": "Strategy and Analytics Business Partner",
    "location": "Bengaluru",
    "url": "https://stripe.com/jobs/search?gh_jid=7813411",
    "posted": "2026-04-30",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Stripe",
+   "id": "Stripe:8245230",
+   "title": "Strategy and Analytics Business Partner",
+   "location": "Bangalore",
+   "url": "https://stripe.com/jobs/search?gh_jid=8245230",
+   "posted": "2026-10-13",
    "closes": "",
    "years": 3
   },
@@ -2502,16 +2502,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210784079",
-   "title": "Regulatory Capital Reporting & Analysis \u2013 Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784079",
-   "posted": "2026-11-04",
-   "closes": "",
-   "years": 4
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210805734",
    "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
    "location": "Bengaluru, Karnataka, India",
@@ -2549,6 +2539,16 @@
    "posted": "2026-11-02",
    "closes": "",
    "years": 8
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210784079",
+   "title": "Regulatory Capital Reporting & Analysis \u2013 Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784079",
+   "posted": "2026-11-04",
+   "closes": "",
+   "years": 4
   },
   {
    "company": "JPMorgan Chase",
@@ -3152,21 +3152,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721582625",
-   "title": "DDR Subsystem - Sr HW Program Manager",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721582625",
-   "posted": "2026-10-15",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446718894423",
    "title": "Senior HW Program Manager",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446718894423",
    "posted": "2026-06-10",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721582625",
+   "title": "DDR Subsystem - Sr HW Program Manager",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721582625",
+   "posted": "2026-10-15",
    "closes": "",
    "years": null
   },
@@ -3182,20 +3182,20 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446720725585",
-   "title": "Business Operations Analyst, Processor",
+   "id": "Qualcomm:446721156193",
+   "title": "Business Operations Analyst-Associate",
    "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446720725585",
+   "url": "https://careers.qualcomm.com/careers/job/446721156193",
    "posted": "2026-11-02",
    "closes": "",
    "years": null
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721156193",
-   "title": "Business Operations Analyst-Associate",
+   "id": "Qualcomm:446720725585",
+   "title": "Business Operations Analyst, Processor",
    "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721156193",
+   "url": "https://careers.qualcomm.com/careers/job/446720725585",
    "posted": "2026-11-02",
    "closes": "",
    "years": null
@@ -3252,16 +3252,6 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612437134",
-   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
-   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
-   "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612386913",
    "title": "Associate Balance Sheet Steering and Optimisation",
    "location": "Bangalore, Karnataka, India",
@@ -3287,6 +3277,16 @@
    "location": "Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774611695267",
    "posted": "2026-07-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612437134",
+   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
+   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
+   "posted": "2026-10-09",
    "closes": "",
    "years": null
   },
@@ -3402,22 +3402,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64126",
-   "title": "Associate Manager",
+   "id": "Standard Chartered:63210",
+   "title": "Senior Manager, OTCR Risk Reporting",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
-   "posted": "2026-11-02",
-   "closes": "2026-11-16",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:64127",
-   "title": "Associate Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64127-en_GB",
-   "posted": "2026-11-02",
-   "closes": "2026-11-16",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-OTCR-Risk-Reporting/63210-en_GB",
+   "posted": "2026-11-04",
+   "closes": "2026-11-25",
    "years": null
   },
   {
@@ -3426,6 +3416,16 @@
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64126",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
    "posted": "2026-11-02",
    "closes": "2026-11-16",
    "years": null
@@ -3452,6 +3452,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:54503",
+   "title": "Product Specialist- WalkMe",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Product-Specialist-WalkMe/54503-en_GB",
+   "posted": "2026-11-05",
+   "closes": "2026-11-12",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:63330",
    "title": "Data Privacy Ops Manager (India/Poland)",
    "location": "Bangalore, IND ; Warszawa, POL ",
@@ -3462,22 +3472,22 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65458",
-   "title": "Manager, Risk Management - AI(India/ Malaysia)",
-   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
-   "posted": "2026-11-03",
-   "closes": "2026-11-17",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:54620",
    "title": "Senior Manager, Credit Risk and Assurance - Bangalore / Malaysia",
    "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Credit-Risk-and-Assurance-Bangalore-Malaysia/54620-en_GB",
    "posted": "2026-11-05",
    "closes": "2026-11-09",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:65458",
+   "title": "Manager, Risk Management - AI(India/ Malaysia)",
+   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
+   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
+   "posted": "2026-11-03",
+   "closes": "2026-11-17",
    "years": null
   },
   {
@@ -7832,16 +7842,6 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187271_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187271",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
    "id": "Goldman Sachs:186705_GS_MID_CAREER",
    "title": "Global Banking & Markets Operations-TxB Ops Enablement-Associate-Bengaluru",
    "location": "Bengaluru",
@@ -7876,6 +7876,16 @@
    "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/187896",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187271_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187271",
    "posted": "",
    "closes": "",
    "years": null
@@ -8757,7 +8767,7 @@
    null
   ],
   "Standard Chartered": [
-   11,
+   12,
    null
   ],
   "Juspay": [
