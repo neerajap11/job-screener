@@ -102,16 +102,6 @@
   },
   {
    "company": "Target",
-   "id": "Target:/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-HR-Data-Ops-Analyst---Data-Operations_R0000475835-1",
-   "title": "Sr HR Data Ops Analyst - Data Operations",
-   "location": "L4, Manyata Embassy Business Park, Racenahali & Nagawara Villages. Outer Ring Rd, Bangalore 540065",
-   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-HR-Data-Ops-Analyst---Data-Operations_R0000475835-1",
-   "posted": "2026-11-06",
-   "closes": "2026-11-09",
-   "years": 2
-  },
-  {
-   "company": "Target",
    "id": "Target:/job/BangaloreIndia/Analyst-PIM-Ops_R0000473632",
    "title": "Analyst PIM Ops",
    "location": "Bangalore,India",
@@ -652,16 +642,6 @@
   },
   {
    "company": "State Street",
-   "id": "State Street:/job/Hyderabad-India/Developer-with-VC-----Manager_R-790597-1",
-   "title": "Senior Functional Business Analyst (Portia) -  Manager",
-   "location": "Hyderabad, India, Hyderabad, India",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Developer-with-VC-----Manager_R-790597-1",
-   "posted": "2026-11-02",
-   "closes": "2026-11-09",
-   "years": null
-  },
-  {
-   "company": "State Street",
    "id": "State Street:/job/Hyderabad-India/Anti-Money-Laundering---Senior-Associate_R-798882",
    "title": "Anti-Money Laundering - Senior Associate",
    "location": "Hyderabad, India, Hyderabad, India",
@@ -829,16 +809,6 @@
    "posted": "2026-10-26",
    "closes": "2026-12-01",
    "years": null
-  },
-  {
-   "company": "Northern Trust",
-   "id": "Northern Trust:/job/Bangalore-India/Consultant--Risk_R160381",
-   "title": "Consultant, Risk",
-   "location": "Bangalore, India, Pune, India",
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant--Risk_R160381",
-   "posted": "2026-10-27",
-   "closes": "2026-11-13",
-   "years": 2
   },
   {
    "company": "Invesco",
@@ -2452,16 +2422,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210805037",
-   "title": "Senior Product Associate",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805037",
-   "posted": "2026-11-05",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210805610",
    "title": "Senior Product Associate - Digital Account Opening and Onboarding",
    "location": "Hyderabad, Telangana, India",
@@ -2572,6 +2532,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210801656",
+   "title": "Data Governance Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801656",
+   "posted": "2026-10-28",
+   "closes": "",
+   "years": 5
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210803321",
    "title": "External Reporting Controller - Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -2629,16 +2599,6 @@
    "posted": "2026-10-30",
    "closes": "",
    "years": 6
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210796416",
-   "title": "Associate - Auto Treasury Finance",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796416",
-   "posted": "2026-10-26",
-   "closes": "",
-   "years": 4
   },
   {
    "company": "JPMorgan Chase",
@@ -2852,16 +2812,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210801656",
-   "title": "Data Governance Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801656",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210801311",
    "title": "Chief Data Office - Records Retention & Destruction - Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -3052,21 +3002,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557007321",
-   "title": "Sr. Strategic Account Technologist - ITeS",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557007321",
-   "posted": "2026-09-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393556981490",
    "title": "Sr. Account Technology Strategist - ITeS",
    "location": "India, Karnataka, Bangalore",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
    "posted": "2026-09-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557007321",
+   "title": "Sr. Strategic Account Technologist - ITeS",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557007321",
+   "posted": "2026-09-29",
    "closes": "",
    "years": null
   },
@@ -3182,20 +3132,20 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721156193",
-   "title": "Business Operations Analyst-Associate",
+   "id": "Qualcomm:446720725585",
+   "title": "Business Operations Analyst, Processor",
    "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721156193",
+   "url": "https://careers.qualcomm.com/careers/job/446720725585",
    "posted": "2026-11-02",
    "closes": "",
    "years": null
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446720725585",
-   "title": "Business Operations Analyst, Processor",
+   "id": "Qualcomm:446721156193",
+   "title": "Business Operations Analyst-Associate",
    "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446720725585",
+   "url": "https://careers.qualcomm.com/careers/job/446721156193",
    "posted": "2026-11-02",
    "closes": "",
    "years": null
@@ -3252,6 +3202,16 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774611695267",
+   "title": "Private Assets Business Analyst",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774611695267",
+   "posted": "2026-07-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612411216",
    "title": "Technical Business Analyst - User Experience / Interface",
    "location": "Bangalore, Karnataka, India",
@@ -3267,36 +3227,6 @@
    "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
    "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774611695267",
-   "title": "Private Assets Business Analyst",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774611695267",
-   "posted": "2026-07-01",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612556635",
-   "title": "Climate risk Reporting",
-   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612556635",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612386913",
-   "title": "Associate Balance Sheet Steering and Optimisation",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
-   "posted": "2026-10-01",
    "closes": "",
    "years": null
   },
@@ -3442,16 +3372,6 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:54503",
-   "title": "Product Specialist- WalkMe",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Product-Specialist-WalkMe/54503-en_GB",
-   "posted": "2026-11-05",
-   "closes": "2026-11-12",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:65113",
    "title": "Manager Strategy & Governance",
    "location": "Bangalore, IND ",
@@ -3472,12 +3392,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:62910",
-   "title": "Associate Manager",
+   "id": "Standard Chartered:54503",
+   "title": "Product Specialist- WalkMe",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/62910-en_GB",
-   "posted": "2026-11-06",
-   "closes": "2026-11-13",
+   "url": "https://jobs.standardchartered.com/job/Product-Specialist-WalkMe/54503-en_GB",
+   "posted": "2026-11-05",
+   "closes": "2026-11-12",
    "years": null
   },
   {
@@ -3492,22 +3412,22 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65458",
-   "title": "Manager, Risk Management - AI(India/ Malaysia)",
-   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
-   "posted": "2026-11-03",
-   "closes": "2026-11-17",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:54620",
    "title": "Senior Manager, Credit Risk and Assurance - Bangalore / Malaysia",
    "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Credit-Risk-and-Assurance-Bangalore-Malaysia/54620-en_GB",
    "posted": "2026-11-05",
    "closes": "2026-11-09",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:65458",
+   "title": "Manager, Risk Management - AI(India/ Malaysia)",
+   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
+   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
+   "posted": "2026-11-03",
+   "closes": "2026-11-17",
    "years": null
   },
   {
@@ -7832,6 +7752,26 @@
   },
   {
    "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187271_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187271",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187896_GS_MID_CAREER",
+   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187896",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
    "id": "Goldman Sachs:186705_GS_MID_CAREER",
    "title": "Global Banking & Markets Operations-TxB Ops Enablement-Associate-Bengaluru",
    "location": "Bengaluru",
@@ -7856,26 +7796,6 @@
    "title": "Global Banking and Market Operations - FCO Analytics - Associate - Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/187893",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187896_GS_MID_CAREER",
-   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187896",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187271_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187271",
    "posted": "",
    "closes": "",
    "years": null
@@ -8473,7 +8393,7 @@
    null
   ],
   "Target": [
-   7,
+   6,
    null
   ],
   "Novartis": [
@@ -8565,11 +8485,11 @@
    null
   ],
   "State Street": [
-   11,
+   10,
    null
   ],
   "Northern Trust": [
-   14,
+   13,
    null
   ],
   "Invesco": [
@@ -8725,7 +8645,7 @@
    null
   ],
   "JPMorgan Chase": [
-   52,
+   50,
    null
   ],
   "American Express": [
@@ -8741,7 +8661,7 @@
    null
   ],
   "HSBC": [
-   5,
+   3,
    null
   ],
   "Atlassian": [
@@ -8757,7 +8677,7 @@
    null
   ],
   "Standard Chartered": [
-   14,
+   13,
    null
   ],
   "Juspay": [

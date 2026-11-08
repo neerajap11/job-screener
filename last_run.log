@@ -1,4 +1,4 @@
-Run 2026-11-08 12:51 took 1381s; 845 matches, 0 new this run
+Run 2026-11-08 21:52 took 1401s; 837 matches, 0 new this run
   AQR: 6 jobs
   Acko: 5 jobs
   Adobe: 4 jobs
@@ -32,12 +32,12 @@ Run 2026-11-08 12:51 took 1381s; 845 matches, 0 new this run
   Goldman Sachs: 18 jobs
   Google: 39 jobs
   Groww: 1 jobs
-  HSBC: 5 jobs
+  HSBC: 3 jobs
   InMobi: 7 jobs
   Intel: 0 jobs
   Intuit: 3 jobs
   Invesco: 9 jobs
-  JPMorgan Chase: 52 jobs
+  JPMorgan Chase: 50 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
   Lendingkart: 0 jobs
@@ -54,7 +54,7 @@ Run 2026-11-08 12:51 took 1381s; 845 matches, 0 new this run
   Nasdaq: 4 jobs
   Navi: 19 jobs
   Nike: 0 jobs
-  Northern Trust: 14 jobs
+  Northern Trust: 13 jobs
   Novartis: 6 jobs
   Nvidia: 1 jobs
   Okta: 4 jobs
@@ -77,11 +77,11 @@ Run 2026-11-08 12:51 took 1381s; 845 matches, 0 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 14 jobs
-  State Street: 11 jobs
+  Standard Chartered: 13 jobs
+  State Street: 10 jobs
   Stripe: 7 jobs
   Swiggy: 7 jobs
-  Target: 7 jobs
+  Target: 6 jobs
   Tesco: 7 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
