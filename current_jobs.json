@@ -2442,16 +2442,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210806241",
-   "title": "Payment Lifecycle Associate I",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806241",
-   "posted": "2026-11-05",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210784011",
    "title": "Valuation Control - Associate",
    "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India",
@@ -2462,13 +2452,13 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210805734",
-   "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
+   "id": "JPMorgan Chase:210806241",
+   "title": "Payment Lifecycle Associate I",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805734",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806241",
    "posted": "2026-11-05",
    "closes": "",
-   "years": 3
+   "years": null
   },
   {
    "company": "JPMorgan Chase",
@@ -2509,6 +2499,16 @@
    "posted": "2026-11-04",
    "closes": "",
    "years": 4
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210805734",
+   "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805734",
+   "posted": "2026-11-05",
+   "closes": "",
+   "years": 3
   },
   {
    "company": "JPMorgan Chase",
@@ -2972,21 +2972,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557051029",
-   "title": "Consulting Project Management",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557051029",
-   "posted": "2026-11-03",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393556914244",
    "title": "Business Manager",
    "location": "India, Karnataka, Bangalore; India, Uttar Pradesh, Noida",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556914244",
    "posted": "2026-11-04",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557051029",
+   "title": "Consulting Project Management",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557051029",
+   "posted": "2026-11-03",
    "closes": "",
    "years": null
   },
@@ -3212,21 +3212,21 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612411216",
-   "title": "Technical Business Analyst - User Experience / Interface",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
-   "posted": "2026-10-06",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612437134",
    "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
    "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
    "posted": "2026-10-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612411216",
+   "title": "Technical Business Analyst - User Experience / Interface",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
+   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -3392,6 +3392,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:62910",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/62910-en_GB",
+   "posted": "2026-11-06",
+   "closes": "2026-11-13",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:54503",
    "title": "Product Specialist- WalkMe",
    "location": "Bangalore, IND ",
@@ -3418,16 +3428,6 @@
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Credit-Risk-and-Assurance-Bangalore-Malaysia/54620-en_GB",
    "posted": "2026-11-05",
    "closes": "2026-11-09",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:65458",
-   "title": "Manager, Risk Management - AI(India/ Malaysia)",
-   "location": "Bangalore, IND ; Kuala Lumpur, MYS ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-Risk-Management-AI%28India-Malaysia%29/65458-en_GB",
-   "posted": "2026-11-03",
-   "closes": "2026-11-17",
    "years": null
   },
   {
@@ -7512,16 +7512,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10415154",
-   "title": "Ops Specialist,  AMXL Proactive Execution (APEx) Team",
-   "location": "Hyderabad, Telangana, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10415154/ops-specialist-amxl-proactive-execution-apex-team",
-   "posted": "2026-05-08",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10414757",
    "title": "Risk Manager II, RISC Surveillance (Program)",
    "location": "Bengaluru, Karnataka, IND",
@@ -7752,26 +7742,6 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187271_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187271",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187896_GS_MID_CAREER",
-   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187896",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
    "id": "Goldman Sachs:186705_GS_MID_CAREER",
    "title": "Global Banking & Markets Operations-TxB Ops Enablement-Associate-Bengaluru",
    "location": "Bengaluru",
@@ -7796,6 +7766,26 @@
    "title": "Global Banking and Market Operations - FCO Analytics - Associate - Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/187893",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187896_GS_MID_CAREER",
+   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187896",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187271_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187271",
    "posted": "",
    "closes": "",
    "years": null
@@ -8302,6 +8292,16 @@
   },
   {
    "company": "Tesco",
+   "id": "Tesco:211133",
+   "title": "Associate-CEC Operations",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Associate-CEC-Operations/211133",
+   "posted": "2026-11-05",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
    "id": "Tesco:218125",
    "title": "Associate - Property Delivery Planning",
    "location": "Bengaluru, Karnataka, India",
@@ -8725,7 +8725,7 @@
    null
   ],
   "Amazon": [
-   359,
+   358,
    null
   ],
   "Goldman Sachs": [
@@ -8741,7 +8741,7 @@
    null
   ],
   "Tesco": [
-   7,
+   8,
    null
   ]
  },
