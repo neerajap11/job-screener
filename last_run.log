@@ -1,4 +1,4 @@
-Run 2026-11-10 01:20 took 1270s; 831 matches, 0 new this run
+Run 2026-11-10 14:19 took 1265s; 840 matches, 22 new this run
   AQR: 6 jobs
   Acko: 5 jobs
   Adobe: 4 jobs
@@ -6,14 +6,14 @@ Run 2026-11-10 01:20 took 1270s; 831 matches, 0 new this run
   Airbnb: 0 jobs
   Amazon: 359 jobs
   American Express: 3 jobs
-  Apple: 6 jobs
+  Apple: 7 jobs
   Arcesium: 5 jobs
   Atlan: 0 jobs
   Atlassian: 1 jobs
   Autodesk: 0 jobs
   Barclays: 1 jobs
   BlackRock: 1 jobs
-  Bosch: 29 jobs
+  Bosch: 33 jobs
   Broadridge: 2 jobs
   BrowserStack: 0 jobs
   CRED: 3 jobs
@@ -25,28 +25,28 @@ Run 2026-11-10 01:20 took 1270s; 831 matches, 0 new this run
   Databricks: 2 jobs
   Deutsche Bank: 2 jobs
   Expedia: 1 jobs
-  FactSet: 2 jobs
+  FactSet: 1 jobs
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 1 jobs
   Goldman Sachs: 18 jobs
-  Google: 36 jobs
+  Google: 35 jobs
   Groww: 1 jobs
-  HSBC: 3 jobs
+  HSBC: 5 jobs
   InMobi: 7 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
   Invesco: 9 jobs
-  JPMorgan Chase: 49 jobs
+  JPMorgan Chase: 48 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
   Lendingkart: 0 jobs
   Lenskart: 2 jobs
   Licious: 0 jobs
   LinkedIn: 0 jobs
-  Lowe's: 6 jobs
+  Lowe's: 8 jobs
   Mastercard: 0 jobs
-  Meesho: 10 jobs
+  Meesho: 9 jobs
   Microsoft: 14 jobs
   Millennium: 0 jobs
   Mindtickle: 1 jobs
@@ -55,29 +55,29 @@ Run 2026-11-10 01:20 took 1270s; 831 matches, 0 new this run
   Navi: 18 jobs
   Nike: 0 jobs
   Northern Trust: 13 jobs
-  Novartis: 5 jobs
+  Novartis: 6 jobs
   Nvidia: 1 jobs
   Okta: 4 jobs
-  Oracle: 9 jobs
+  Oracle: 10 jobs
   PayPal: 3 jobs
-  Paytm: 23 jobs
+  Paytm: 22 jobs
   Philips: 5 jobs
   PhonePe: 28 jobs
   Postman: 0 jobs
   Qualcomm: 13 jobs
-  Razorpay: 8 jobs
+  Razorpay: 11 jobs
   Rippling: 11 jobs
   SS&C: 1 jobs
   Salesforce: 7 jobs
   Samsung: 0 jobs
-  ServiceNow: 6 jobs
+  ServiceNow: 4 jobs
   ShareChat: 0 jobs
-  Shell: 2 jobs
+  Shell: 1 jobs
   Slice: 0 jobs
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 13 jobs
+  Standard Chartered: 14 jobs
   State Street: 10 jobs
   Stripe: 7 jobs
   Swiggy: 8 jobs
@@ -87,7 +87,7 @@ Run 2026-11-10 01:20 took 1270s; 831 matches, 0 new this run
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 6 jobs
-  Wells Fargo: 3 jobs
+  Wells Fargo: 4 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
