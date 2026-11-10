@@ -1,11 +1,11 @@
-Run 2026-11-10 16:28 took 2427s; 838 matches, 2 new this run
+Run 2026-11-10 23:03 took 1407s; 837 matches, 2 new this run
   AQR: 6 jobs
   Acko: 5 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 358 jobs
-  American Express: 3 jobs
+  Amazon: 359 jobs
+  American Express: 2 jobs
   Apple: 7 jobs
   Arcesium: 5 jobs
   Atlan: 0 jobs
@@ -32,7 +32,7 @@ Run 2026-11-10 16:28 took 2427s; 838 matches, 2 new this run
   Goldman Sachs: 18 jobs
   Google: 35 jobs
   Groww: 1 jobs
-  HSBC: 6 jobs
+  HSBC: 5 jobs
   InMobi: 7 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
@@ -44,7 +44,7 @@ Run 2026-11-10 16:28 took 2427s; 838 matches, 2 new this run
   Lenskart: 2 jobs
   Licious: 0 jobs
   LinkedIn: 0 jobs
-  Lowe's: 8 jobs
+  Lowe's: 7 jobs
   Mastercard: 0 jobs
   Meesho: 9 jobs
   Microsoft: 14 jobs
@@ -55,7 +55,7 @@ Run 2026-11-10 16:28 took 2427s; 838 matches, 2 new this run
   Navi: 18 jobs
   Nike: 0 jobs
   Northern Trust: 13 jobs
-  Novartis: 5 jobs
+  Novartis: 4 jobs
   Nvidia: 1 jobs
   Okta: 4 jobs
   Oracle: 10 jobs
@@ -72,12 +72,12 @@ Run 2026-11-10 16:28 took 2427s; 838 matches, 2 new this run
   Samsung: 0 jobs
   ServiceNow: 4 jobs
   ShareChat: 0 jobs
-  Shell: 1 jobs
+  Shell: 0 jobs
   Slice: 0 jobs
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 11 jobs
+  Standard Chartered: 13 jobs
   State Street: 10 jobs
   Stripe: 7 jobs
   Swiggy: 8 jobs

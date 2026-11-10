@@ -182,16 +182,6 @@
   },
   {
    "company": "Novartis",
-   "id": "Novartis:/job/Hyderabad-Office/Associate-External-Operations-Manager_REQ-10085680",
-   "title": "Associate External Operations Manager",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-External-Operations-Manager_REQ-10085680",
-   "posted": "2026-11-10",
-   "closes": "2026-11-11",
-   "years": 3
-  },
-  {
-   "company": "Novartis",
    "id": "Novartis:/job/Hyderabad-Office/Senior-Product-Analyst_REQ-10087153",
    "title": "Senior Product Analyst",
    "location": "Hyderabad (Office)",
@@ -222,6 +212,16 @@
   },
   {
    "company": "Wells Fargo",
+   "id": "Wells Fargo:/job/Bengaluru-India/Associate-Operations-Processor_R-585104",
+   "title": "Associate Operations Processor",
+   "location": "Bengaluru, India",
+   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Associate-Operations-Processor_R-585104",
+   "posted": "2026-11-09",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Wells Fargo",
    "id": "Wells Fargo:/job/Hyderabad-India/Senior-Product-Manager_R-574835",
    "title": "Senior Product Manager",
    "location": "Hyderabad, India",
@@ -239,16 +239,6 @@
    "posted": "2026-11-03",
    "closes": "2026-11-13",
    "years": null
-  },
-  {
-   "company": "Wells Fargo",
-   "id": "Wells Fargo:/job/Hyderabad-India/Senior-Risk-Analytics-Consultant_R-583820",
-   "title": "Senior Risk Analytics Consultant",
-   "location": "Hyderabad, India",
-   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Risk-Analytics-Consultant_R-583820",
-   "posted": "2026-11-04",
-   "closes": "2026-11-11",
-   "years": 4
   },
   {
    "company": "Citi",
@@ -472,16 +462,6 @@
   },
   {
    "company": "Lowe's",
-   "id": "Lowe's:/job/Bengaluru/Associate-Analyst-Contact-Center_JR-02661991",
-   "title": "Associate Analyst_Contact Center",
-   "location": "Bengaluru",
-   "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Associate-Analyst-Contact-Center_JR-02661991",
-   "posted": "2026-11-10",
-   "closes": "2026-11-11",
-   "years": null
-  },
-  {
-   "company": "Lowe's",
    "id": "Lowe's:/job/Bengaluru/Associate-Instructional-Designer_JR-02686500-1",
    "title": "Associate Instructional Designer",
    "location": "Bengaluru",
@@ -609,16 +589,6 @@
    "posted": "2026-10-19",
    "closes": "",
    "years": 8
-  },
-  {
-   "company": "Shell",
-   "id": "Shell:/job/SHELL-CENTRE--CHENNAI/Senior-Specialist---Market-Risk_R211581",
-   "title": "Senior Specialist - Market Risk",
-   "location": "SHELL CENTRE \u2013 CHENNAI, Bangalore RMZ-ECO WORLD",
-   "url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/SHELL-CENTRE--CHENNAI/Senior-Specialist---Market-Risk_R211581",
-   "posted": "2026-11-04",
-   "closes": "2026-11-11",
-   "years": null
   },
   {
    "company": "Fidelity",
@@ -802,16 +772,6 @@
   },
   {
    "company": "Northern Trust",
-   "id": "Northern Trust:/job/Bangalore-India/Sr-Analyst--Inv-Ops-Trade-Sup_R158551-1",
-   "title": "Sr Analyst, Inv Ops Trade Sup",
-   "location": "Bangalore, India",
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Sr-Analyst--Inv-Ops-Trade-Sup_R158551-1",
-   "posted": "2026-11-05",
-   "closes": "2026-11-11",
-   "years": null
-  },
-  {
-   "company": "Northern Trust",
    "id": "Northern Trust:/job/Bangalore-India/Associate-Consultant--Financial-Institution---Counterparty-Risk_R163832-1",
    "title": "Associate Consultant, Financial Institution & Counterparty Risk",
    "location": "Bangalore, India",
@@ -839,6 +799,16 @@
    "posted": "2026-11-09",
    "closes": "2026-11-13",
    "years": 1
+  },
+  {
+   "company": "Northern Trust",
+   "id": "Northern Trust:/job/Bangalore-India/Project-Manager_R155689-1",
+   "title": "Project Manager",
+   "location": "Bangalore, India, Pune, India",
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Project-Manager_R155689-1",
+   "posted": "2026-10-26",
+   "closes": "2026-12-01",
+   "years": null
   },
   {
    "company": "Invesco",
@@ -1082,16 +1052,6 @@
   },
   {
    "company": "Razorpay",
-   "id": "Razorpay:4749335005",
-   "title": "Product Manager II",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-   "posted": "2026-11-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Razorpay",
    "id": "Razorpay:4751768005",
    "title": "Product Manager II",
    "location": "Bengaluru",
@@ -1099,6 +1059,16 @@
    "posted": "2026-11-10",
    "closes": "",
    "years": 1
+  },
+  {
+   "company": "Razorpay",
+   "id": "Razorpay:4749335005",
+   "title": "Product Manager II",
+   "location": "Bengaluru",
+   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+   "posted": "2026-11-09",
+   "closes": "",
+   "years": null
   },
   {
    "company": "Razorpay",
@@ -1132,6 +1102,16 @@
   },
   {
    "company": "Razorpay",
+   "id": "Razorpay:4749341005",
+   "title": "Senior Product Manager",
+   "location": "Bengaluru",
+   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
+   "posted": "2026-11-10",
+   "closes": "",
+   "years": 2
+  },
+  {
+   "company": "Razorpay",
    "id": "Razorpay:4736585005",
    "title": "Senior Product Manager",
    "location": "Bengaluru",
@@ -1147,16 +1127,6 @@
    "location": "Bengaluru",
    "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
    "posted": "2026-11-09",
-   "closes": "",
-   "years": 2
-  },
-  {
-   "company": "Razorpay",
-   "id": "Razorpay:4749341005",
-   "title": "Senior Product Manager",
-   "location": "Bengaluru",
-   "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749341005",
-   "posted": "2026-11-10",
    "closes": "",
    "years": 2
   },
@@ -2982,26 +2952,6 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557047351",
-   "title": "Group Product Manager",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393557040598",
-   "title": "Senior Product Manager",
-   "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
-   "posted": "2026-10-16",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393556914244",
    "title": "Business Manager",
    "location": "India, Karnataka, Bangalore; India, Uttar Pradesh, Noida",
@@ -3017,6 +2967,16 @@
    "location": "India, Telangana, Hyderabad; India, Karnataka, Bangalore; India, Uttar Pradesh, Noida",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556950582",
    "posted": "2026-08-03",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557047351",
+   "title": "Group Product Manager",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -3052,11 +3012,11 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393556981490",
-   "title": "Sr. Account Technology Strategist - ITeS",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
-   "posted": "2026-09-01",
+   "id": "Microsoft:1970393557040598",
+   "title": "Senior Product Manager",
+   "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
+   "posted": "2026-10-16",
    "closes": "",
    "years": null
   },
@@ -3067,6 +3027,16 @@
    "location": "India, Karnataka, Bangalore",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557007321",
    "posted": "2026-09-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393556981490",
+   "title": "Sr. Account Technology Strategist - ITeS",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556981490",
+   "posted": "2026-09-01",
    "closes": "",
    "years": null
   },
@@ -3092,21 +3062,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557040071",
-   "title": "Senior Product Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557037770",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037770",
    "posted": "2026-10-15",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557040071",
+   "title": "Senior Product Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -3202,21 +3172,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721765981",
-   "title": "Finance Analyst, Associate",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721765981",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721410533",
    "title": "Finance Analyst, Associate",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446721410533",
    "posted": "2026-10-23",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721765981",
+   "title": "Finance Analyst, Associate",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721765981",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -3277,16 +3247,6 @@
    "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
    "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612411216",
-   "title": "Technical Business Analyst - User Experience / Interface",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
-   "posted": "2026-10-06",
    "closes": "",
    "years": null
   },
@@ -3402,6 +3362,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:63210",
+   "title": "Senior Manager, OTCR Risk Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-OTCR-Risk-Reporting/63210-en_GB",
+   "posted": "2026-11-04",
+   "closes": "2026-11-25",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64128",
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
@@ -3422,12 +3392,32 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65358",
-   "title": "Regulatory Conduct Risk Governance Lead",
+   "id": "Standard Chartered:64127",
+   "title": "Associate Manager",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Regulatory-Conduct-Risk-Governance-Lead/65358-en_GB",
-   "posted": "2026-11-06",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64127-en_GB",
+   "posted": "2026-11-02",
    "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64512",
+   "title": "Associate Manager, Product Control",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager%2C-Product-Control/64512-en_GB",
+   "posted": "2026-10-16",
+   "closes": "2026-11-14",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:65113",
+   "title": "Manager Strategy & Governance",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Manager-Strategy-&amp;-Governance/65113-en_GB",
+   "posted": "2026-11-05",
+   "closes": "2026-11-13",
    "years": null
   },
   {
@@ -3442,22 +3432,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:54503",
-   "title": "Product Specialist- WalkMe",
+   "id": "Standard Chartered:57947",
+   "title": "Senior Manager Risk Manager",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Product-Specialist-WalkMe/54503-en_GB",
-   "posted": "2026-11-05",
-   "closes": "2026-11-12",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:65113",
-   "title": "Manager Strategy & Governance",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Manager-Strategy-&amp;-Governance/65113-en_GB",
-   "posted": "2026-11-05",
-   "closes": "2026-11-13",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
    "years": null
   },
   {
@@ -4109,6 +4089,16 @@
    "posted": "2026-10-23",
    "closes": "",
    "years": 2
+  },
+  {
+   "company": "Amazon",
+   "id": "Amazon:10601871",
+   "title": "Senior Product Manager, Technical, Amazon Business Analytics",
+   "location": "Hyderabad, Telangana, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10601871/senior-product-manager-technical-amazon-business-analytics",
+   "posted": "2026-11-10",
+   "closes": "",
+   "years": null
   },
   {
    "company": "Amazon",
@@ -7782,16 +7772,6 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187271_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187271",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
    "id": "Goldman Sachs:a9dd85ce-d5ef-4abc-ab2d-bede931a6745",
    "title": "Asset & Wealth Management , Private Bank Lending, Underwriting, Associate, Bengaluru",
    "location": "Bengaluru",
@@ -7802,20 +7782,10 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187894_GS_MID_CAREER",
-   "title": "Global Banking and Market Operations - FCO Analytics - Associate - Hyderabad",
-   "location": "Hyderabad",
-   "url": "https://higher.gs.com/roles/187894",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188008_GS_MID_CAREER",
-   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "id": "Goldman Sachs:187271_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188008",
+   "url": "https://higher.gs.com/roles/187271",
    "posted": "",
    "closes": "",
    "years": null
@@ -7842,6 +7812,16 @@
   },
   {
    "company": "Goldman Sachs",
+   "id": "Goldman Sachs:188008_GS_MID_CAREER",
+   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/188008",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
    "id": "Goldman Sachs:187896_GS_MID_CAREER",
    "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
    "location": "Bengaluru",
@@ -7856,6 +7836,16 @@
    "title": "Asset & Wealth Management, Public, MAS, Portfolio Management & Risk, Analyst, Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/c02dfc49-5190-47f2-8455-022fcd8e19e9",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187894_GS_MID_CAREER",
+   "title": "Global Banking and Market Operations - FCO Analytics - Associate - Hyderabad",
+   "location": "Hyderabad",
+   "url": "https://higher.gs.com/roles/187894",
    "posted": "",
    "closes": "",
    "years": null
@@ -8407,7 +8397,7 @@
    null
   ],
   "Novartis": [
-   5,
+   4,
    null
   ],
   "Wells Fargo": [
@@ -8439,7 +8429,7 @@
    null
   ],
   "Lowe's": [
-   8,
+   7,
    null
   ],
   "BrowserStack": [
@@ -8483,7 +8473,7 @@
    null
   ],
   "Shell": [
-   1,
+   0,
    null
   ],
   "Nike": [
@@ -8659,7 +8649,7 @@
    null
   ],
   "American Express": [
-   3,
+   2,
    null
   ],
   "Microsoft": [
@@ -8671,7 +8661,7 @@
    null
   ],
   "HSBC": [
-   6,
+   5,
    null
   ],
   "Atlassian": [
@@ -8687,7 +8677,7 @@
    null
   ],
   "Standard Chartered": [
-   11,
+   13,
    null
   ],
   "Juspay": [
@@ -8735,7 +8725,7 @@
    null
   ],
   "Amazon": [
-   358,
+   359,
    null
   ],
   "Goldman Sachs": [
@@ -8756,8 +8746,8 @@
   ]
  },
  "latest": [
-  "Cisco:/job/Bangalore-India/Strategy---Planning-Manager_2028192-1",
-  "HSBC:563774612522100"
+  "Wells Fargo:/job/Bengaluru-India/Associate-Operations-Processor_R-585104",
+  "Amazon:10601871"
  ],
- "latest_at": "10 Nov, 04:28 PM"
+ "latest_at": "10 Nov, 11:03 PM"
 }
