@@ -1,10 +1,10 @@
-Run 2026-11-12 00:13 took 1318s; 861 matches, 9 new this run
+Run 2026-11-12 05:18 took 1290s; 857 matches, 3 new this run
   AQR: 6 jobs
   Acko: 8 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 359 jobs
+  Amazon: 360 jobs
   American Express: 2 jobs
   Apple: 7 jobs
   Arcesium: 4 jobs
@@ -20,7 +20,7 @@ Run 2026-11-12 00:13 took 1318s; 861 matches, 9 new this run
   Cars24: 10 jobs
   Cashfree: 5 jobs
   Cisco: 10 jobs
-  Citi: 2 jobs
+  Citi: 1 jobs
   D. E. Shaw: 8 jobs
   Databricks: 2 jobs
   Deutsche Bank: 2 jobs
@@ -47,7 +47,7 @@ Run 2026-11-12 00:13 took 1318s; 861 matches, 9 new this run
   Lowe's: 7 jobs
   Mastercard: 0 jobs
   Meesho: 9 jobs
-  Microsoft: 14 jobs
+  Microsoft: 15 jobs
   Millennium: 0 jobs
   Mindtickle: 1 jobs
   Morgan Stanley: 2 jobs
@@ -77,12 +77,12 @@ Run 2026-11-12 00:13 took 1318s; 861 matches, 9 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 19 jobs
+  Standard Chartered: 14 jobs
   State Street: 10 jobs
-  Stripe: 7 jobs
+  Stripe: 6 jobs
   Swiggy: 8 jobs
   Target: 3 jobs
-  Tesco: 7 jobs
+  Tesco: 8 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
