@@ -1,4 +1,4 @@
-Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
+Run 2026-11-12 23:20 took 1280s; 862 matches, 3 new this run
   AQR: 6 jobs
   Acko: 8 jobs
   Adobe: 4 jobs
@@ -14,7 +14,7 @@ Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
   Barclays: 1 jobs
   BlackRock: 1 jobs
   Bosch: 34 jobs
-  Broadridge: 2 jobs
+  Broadridge: 1 jobs
   BrowserStack: 0 jobs
   CRED: 3 jobs
   Cars24: 10 jobs
@@ -25,19 +25,19 @@ Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
   Databricks: 2 jobs
   Deutsche Bank: 2 jobs
   Expedia: 0 jobs
-  FactSet: 2 jobs
+  FactSet: 1 jobs
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 1 jobs
   Goldman Sachs: 21 jobs
-  Google: 36 jobs
+  Google: 35 jobs
   Groww: 1 jobs
   HSBC: 8 jobs
   InMobi: 6 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
-  Invesco: 8 jobs
-  JPMorgan Chase: 54 jobs
+  Invesco: 7 jobs
+  JPMorgan Chase: 55 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
   Lendingkart: 0 jobs
@@ -47,21 +47,21 @@ Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
   Lowe's: 7 jobs
   Mastercard: 0 jobs
   Meesho: 9 jobs
-  Microsoft: 14 jobs
+  Microsoft: 13 jobs
   Millennium: 0 jobs
   Mindtickle: 2 jobs
   Morgan Stanley: 2 jobs
   Nasdaq: 4 jobs
   Navi: 22 jobs
   Nike: 0 jobs
-  Northern Trust: 15 jobs
+  Northern Trust: 13 jobs
   Novartis: 5 jobs
   Nvidia: 1 jobs
   Okta: 5 jobs
   Oracle: 10 jobs
   PayPal: 3 jobs
   Paytm: 21 jobs
-  Philips: 3 jobs
+  Philips: 4 jobs
   PhonePe: 26 jobs
   Postman: 0 jobs
   Qualcomm: 13 jobs
@@ -77,8 +77,8 @@ Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 19 jobs
-  State Street: 11 jobs
+  Standard Chartered: 18 jobs
+  State Street: 10 jobs
   Stripe: 6 jobs
   Swiggy: 7 jobs
   Target: 3 jobs
@@ -87,7 +87,7 @@ Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 6 jobs
-  Wells Fargo: 7 jobs
+  Wells Fargo: 6 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
