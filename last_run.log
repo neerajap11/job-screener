@@ -1,13 +1,13 @@
-Run 2026-11-12 05:18 took 1290s; 857 matches, 3 new this run
+Run 2026-11-12 14:41 took 1421s; 870 matches, 24 new this run
   AQR: 6 jobs
   Acko: 8 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 360 jobs
+  Amazon: 361 jobs
   American Express: 2 jobs
   Apple: 7 jobs
-  Arcesium: 4 jobs
+  Arcesium: 5 jobs
   Atlan: 0 jobs
   Atlassian: 1 jobs
   Autodesk: 0 jobs
@@ -18,8 +18,8 @@ Run 2026-11-12 05:18 took 1290s; 857 matches, 3 new this run
   BrowserStack: 0 jobs
   CRED: 3 jobs
   Cars24: 10 jobs
-  Cashfree: 5 jobs
-  Cisco: 10 jobs
+  Cashfree: 6 jobs
+  Cisco: 12 jobs
   Citi: 1 jobs
   D. E. Shaw: 8 jobs
   Databricks: 2 jobs
@@ -29,15 +29,15 @@ Run 2026-11-12 05:18 took 1290s; 857 matches, 3 new this run
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 1 jobs
-  Goldman Sachs: 22 jobs
+  Goldman Sachs: 21 jobs
   Google: 36 jobs
   Groww: 1 jobs
-  HSBC: 5 jobs
-  InMobi: 7 jobs
+  HSBC: 8 jobs
+  InMobi: 6 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
   Invesco: 8 jobs
-  JPMorgan Chase: 52 jobs
+  JPMorgan Chase: 54 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
   Lendingkart: 0 jobs
@@ -47,22 +47,22 @@ Run 2026-11-12 05:18 took 1290s; 857 matches, 3 new this run
   Lowe's: 7 jobs
   Mastercard: 0 jobs
   Meesho: 9 jobs
-  Microsoft: 15 jobs
+  Microsoft: 14 jobs
   Millennium: 0 jobs
-  Mindtickle: 1 jobs
+  Mindtickle: 2 jobs
   Morgan Stanley: 2 jobs
   Nasdaq: 4 jobs
-  Navi: 23 jobs
+  Navi: 22 jobs
   Nike: 0 jobs
-  Northern Trust: 14 jobs
-  Novartis: 4 jobs
+  Northern Trust: 15 jobs
+  Novartis: 5 jobs
   Nvidia: 1 jobs
-  Okta: 4 jobs
+  Okta: 5 jobs
   Oracle: 10 jobs
   PayPal: 3 jobs
-  Paytm: 22 jobs
-  Philips: 6 jobs
-  PhonePe: 25 jobs
+  Paytm: 21 jobs
+  Philips: 3 jobs
+  PhonePe: 26 jobs
   Postman: 0 jobs
   Qualcomm: 13 jobs
   Razorpay: 11 jobs
@@ -72,22 +72,22 @@ Run 2026-11-12 05:18 took 1290s; 857 matches, 3 new this run
   Samsung: 0 jobs
   ServiceNow: 5 jobs
   ShareChat: 0 jobs
-  Shell: 0 jobs
+  Shell: 1 jobs
   Slice: 0 jobs
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 14 jobs
-  State Street: 10 jobs
+  Standard Chartered: 19 jobs
+  State Street: 11 jobs
   Stripe: 6 jobs
-  Swiggy: 8 jobs
+  Swiggy: 7 jobs
   Target: 3 jobs
   Tesco: 8 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
-  Visa: 8 jobs
-  Wells Fargo: 6 jobs
+  Visa: 6 jobs
+  Wells Fargo: 7 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
