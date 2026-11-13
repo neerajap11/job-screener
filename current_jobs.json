@@ -342,16 +342,6 @@
   },
   {
    "company": "Cisco",
-   "id": "Cisco:/job/Bangalore-India/MFG---B2B-Technical-Project-Manager_2022578-1",
-   "title": "MFG / B2B Technical Project Manager",
-   "location": "Bangalore, India",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/MFG---B2B-Technical-Project-Manager_2022578-1",
-   "posted": "2026-11-12",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Cisco",
    "id": "Cisco:/job/Bangalore-India/Business-Analyst_2029948",
    "title": "Business Analyst",
    "location": "Bangalore, India",
@@ -2422,21 +2412,21 @@
   },
   {
    "company": "Oracle",
-   "id": "Oracle:346183",
-   "title": "Financial Business Analyst 02\u2013 Order Management / Quote-to-Order",
-   "location": "BENGALURU, KARNATAKA, India",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346183",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Oracle",
    "id": "Oracle:346181",
    "title": "Financial Business Analyst 01\u2013 Order Management / Quote-to-Order",
    "location": "BENGALURU, KARNATAKA, India",
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346181",
    "posted": "2026-11-02",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Oracle",
+   "id": "Oracle:346183",
+   "title": "Financial Business Analyst 02\u2013 Order Management / Quote-to-Order",
+   "location": "BENGALURU, KARNATAKA, India",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346183",
+   "posted": "2026-10-29",
    "closes": "",
    "years": null
   },
@@ -2562,16 +2552,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210805734",
-   "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805734",
-   "posted": "2026-11-05",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210799688",
    "title": "Agility Senior Associate - AI Enablement",
    "location": "Bengaluru, Karnataka, India",
@@ -2612,26 +2592,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210804246",
-   "title": "Financial Analysis-Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804246",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210804686",
-   "title": "Fund Servicing Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804686",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210782810",
    "title": "Associate - Entity Controller",
    "location": "Bengaluru, Karnataka, India",
@@ -2639,6 +2599,36 @@
    "posted": "2026-10-30",
    "closes": "",
    "years": 6
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210805734",
+   "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805734",
+   "posted": "2026-11-05",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210799593",
+   "title": "Associate - Analytics Solutions",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799593",
+   "posted": "2026-10-23",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210803295",
+   "title": "Data Owner - Senior Associate -Business Banking",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803295",
+   "posted": "2026-10-27",
+   "closes": "",
+   "years": 8
   },
   {
    "company": "JPMorgan Chase",
@@ -2682,16 +2672,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210790268",
-   "title": "Financial Analysis-Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790268",
-   "posted": "2026-10-29",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210801652",
    "title": "Business Management-Associate",
    "location": "Bengaluru, Karnataka, India, Mumbai, Maharashtra, India",
@@ -2722,11 +2702,11 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210799593",
-   "title": "Associate - Analytics Solutions",
+   "id": "JPMorgan Chase:210790268",
+   "title": "Financial Analysis-Associate",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799593",
-   "posted": "2026-10-23",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790268",
+   "posted": "2026-10-29",
    "closes": "",
    "years": 3
   },
@@ -2802,6 +2782,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210804246",
+   "title": "Financial Analysis-Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804246",
+   "posted": "2026-10-29",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210795316",
    "title": "Control Management-Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -2842,6 +2832,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210805751",
+   "title": "Associate-Financial Analysis-Central Allocations",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805751",
+   "posted": "2026-11-11",
+   "closes": "",
+   "years": 4
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210800926",
    "title": "Data Management Senior Associate",
    "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
@@ -2872,16 +2872,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210793061",
-   "title": "Quant Analytics Associate",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793061",
-   "posted": "2026-11-09",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210808225",
    "title": "Commercial & Investment Bank Risk Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -2892,13 +2882,13 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210805751",
-   "title": "Associate-Financial Analysis-Central Allocations",
+   "id": "JPMorgan Chase:210793061",
+   "title": "Quant Analytics Associate",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805751",
-   "posted": "2026-11-11",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793061",
+   "posted": "2026-11-09",
    "closes": "",
-   "years": 4
+   "years": 3
   },
   {
    "company": "JPMorgan Chase",
@@ -2909,6 +2899,16 @@
    "posted": "2026-11-03",
    "closes": "",
    "years": 1
+  },
+  {
+   "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210804686",
+   "title": "Fund Servicing Associate",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804686",
+   "posted": "2026-10-29",
+   "closes": "",
+   "years": null
   },
   {
    "company": "JPMorgan Chase",
@@ -2959,16 +2959,6 @@
    "posted": "2026-04-01",
    "closes": "",
    "years": 2
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210803295",
-   "title": "Data Owner - Senior Associate -Business Banking",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803295",
-   "posted": "2026-10-27",
-   "closes": "",
-   "years": 8
   },
   {
    "company": "American Express",
@@ -3072,6 +3062,16 @@
   },
   {
    "company": "Microsoft",
+   "id": "Microsoft:1970393557070058",
+   "title": "Senior Product Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
+   "posted": "2026-11-11",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
    "id": "Microsoft:1970393557037770",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
@@ -3087,16 +3087,6 @@
    "location": "India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
    "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393557070058",
-   "title": "Senior Product Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
-   "posted": "2026-11-11",
    "closes": "",
    "years": null
   },
@@ -3192,21 +3182,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721765981",
-   "title": "Finance Analyst, Associate",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721765981",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721410533",
    "title": "Finance Analyst, Associate",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446721410533",
    "posted": "2026-10-23",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721765981",
+   "title": "Finance Analyst, Associate",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721765981",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -3252,26 +3242,6 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612437134",
-   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
-   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
-   "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774611695267",
-   "title": "Private Assets Business Analyst",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774611695267",
-   "posted": "2026-07-01",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612423032",
    "title": "Product Manager - Global Trade Solutions",
    "location": "Bangalore, Karnataka, India",
@@ -3292,11 +3262,11 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612522100",
-   "title": "Lead - Data and Product Strategy",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612522100",
-   "posted": "2026-10-22",
+   "id": "HSBC:563774612617778",
+   "title": "Senior Business Analyst - Counterparty Credit Risk",
+   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
+   "posted": "2026-11-10",
    "closes": "",
    "years": null
   },
@@ -3312,21 +3282,41 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612617778",
-   "title": "Senior Business Analyst - Counterparty Credit Risk",
-   "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
-   "posted": "2026-11-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
    "id": "HSBC:563774612436815",
    "title": "Fixed Income Product Specialist",
    "location": "Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612436815",
    "posted": "2026-10-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612437134",
+   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
+   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
+   "posted": "2026-10-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774611695267",
+   "title": "Private Assets Business Analyst",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774611695267",
+   "posted": "2026-07-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612522100",
+   "title": "Lead - Data and Product Strategy",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612522100",
+   "posted": "2026-10-22",
    "closes": "",
    "years": null
   },
@@ -3432,6 +3422,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:64128",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64126",
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
@@ -3452,16 +3452,6 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64128",
-   "title": "Associate Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
-   "posted": "2026-11-02",
-   "closes": "2026-11-16",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:63210",
    "title": "Senior Manager, OTCR Risk Reporting",
    "location": "Bangalore, IND ",
@@ -3472,12 +3462,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65113",
-   "title": "Manager Strategy & Governance",
+   "id": "Standard Chartered:65618",
+   "title": "Process Lead - Market Ops Reference Data",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Manager-Strategy-&amp;-Governance/65113-en_GB",
-   "posted": "2026-11-05",
-   "closes": "2026-11-13",
+   "url": "https://jobs.standardchartered.com/job/Process-Lead-Market-Ops-Reference-Data/65618-en_GB",
+   "posted": "2026-11-10",
+   "closes": "2026-11-25",
    "years": null
   },
   {
@@ -3492,6 +3482,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:65113",
+   "title": "Manager Strategy & Governance",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Manager-Strategy-&amp;-Governance/65113-en_GB",
+   "posted": "2026-11-05",
+   "closes": "2026-11-13",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:62910",
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
@@ -3502,12 +3502,32 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65618",
-   "title": "Process Lead - Market Ops Reference Data",
+   "id": "Standard Chartered:57947",
+   "title": "Senior Manager Risk Manager",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Process-Lead-Market-Ops-Reference-Data/65618-en_GB",
-   "posted": "2026-11-10",
-   "closes": "2026-11-25",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64057",
+   "title": "Senior Manager, Market Risk Management",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:63217",
+   "title": "Manager, OTCR, Risk Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Manager%2C-OTCR%2C-Risk-Reporting/63217-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-24",
    "years": null
   },
   {
@@ -3532,6 +3552,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:65833",
+   "title": "Associate Lead, IRRBB Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Lead%2C-IRRBB-Reporting/65833-en_GB",
+   "posted": "2026-11-11",
+   "closes": "2026-11-27",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:61083",
    "title": "Associate Manager, FR Cards Strategy",
    "location": "Bangalore, IND ",
@@ -3542,12 +3572,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65833",
-   "title": "Associate Lead, IRRBB Reporting",
+   "id": "Standard Chartered:60236",
+   "title": "Product Owner Risk Analytics",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Lead%2C-IRRBB-Reporting/65833-en_GB",
-   "posted": "2026-11-11",
-   "closes": "2026-11-27",
+   "url": "https://jobs.standardchartered.com/job/Product-Owner-Risk-Analytics/60236-en_GB",
+   "posted": "2026-11-13",
+   "closes": "2026-11-14",
    "years": null
   },
   {
@@ -7282,16 +7312,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10469766",
-   "title": "Business Analyst, India Supply Chain, IN Supply Chain - Analytics and Automation",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10469766/business-analyst-india-supply-chain-in-supply-chain-analytics-and-automation",
-   "posted": "2026-07-09",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10496479",
    "title": "Sr Program Manager, IN Hub and Flex",
    "location": "Bengaluru, Karnataka, IND",
@@ -8012,6 +8032,16 @@
   },
   {
    "company": "Goldman Sachs",
+   "id": "Goldman Sachs:188546_GS_MID_CAREER",
+   "title": "Global Banking and Market Operations-Exotic Trade Review-Associate-Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/188546",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
    "id": "Goldman Sachs:a9dd85ce-d5ef-4abc-ab2d-bede931a6745",
    "title": "Asset & Wealth Management , Private Bank Lending, Underwriting, Associate, Bengaluru",
    "location": "Bengaluru",
@@ -8026,16 +8056,6 @@
    "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/188008",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188546_GS_MID_CAREER",
-   "title": "Global Banking and Market Operations-Exotic Trade Review-Associate-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188546",
    "posted": "",
    "closes": "",
    "years": null
@@ -8542,16 +8562,6 @@
   },
   {
    "company": "Tesco",
-   "id": "Tesco:217590",
-   "title": "Senior Associate- Fulfilment Optimisation",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Senior-Associate-Fulfilment-Optimisation/217590",
-   "posted": "2026-11-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
    "id": "Tesco:200927",
    "title": "Senior Associate-Digital Transformation",
    "location": "Bengaluru, Karnataka, India",
@@ -8562,16 +8572,6 @@
   },
   {
    "company": "Tesco",
-   "id": "Tesco:211150",
-   "title": "Lead Technical Programme Manager",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Lead-Technical-Programme-Manager/211150",
-   "posted": "2026-11-06",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
    "id": "Tesco:200938",
    "title": "Associate-Digital Transformation",
    "location": "Bengaluru, Karnataka, India",
@@ -8579,16 +8579,6 @@
    "posted": "2026-09-10",
    "closes": "",
    "years": 1
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:218928",
-   "title": "Technical Programme Manager Tagetik SaaS Platform",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
-   "posted": "2026-11-06",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Tesco",
@@ -8607,6 +8597,16 @@
    "location": "Bengaluru, Karnataka, India",
    "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Cyber/190974",
    "posted": "2026-10-27",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
+   "id": "Tesco:211150",
+   "title": "Lead Technical Programme Manager",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Lead-Technical-Programme-Manager/211150",
+   "posted": "2026-11-06",
    "closes": "",
    "years": null
   },
@@ -8671,7 +8671,7 @@
    null
   ],
   "Cisco": [
-   12,
+   11,
    null
   ],
   "Visa": [
@@ -8927,7 +8927,7 @@
    null
   ],
   "Standard Chartered": [
-   18,
+   22,
    null
   ],
   "Juspay": [
@@ -8975,7 +8975,7 @@
    null
   ],
   "Amazon": [
-   361,
+   360,
    null
   ],
   "Goldman Sachs": [
@@ -8991,14 +8991,12 @@
    null
   ],
   "Tesco": [
-   8,
+   6,
    null
   ]
  },
  "latest": [
-  "Wells Fargo:/job/Bengaluru-India/Senior-Risk-Analytics-Consultant_R-585866",
-  "Wells Fargo:/job/Bengaluru-India/Business-Execution-Associate_R-566649",
-  "JPMorgan Chase:210784840"
+  "Standard Chartered:60236"
  ],
- "latest_at": "12 Nov, 11:20 PM"
+ "latest_at": "13 Nov, 04:40 AM"
 }
