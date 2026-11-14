@@ -1,42 +1,42 @@
-Run 2026-11-14 04:32 took 1500s; 766 matches, 0 new this run
+Run 2026-11-14 13:06 took 1379s; 753 matches, 1 new this run
   AQR: 6 jobs
   Acko: 23 jobs
-  Adobe: 0 jobs  ERROR ValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: 'error code: 521\n'
+  Adobe: 0 jobs  ERROR ValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 349 jobs
+  Amazon: 346 jobs
   American Express: 1 jobs
   Apple: 7 jobs
   Arcesium: 5 jobs
   Atlan: 0 jobs
   Atlassian: 0 jobs
-  Autodesk: 0 jobs  ERROR ValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: 'error code: 521\n'
+  Autodesk: 0 jobs  ERROR ValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Barclays: 1 jobs
-  BlackRock: 0 jobs  ERROR ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: 'error code: 521\n'
+  BlackRock: 0 jobs  ERROR ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Bosch: 34 jobs
-  Broadridge: 0 jobs  ERROR ValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: 'error code: 521\n'
+  Broadridge: 0 jobs  ERROR ValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   BrowserStack: 0 jobs
   CRED: 3 jobs
   Cars24: 8 jobs
   Cashfree: 6 jobs
-  Cisco: 0 jobs  ERROR ValueError: no JSON from https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs: 'error code: 521\n'
-  Citi: 0 jobs  ERROR ValueError: no JSON from https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs: 'error code: 521\n'
+  Cisco: 0 jobs  ERROR ValueError: no JSON from https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Citi: 0 jobs  ERROR ValueError: no JSON from https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   D. E. Shaw: 8 jobs
   Databricks: 2 jobs
-  Deutsche Bank: 2 jobs
+  Deutsche Bank: 1 jobs
   Expedia: 0 jobs
   FactSet: 2 jobs
   Fi Money: 0 jobs
-  Fidelity: 0 jobs  ERROR ValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: 'error code: 521\n'
+  Fidelity: 0 jobs  ERROR ValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Freshworks: 1 jobs
   Goldman Sachs: 22 jobs
   Google: 34 jobs
   Groww: 1 jobs
   HSBC: 11 jobs
   InMobi: 4 jobs
-  Intel: 0 jobs  ERROR ValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: 'error code: 521\n'
+  Intel: 0 jobs  ERROR ValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Intuit: 2 jobs
-  Invesco: 0 jobs  ERROR ValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: 'error code: 521\n'
+  Invesco: 0 jobs  ERROR ValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   JPMorgan Chase: 49 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
@@ -44,22 +44,22 @@ Run 2026-11-14 04:32 took 1500s; 766 matches, 0 new this run
   Lenskart: 2 jobs
   Licious: 0 jobs
   LinkedIn: 0 jobs
-  Lowe's: 0 jobs  ERROR ValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: 'error code: 521\n'
-  Mastercard: 0 jobs  ERROR ValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: 'error code: 521\n'
+  Lowe's: 0 jobs  ERROR ValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Mastercard: 0 jobs  ERROR ValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Meesho: 8 jobs
   Microsoft: 11 jobs
-  Millennium: 0 jobs  ERROR ValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: 'error code: 521\n'
+  Millennium: 0 jobs  ERROR ValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Mindtickle: 2 jobs
-  Morgan Stanley: 0 jobs  ERROR ValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: 'error code: 521\n'
-  Nasdaq: 0 jobs  ERROR ValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: 'error code: 521\n'
+  Morgan Stanley: 0 jobs  ERROR ValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Nasdaq: 0 jobs  ERROR ValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Navi: 22 jobs
-  Nike: 0 jobs  ERROR ValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: 'error code: 521\n'
-  Northern Trust: 0 jobs  ERROR ValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: 'error code: 521\n'
-  Novartis: 5 jobs
-  Nvidia: 0 jobs  ERROR ValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: 'error code: 521\n'
+  Nike: 0 jobs  ERROR ValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Northern Trust: 0 jobs  ERROR ValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Novartis: 0 jobs
+  Nvidia: 0 jobs  ERROR ValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Okta: 4 jobs
-  Oracle: 9 jobs
-  PayPal: 0 jobs  ERROR ValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: 'error code: 521\n'
+  Oracle: 8 jobs
+  PayPal: 0 jobs  ERROR ValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Paytm: 20 jobs
   Philips: 2 jobs
   PhonePe: 26 jobs
@@ -67,7 +67,7 @@ Run 2026-11-14 04:32 took 1500s; 766 matches, 0 new this run
   Qualcomm: 13 jobs
   Razorpay: 11 jobs
   Rippling: 11 jobs
-  SS&C: 0 jobs  ERROR ValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: 'error code: 521\n'
+  SS&C: 0 jobs  ERROR ValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Salesforce: 7 jobs
   Samsung: 0 jobs
   ServiceNow: 3 jobs
@@ -75,20 +75,20 @@ Run 2026-11-14 04:32 took 1500s; 766 matches, 0 new this run
   Shell: 1 jobs
   Slice: 0 jobs
   Snowflake: 0 jobs
-  Sprinklr: 0 jobs  ERROR ValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: 'error code: 521\n'
+  Sprinklr: 0 jobs  ERROR ValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Squarepoint: 0 jobs
-  Standard Chartered: 17 jobs
-  State Street: 0 jobs  ERROR ValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: 'error code: 521\n'
+  Standard Chartered: 13 jobs
+  State Street: 0 jobs  ERROR ValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Stripe: 6 jobs
   Swiggy: 7 jobs
-  Target: 0 jobs  ERROR ValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: 'error code: 521\n'
-  Tesco: 4 jobs
+  Target: 0 jobs  ERROR ValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Tesco: 5 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
-  Visa: 0 jobs  ERROR ValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: 'error code: 521\n'
-  Wells Fargo: 0 jobs  ERROR ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: 'error code: 521\n'
+  Visa: 0 jobs  ERROR ValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
+  Wells Fargo: 0 jobs  ERROR ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   Whatfix: 0 jobs
-  Workday: 0 jobs  ERROR ValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: 'error code: 521\n'
+  Workday: 0 jobs  ERROR ValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//E'
   WorldQuant: 0 jobs
   ixigo: 0 jobs

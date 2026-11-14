@@ -71,56 +71,6 @@
    "years": 2
   },
   {
-   "company": "Novartis",
-   "id": "Novartis:/job/Bangalore-Office/Area-Manager---Regional-Business-Manager_REQ-10086743",
-   "title": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
-   "location": "Bangalore (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Bangalore-Office/Area-Manager---Regional-Business-Manager_REQ-10086743",
-   "posted": "2026-10-17",
-   "closes": "",
-   "years": 2
-  },
-  {
-   "company": "Novartis",
-   "id": "Novartis:/job/Mumbai-Office/Area-Manager_REQ-10086401",
-   "title": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
-   "location": "Mumbai (Office), Delhi (Office), Bangalore (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Office/Area-Manager_REQ-10086401",
-   "posted": "2026-11-12",
-   "closes": "",
-   "years": 2
-  },
-  {
-   "company": "Novartis",
-   "id": "Novartis:/job/Hyderabad-Office/Senior-Product-Analyst_REQ-10087153",
-   "title": "Senior Product Analyst",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Product-Analyst_REQ-10087153",
-   "posted": "2026-09-07",
-   "closes": "",
-   "years": 7
-  },
-  {
-   "company": "Novartis",
-   "id": "Novartis:/job/Hyderabad-Office/Product-Specialist_REQ-10088244",
-   "title": "Product Specialist",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Product-Specialist_REQ-10088244",
-   "posted": "2026-10-30",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Novartis",
-   "id": "Novartis:/job/Hyderabad-Office/Associate-Global-Regulatory-Manager--GRSS-C_REQ-10089481",
-   "title": "Associate Global Regulatory Manager, GRSS&C",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Global-Regulatory-Manager--GRSS-C_REQ-10089481",
-   "posted": "2026-11-12",
-   "closes": "2026-11-19",
-   "years": 5
-  },
-  {
    "company": "Barclays",
    "id": "Barclays:/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Vice-President---AI-Engineer_JR-0000102510",
    "title": "Product Owner - AI",
@@ -139,16 +89,6 @@
    "posted": "2026-11-06",
    "closes": "",
    "years": 4
-  },
-  {
-   "company": "Deutsche Bank",
-   "id": "Deutsche Bank:/job/do-not-use-Bangalore-Velankani-Tech-Park/Associate---Payroll-Control_R0450952",
-   "title": "Associate \u2013 Payroll Control",
-   "location": "(do not use) Bangalore, Velankani Tech Park",
-   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/Associate---Payroll-Control_R0450952",
-   "posted": "2026-09-16",
-   "closes": "",
-   "years": 6
   },
   {
    "company": "Philips",
@@ -1542,16 +1482,6 @@
   },
   {
    "company": "Oracle",
-   "id": "Oracle:346488",
-   "title": "Business Analyst 3-Ops",
-   "location": "BENGALURU, KARNATAKA, India",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346488",
-   "posted": "2026-11-03",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Oracle",
    "id": "Oracle:346181",
    "title": "Financial Business Analyst 01\u2013 Order Management / Quote-to-Order",
    "location": "BENGALURU, KARNATAKA, India",
@@ -1722,6 +1652,16 @@
   },
   {
    "company": "JPMorgan Chase",
+   "id": "JPMorgan Chase:210784011",
+   "title": "Valuation Control - Associate",
+   "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784011",
+   "posted": "2026-11-06",
+   "closes": "",
+   "years": 5
+  },
+  {
+   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210805734",
    "title": "Strategy & Competitive Intelligence Associate, Global Banking-Bengaluru/Mumbai",
    "location": "Bengaluru, Karnataka, India",
@@ -1787,16 +1727,6 @@
    "location": "Bengaluru, Karnataka, India",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778996",
    "posted": "2026-11-12",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210784011",
-   "title": "Valuation Control - Associate",
-   "location": "Mumbai, Maharashtra, India, Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784011",
-   "posted": "2026-11-06",
    "closes": "",
    "years": 5
   },
@@ -2062,21 +1992,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557047351",
-   "title": "Group Product Manager",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557040598",
    "title": "Senior Product Manager",
    "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
    "posted": "2026-10-16",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557047351",
+   "title": "Group Product Manager",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -2122,11 +2052,11 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557070058",
+   "id": "Microsoft:1970393557040071",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
-   "posted": "2026-11-11",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -2142,20 +2072,10 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557040071",
+   "id": "Microsoft:1970393557070058",
    "title": "Senior Product Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040071",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
-   "id": "Microsoft:1970393557044076",
-   "title": "Project Manager",
-   "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044076",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070058",
    "posted": "2026-11-11",
    "closes": "",
    "years": null
@@ -2166,6 +2086,16 @@
    "title": "Senior Project Manager",
    "location": "India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556950517",
+   "posted": "2026-11-11",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557044076",
+   "title": "Project Manager",
+   "location": "India, Telangana, Hyderabad",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044076",
    "posted": "2026-11-11",
    "closes": "",
    "years": null
@@ -2302,21 +2232,11 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612437134",
-   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
-   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
-   "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612522100",
-   "title": "Lead - Data and Product Strategy",
+   "id": "HSBC:563774612563211",
+   "title": "North Star Market Implementation Programme Manager",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612522100",
-   "posted": "2026-10-22",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612563211",
+   "posted": "2026-10-30",
    "closes": "",
    "years": null
   },
@@ -2332,30 +2252,20 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774612522100",
+   "title": "Lead - Data and Product Strategy",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612522100",
+   "posted": "2026-10-22",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612617778",
    "title": "Senior Business Analyst - Counterparty Credit Risk",
    "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
-   "posted": "2026-11-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612614206",
-   "title": "Sr Associate - Employee Workplace Solutions",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612614206",
-   "posted": "2026-11-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612616090",
-   "title": "Lead - Central Securities Depository Risk",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612616090",
    "posted": "2026-11-10",
    "closes": "",
    "years": null
@@ -2382,21 +2292,41 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612616688",
-   "title": "Senior Associate - Business Analyst",
+   "id": "HSBC:563774612614206",
+   "title": "Sr Associate - Employee Workplace Solutions",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612616688",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612614206",
+   "posted": "2026-11-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612437134",
+   "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
+   "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
+   "posted": "2026-10-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612616090",
+   "title": "Lead - Central Securities Depository Risk",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612616090",
    "posted": "2026-11-10",
    "closes": "",
    "years": null
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612563211",
-   "title": "North Star Market Implementation Programme Manager",
+   "id": "HSBC:563774612616688",
+   "title": "Senior Associate - Business Analyst",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612563211",
-   "posted": "2026-10-30",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612616688",
+   "posted": "2026-11-10",
    "closes": "",
    "years": null
   },
@@ -2502,62 +2432,22 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:64512",
+   "title": "Associate Manager, Product Control",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager%2C-Product-Control/64512-en_GB",
+   "posted": "2026-10-16",
+   "closes": "2026-11-14",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:63210",
    "title": "Senior Manager, OTCR Risk Reporting",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-OTCR-Risk-Reporting/63210-en_GB",
    "posted": "2026-11-04",
    "closes": "2026-11-25",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:64128",
-   "title": "Associate Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
-   "posted": "2026-11-02",
-   "closes": "2026-11-16",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:64126",
-   "title": "Associate Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
-   "posted": "2026-11-02",
-   "closes": "2026-11-16",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:57947",
-   "title": "Senior Manager Risk Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-28",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:64057",
-   "title": "Senior Manager, Market Risk Management",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-28",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:63217",
-   "title": "Manager, OTCR, Risk Reporting",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-OTCR%2C-Risk-Reporting/63217-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-24",
    "years": null
   },
   {
@@ -2572,21 +2462,21 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:65358",
+   "title": "Regulatory Conduct Risk Governance Lead",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Regulatory-Conduct-Risk-Governance-Lead/65358-en_GB",
+   "posted": "2026-11-06",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:59247",
    "title": "Associate, Liquidity Reporting",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Associate%2C-Liquidity-Reporting/59247-en_GB",
    "posted": "2026-11-12",
-   "closes": "2026-11-19",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:57586",
-   "title": "Senior Associate, IRRBB Reporting",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Associate%2C-IRRBB-Reporting/57586-en_GB",
-   "posted": "2026-11-11",
    "closes": "2026-11-19",
    "years": null
   },
@@ -3492,6 +3382,16 @@
   },
   {
    "company": "Amazon",
+   "id": "Amazon:10605156",
+   "title": "Senior Manager, Product Management, Technical",
+   "location": "Hyderabad, Telangana, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10605156/senior-manager-product-management-technical",
+   "posted": "2026-11-14",
+   "closes": "",
+   "years": 6
+  },
+  {
+   "company": "Amazon",
    "id": "Amazon:10603975",
    "title": "Sr. Program Manager - Seller Reimbursement Tool, WW SAFE-T",
    "location": "Bengaluru, Karnataka, IND",
@@ -4242,16 +4142,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10595116",
-   "title": "Ops Support Expert, NASC, Global Solutions and Risk Compliance (GSRC)",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10595116/ops-support-expert-nasc-global-solutions-and-risk-compliance-gsrc",
-   "posted": "2026-11-03",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10595161",
    "title": "Ops Support Expert, NASC, Global Solutions and Risk Compliance (GSRC)",
    "location": "Bengaluru, Karnataka, IND",
@@ -4679,16 +4569,6 @@
    "posted": "2026-10-06",
    "closes": "",
    "years": 2
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10578262",
-   "title": "Program Manager II, AMXL Planning",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10578262/program-manager-ii-amxl-planning",
-   "posted": "2026-10-14",
-   "closes": "",
-   "years": 3
   },
   {
    "company": "Amazon",
@@ -6102,16 +5982,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10504975",
-   "title": "Risk Manager, Law Enforcement Engagement, SOG, Law Enforcement Engagement, Security Operations Group",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10504975/risk-manager-law-enforcement-engagement-sog-law-enforcement-engagement-security-operations-group",
-   "posted": "2026-08-18",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10498328",
    "title": "Senior Product Manager, Amazon Shipping",
    "location": "Bengaluru, Karnataka, IND",
@@ -6359,16 +6229,6 @@
    "posted": "2026-08-03",
    "closes": "",
    "years": 4
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10476718",
-   "title": "Sr. Product Manager, Operations Evaluation, Worldwide Returns and Recommerce",
-   "location": "Hyderabad, Telangana, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10476718/sr-product-manager-operations-evaluation-worldwide-returns-and-recommerce",
-   "posted": "2026-07-16",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Amazon",
@@ -7092,20 +6952,20 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188008_GS_MID_CAREER",
-   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "id": "Goldman Sachs:186251_GS_MID_CAREER",
+   "title": "Asset & Wealth Management- MAS PMR - Associate- Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188008",
+   "url": "https://higher.gs.com/roles/186251",
    "posted": "",
    "closes": "",
    "years": null
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:186251_GS_MID_CAREER",
-   "title": "Asset & Wealth Management- MAS PMR - Associate- Bengaluru",
+   "id": "Goldman Sachs:188008_GS_MID_CAREER",
+   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/186251",
+   "url": "https://higher.gs.com/roles/188008",
    "posted": "",
    "closes": "",
    "years": null
@@ -7622,6 +7482,36 @@
   },
   {
    "company": "Tesco",
+   "id": "Tesco:211150",
+   "title": "Lead Technical Programme Manager",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Lead-Technical-Programme-Manager/211150",
+   "posted": "2026-11-06",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
+   "id": "Tesco:218928",
+   "title": "Technical Programme Manager Tagetik SaaS Platform",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
+   "posted": "2026-11-06",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
+   "id": "Tesco:200927",
+   "title": "Senior Associate-Digital Transformation",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Senior-Associate-Digital-Transformation/200927",
+   "posted": "2026-09-10",
+   "closes": "",
+   "years": 4
+  },
+  {
+   "company": "Tesco",
    "id": "Tesco:218875",
    "title": "Technical Programme Manager",
    "location": "Bengaluru, Karnataka, India",
@@ -7639,26 +7529,6 @@
    "posted": "2026-10-27",
    "closes": "",
    "years": null
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:218928",
-   "title": "Technical Programme Manager Tagetik SaaS Platform",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
-   "posted": "2026-11-06",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:211150",
-   "title": "Lead Technical Programme Manager",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Lead-Technical-Programme-Manager/211150",
-   "posted": "2026-11-06",
-   "closes": "",
-   "years": null
   }
  ],
  "status": {
@@ -7668,35 +7538,35 @@
   ],
   "Adobe": [
    0,
-   "ValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Workday": [
    0,
-   "ValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Mastercard": [
    0,
-   "ValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "PayPal": [
    0,
-   "ValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Target": [
    0,
-   "ValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Novartis": [
-   5,
+   0,
    null
   ],
   "Wells Fargo": [
    0,
-   "ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Citi": [
    0,
-   "ValueError: no JSON from https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Barclays": [
    1,
@@ -7704,23 +7574,23 @@
   ],
   "Morgan Stanley": [
    0,
-   "ValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Deutsche Bank": [
-   2,
+   1,
    null
   ],
   "Cisco": [
    0,
-   "ValueError: no JSON from https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Visa": [
    0,
-   "ValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Lowe's": [
    0,
-   "ValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "BrowserStack": [
    0,
@@ -7728,7 +7598,7 @@
   ],
   "BlackRock": [
    0,
-   "ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Postman": [
    0,
@@ -7736,11 +7606,11 @@
   ],
   "Nvidia": [
    0,
-   "ValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Intel": [
    0,
-   "ValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Expedia": [
    0,
@@ -7748,11 +7618,11 @@
   ],
   "Autodesk": [
    0,
-   "ValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Sprinklr": [
    0,
-   "ValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Samsung": [
    0,
@@ -7768,23 +7638,23 @@
   ],
   "Nike": [
    0,
-   "ValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Fidelity": [
    0,
-   "ValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "State Street": [
    0,
-   "ValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Northern Trust": [
    0,
-   "ValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Invesco": [
    0,
-   "ValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "FactSet": [
    2,
@@ -7792,19 +7662,19 @@
   ],
   "Nasdaq": [
    0,
-   "ValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Broadridge": [
    0,
-   "ValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "SS&C": [
    0,
-   "ValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Millennium": [
    0,
-   "ValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: 'error code: 521\\n'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: 'error code: 521\\n'\n"
+   "ValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 714, in <lambda>\n    s = [(n, lambda a=a: workday(*a)) for a in WORKDAY for n in [a[0]]]\n                         ^^^^^^^^^^^\nValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: '<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//E'\n"
   ],
   "Arcesium": [
    5,
@@ -7931,7 +7801,7 @@
    null
   ],
   "Oracle": [
-   9,
+   8,
    null
   ],
   "JPMorgan Chase": [
@@ -7967,7 +7837,7 @@
    null
   ],
   "Standard Chartered": [
-   17,
+   13,
    null
   ],
   "Juspay": [
@@ -8015,7 +7885,7 @@
    null
   ],
   "Amazon": [
-   349,
+   346,
    null
   ],
   "Goldman Sachs": [
@@ -8031,13 +7901,12 @@
    null
   ],
   "Tesco": [
-   4,
+   5,
    null
   ]
  },
  "latest": [
-  "Wells Fargo:/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
-  "Wells Fargo:/job/Bengaluru-India/Lead-Credit-Risk-Analytics-Consultant_R-578487"
+  "Amazon:10605156"
  ],
- "latest_at": "13 Nov, 11:24 PM"
+ "latest_at": "14 Nov, 01:06 PM"
 }
