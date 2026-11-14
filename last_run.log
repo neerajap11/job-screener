@@ -1,4 +1,4 @@
-Run 2026-11-13 23:24 took 1315s; 794 matches, 2 new this run
+Run 2026-11-14 04:32 took 1500s; 766 matches, 0 new this run
   AQR: 6 jobs
   Acko: 23 jobs
   Adobe: 0 jobs  ERROR ValueError: no JSON from https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs: 'error code: 521\n'
@@ -10,9 +10,9 @@ Run 2026-11-13 23:24 took 1315s; 794 matches, 2 new this run
   Arcesium: 5 jobs
   Atlan: 0 jobs
   Atlassian: 0 jobs
-  Autodesk: 0 jobs
+  Autodesk: 0 jobs  ERROR ValueError: no JSON from https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs: 'error code: 521\n'
   Barclays: 1 jobs
-  BlackRock: 1 jobs
+  BlackRock: 0 jobs  ERROR ValueError: no JSON from https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professiona: 'error code: 521\n'
   Bosch: 34 jobs
   Broadridge: 0 jobs  ERROR ValueError: no JSON from https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs: 'error code: 521\n'
   BrowserStack: 0 jobs
@@ -27,16 +27,16 @@ Run 2026-11-13 23:24 took 1315s; 794 matches, 2 new this run
   Expedia: 0 jobs
   FactSet: 2 jobs
   Fi Money: 0 jobs
-  Fidelity: 1 jobs
+  Fidelity: 0 jobs  ERROR ValueError: no JSON from https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs: 'error code: 521\n'
   Freshworks: 1 jobs
   Goldman Sachs: 22 jobs
   Google: 34 jobs
   Groww: 1 jobs
   HSBC: 11 jobs
   InMobi: 4 jobs
-  Intel: 0 jobs
+  Intel: 0 jobs  ERROR ValueError: no JSON from https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs: 'error code: 521\n'
   Intuit: 2 jobs
-  Invesco: 7 jobs
+  Invesco: 0 jobs  ERROR ValueError: no JSON from https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs: 'error code: 521\n'
   JPMorgan Chase: 49 jobs
   Jupiter: 2 jobs
   Juspay: 8 jobs
@@ -45,21 +45,21 @@ Run 2026-11-13 23:24 took 1315s; 794 matches, 2 new this run
   Licious: 0 jobs
   LinkedIn: 0 jobs
   Lowe's: 0 jobs  ERROR ValueError: no JSON from https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs: 'error code: 521\n'
-  Mastercard: 0 jobs
+  Mastercard: 0 jobs  ERROR ValueError: no JSON from https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jo: 'error code: 521\n'
   Meesho: 8 jobs
   Microsoft: 11 jobs
   Millennium: 0 jobs  ERROR ValueError: no JSON from https://mlp.wd5.myworkdayjobs.com/wday/cxs/mlp/mlpcareers/jobs: 'error code: 521\n'
   Mindtickle: 2 jobs
   Morgan Stanley: 0 jobs  ERROR ValueError: no JSON from https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs: 'error code: 521\n'
-  Nasdaq: 4 jobs
+  Nasdaq: 0 jobs  ERROR ValueError: no JSON from https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs: 'error code: 521\n'
   Navi: 22 jobs
-  Nike: 0 jobs
-  Northern Trust: 12 jobs
+  Nike: 0 jobs  ERROR ValueError: no JSON from https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs: 'error code: 521\n'
+  Northern Trust: 0 jobs  ERROR ValueError: no JSON from https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs: 'error code: 521\n'
   Novartis: 5 jobs
   Nvidia: 0 jobs  ERROR ValueError: no JSON from https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jo: 'error code: 521\n'
   Okta: 4 jobs
   Oracle: 9 jobs
-  PayPal: 3 jobs
+  PayPal: 0 jobs  ERROR ValueError: no JSON from https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs: 'error code: 521\n'
   Paytm: 20 jobs
   Philips: 2 jobs
   PhonePe: 26 jobs
@@ -67,7 +67,7 @@ Run 2026-11-13 23:24 took 1315s; 794 matches, 2 new this run
   Qualcomm: 13 jobs
   Razorpay: 11 jobs
   Rippling: 11 jobs
-  SS&C: 1 jobs
+  SS&C: 0 jobs  ERROR ValueError: no JSON from https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs: 'error code: 521\n'
   Salesforce: 7 jobs
   Samsung: 0 jobs
   ServiceNow: 3 jobs
@@ -75,19 +75,19 @@ Run 2026-11-13 23:24 took 1315s; 794 matches, 2 new this run
   Shell: 1 jobs
   Slice: 0 jobs
   Snowflake: 0 jobs
-  Sprinklr: 0 jobs
+  Sprinklr: 0 jobs  ERROR ValueError: no JSON from https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs: 'error code: 521\n'
   Squarepoint: 0 jobs
-  Standard Chartered: 0 jobs  ERROR ValueError: no JSON from https://jobs.standardchartered.com/services/recruiting/v1/jobs: '404 error'
-  State Street: 10 jobs
+  Standard Chartered: 17 jobs
+  State Street: 0 jobs  ERROR ValueError: no JSON from https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs: 'error code: 521\n'
   Stripe: 6 jobs
   Swiggy: 7 jobs
   Target: 0 jobs  ERROR ValueError: no JSON from https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs: 'error code: 521\n'
-  Tesco: 7 jobs
+  Tesco: 4 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 0 jobs  ERROR ValueError: no JSON from https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs: 'error code: 521\n'
-  Wells Fargo: 7 jobs
+  Wells Fargo: 0 jobs  ERROR ValueError: no JSON from https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs: 'error code: 521\n'
   Whatfix: 0 jobs
   Workday: 0 jobs  ERROR ValueError: no JSON from https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs: 'error code: 521\n'
   WorldQuant: 0 jobs
