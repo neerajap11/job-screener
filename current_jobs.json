@@ -32,16 +32,6 @@
   },
   {
    "company": "Salesforce",
-   "id": "Salesforce:/job/India---Hyderabad/Senior-Salesforce-Project-Manager--Salesforce-Implementation-Experience-Mandatory-_JR355896",
-   "title": "Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory)",
-   "location": "India - Hyderabad, India - Bangalore, India - Pune, India - Mumbai",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Senior-Salesforce-Project-Manager--Salesforce-Implementation-Experience-Mandatory-_JR355896",
-   "posted": "2026-10-30",
-   "closes": "",
-   "years": 8
-  },
-  {
-   "company": "Salesforce",
    "id": "Salesforce:/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366420",
    "title": "Technical Business Analyst, Product & Pricing Operations",
    "location": "India - Hyderabad",
@@ -236,16 +226,6 @@
    "title": "Senior Digital Product Manager - Platform Product Management",
    "location": "Bengaluru, India",
    "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager---Platform-Product-Management_R-579303-1",
-   "posted": "2026-11-13",
-   "closes": "2026-11-16",
-   "years": 2
-  },
-  {
-   "company": "Wells Fargo",
-   "id": "Wells Fargo:/job/Bengaluru-India/Product-Manager_R-581330",
-   "title": "Product Manager",
-   "location": "Bengaluru, India",
-   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Product-Manager_R-581330",
    "posted": "2026-11-13",
    "closes": "2026-11-16",
    "years": 2
@@ -2912,20 +2892,20 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557044076",
-   "title": "Project Manager",
+   "id": "Microsoft:1970393556950517",
+   "title": "Senior Project Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044076",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556950517",
    "posted": "2026-11-11",
    "closes": "",
    "years": null
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393556950517",
-   "title": "Senior Project Manager",
+   "id": "Microsoft:1970393557044076",
+   "title": "Project Manager",
    "location": "India, Telangana, Hyderabad",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556950517",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044076",
    "posted": "2026-11-11",
    "closes": "",
    "years": null
@@ -3062,11 +3042,21 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612616193",
-   "title": "Senior Associate - Derivatives Market Documentation",
+   "id": "HSBC:563774612436815",
+   "title": "Fixed Income Product Specialist",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612616193",
-   "posted": "2026-11-10",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612436815",
+   "posted": "2026-10-09",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612614206",
+   "title": "Sr Associate - Employee Workplace Solutions",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612614206",
+   "posted": "2026-11-09",
    "closes": "",
    "years": null
   },
@@ -3092,30 +3082,20 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774612616193",
+   "title": "Senior Associate - Derivatives Market Documentation",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612616193",
+   "posted": "2026-11-10",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612437134",
    "title": "Enterprise Talent - Risk, Governance, Vendor Management Lead",
    "location": "Hyderabad, Telangana, India; Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612437134",
-   "posted": "2026-10-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612614206",
-   "title": "Sr Associate - Employee Workplace Solutions",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612614206",
-   "posted": "2026-11-09",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612436815",
-   "title": "Fixed Income Product Specialist",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612436815",
    "posted": "2026-10-09",
    "closes": "",
    "years": null
@@ -3212,10 +3192,30 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:64126",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64126-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64127",
    "title": "Associate Manager",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Associate-Manager/64127-en_GB",
+   "posted": "2026-11-02",
+   "closes": "2026-11-16",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64128",
+   "title": "Associate Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager/64128-en_GB",
    "posted": "2026-11-02",
    "closes": "2026-11-16",
    "years": null
@@ -3252,22 +3252,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:64057",
-   "title": "Senior Manager, Market Risk Management",
+   "id": "Standard Chartered:59247",
+   "title": "Associate, Liquidity Reporting",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-28",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:57947",
-   "title": "Senior Manager Risk Manager",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-28",
+   "url": "https://jobs.standardchartered.com/job/Associate%2C-Liquidity-Reporting/59247-en_GB",
+   "posted": "2026-11-12",
+   "closes": "2026-11-19",
    "years": null
   },
   {
@@ -5652,16 +5642,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10568485",
-   "title": "Associate, Quality Services, Auto Software (Smart Vehicles), Amazon Smart Vehicles",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10568485/associate-quality-services-auto-software-smart-vehicles-amazon-smart-vehicles",
-   "posted": "2026-10-04",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10563368",
    "title": "Sr. Product Manager - Tech, Cross Border and International Expansions",
    "location": "Bengaluru, Karnataka, IND",
@@ -5809,16 +5789,6 @@
    "posted": "2026-09-22",
    "closes": "",
    "years": 2
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10585315",
-   "title": "Associate, Quality Services, (Smart Vehicles), Amazon Smart Vehicles",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10585315/associate-quality-services-smart-vehicles-amazon-smart-vehicles",
-   "posted": "2026-10-21",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Amazon",
@@ -8333,7 +8303,7 @@
  ],
  "status": {
   "Salesforce": [
-   8,
+   7,
    null
   ],
   "Adobe": [
@@ -8361,7 +8331,7 @@
    null
   ],
   "Wells Fargo": [
-   6,
+   5,
    null
   ],
   "Citi": [
@@ -8637,7 +8607,7 @@
    null
   ],
   "Standard Chartered": [
-   13,
+   14,
    null
   ],
   "Juspay": [
@@ -8685,7 +8655,7 @@
    null
   ],
   "Amazon": [
-   348,
+   346,
    null
   ],
   "Goldman Sachs": [
