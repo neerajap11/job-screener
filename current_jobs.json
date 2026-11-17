@@ -1352,6 +1352,16 @@
   },
   {
    "company": "Stripe",
+   "id": "Stripe:7813411",
+   "title": "Strategy and Analytics Business Partner",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+   "posted": "2026-04-30",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Stripe",
    "id": "Stripe:8245230",
    "title": "Strategy and Analytics Business Partner",
    "location": "Bangalore",
@@ -2442,16 +2452,6 @@
   },
   {
    "company": "Oracle",
-   "id": "Oracle:346298",
-   "title": "Business Analyst 1-Ops",
-   "location": "BENGALURU, KARNATAKA, India",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346298",
-   "posted": "2026-11-17",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Oracle",
    "id": "Oracle:346488",
    "title": "Business Analyst 3-Ops",
    "location": "BENGALURU, KARNATAKA, India",
@@ -3052,21 +3052,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446718894423",
-   "title": "Senior HW Program Manager",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446718894423",
-   "posted": "2026-06-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721582625",
    "title": "DDR Subsystem - Sr HW Program Manager",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446721582625",
    "posted": "2026-10-15",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446718894423",
+   "title": "Senior HW Program Manager",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446718894423",
+   "posted": "2026-06-10",
    "closes": "",
    "years": null
   },
@@ -3271,76 +3271,6 @@
    "years": null
   },
   {
-   "company": "Apple",
-   "id": "Apple:200693097",
-   "title": "Strategic Sourcing Manager",
-   "location": "Bengaluru",
-   "url": "https://jobs.apple.com/en-in/details/200693097/strategic-sourcing-manager",
-   "posted": "2026-11-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Apple",
-   "id": "Apple:200689654",
-   "title": "PMO Program Manager",
-   "location": "Hyderabad",
-   "url": "https://jobs.apple.com/en-in/details/200689654/pmo-program-manager",
-   "posted": "2026-10-22",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Apple",
-   "id": "Apple:200688394",
-   "title": "CapEx Program Manager - Product Operations",
-   "location": "Bengaluru",
-   "url": "https://jobs.apple.com/en-in/details/200688394/capex-program-manager-product-operations",
-   "posted": "2026-10-12",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Apple",
-   "id": "Apple:200682195",
-   "title": "Technical Program Manager - Product Operations",
-   "location": "Bengaluru",
-   "url": "https://jobs.apple.com/en-in/details/200682195/technical-program-manager-product-operations",
-   "posted": "2026-09-07",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Apple",
-   "id": "Apple:200675701",
-   "title": "Materials Program Manager",
-   "location": "Bengaluru",
-   "url": "https://jobs.apple.com/en-in/details/200675701/materials-program-manager",
-   "posted": "2026-08-04",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Apple",
-   "id": "Apple:200670682",
-   "title": "Technical Program Manager - Product Operations",
-   "location": "Bengaluru",
-   "url": "https://jobs.apple.com/en-in/details/200670682/technical-program-manager-product-operations",
-   "posted": "2026-07-02",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Apple",
-   "id": "Apple:200634214",
-   "title": "Operations Program Manager - Product Operations",
-   "location": "Bengaluru",
-   "url": "https://jobs.apple.com/en-in/details/200634214/operations-program-manager-product-operations",
-   "posted": "2025-11-28",
-   "closes": "",
-   "years": null
-  },
-  {
    "company": "Intuit",
    "id": "Intuit:99742134144",
    "title": "Staff Technical Program Manager \u2014 Multi-Entity Account Scale & Access Lifecycle",
@@ -3362,12 +3292,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:63217",
-   "title": "Manager, OTCR, Risk Reporting",
+   "id": "Standard Chartered:65618",
+   "title": "Process Lead - Market Ops Reference Data",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-OTCR%2C-Risk-Reporting/63217-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-24",
+   "url": "https://jobs.standardchartered.com/job/Process-Lead-Market-Ops-Reference-Data/65618-en_GB",
+   "posted": "2026-11-10",
+   "closes": "2026-11-25",
    "years": null
   },
   {
@@ -3392,12 +3322,22 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:59247",
-   "title": "Associate, Liquidity Reporting",
+   "id": "Standard Chartered:64057",
+   "title": "Senior Manager, Market Risk Management",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate%2C-Liquidity-Reporting/59247-en_GB",
-   "posted": "2026-11-12",
-   "closes": "2026-11-19",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:57947",
+   "title": "Senior Manager Risk Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
    "years": null
   },
   {
@@ -3408,6 +3348,16 @@
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-OTCR-Risk-Reporting/63210-en_GB",
    "posted": "2026-11-04",
    "closes": "2026-11-25",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:59247",
+   "title": "Associate, Liquidity Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate%2C-Liquidity-Reporting/59247-en_GB",
+   "posted": "2026-11-12",
+   "closes": "2026-11-19",
    "years": null
   },
   {
@@ -5762,16 +5712,6 @@
   },
   {
    "company": "Amazon",
-   "id": "Amazon:10570097",
-   "title": "Account Management Associate, Voice of Seller",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10570097/account-management-associate-voice-of-seller",
-   "posted": "2026-10-06",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Amazon",
    "id": "Amazon:10565276",
    "title": "Business Development Associate, Home",
    "location": "Bengaluru, Karnataka, IND",
@@ -5909,6 +5849,16 @@
    "posted": "2026-09-25",
    "closes": "",
    "years": 3
+  },
+  {
+   "company": "Amazon",
+   "id": "Amazon:10576804",
+   "title": "Sr Manager, Risk, IN POE",
+   "location": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10576804/sr-manager-risk-in-poe",
+   "posted": "2026-10-13",
+   "closes": "",
+   "years": 7
   },
   {
    "company": "Amazon",
@@ -6349,16 +6299,6 @@
    "posted": "2026-09-28",
    "closes": "",
    "years": 1
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10525686",
-   "title": "Manager, Program Management, Brand Protection",
-   "location": "Hyderabad, Telangana, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10525686/manager-program-management-brand-protection",
-   "posted": "2026-09-02",
-   "closes": "",
-   "years": 5
   },
   {
    "company": "Amazon",
@@ -8537,7 +8477,7 @@
    null
   ],
   "Stripe": [
-   6,
+   7,
    null
   ],
   "Databricks": [
@@ -8641,7 +8581,7 @@
    null
   ],
   "Oracle": [
-   7,
+   6,
    null
   ],
   "JPMorgan Chase": [
@@ -8669,15 +8609,15 @@
    null
   ],
   "Apple": [
-   7,
-   null
+   0,
+   "JSONDecodeError: Expecting value: line 1 column 1 (char 0)\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 541, in apple\n    rows = json.loads(out)[\"res\"][\"searchResults\"]\n           ^^^^^^^^^^^^^^^\njson.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n"
   ],
   "Intuit": [
    2,
    null
   ],
   "Standard Chartered": [
-   7,
+   9,
    null
   ],
   "Juspay": [
@@ -8725,7 +8665,7 @@
    null
   ],
   "Amazon": [
-   342,
+   341,
    null
   ],
   "Goldman Sachs": [
@@ -8746,41 +8686,7 @@
   ]
  },
  "latest": [
-  "Target:/job/L4-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Associate-Planner-PIM_R0000444272",
-  "Wells Fargo:/job/Bengaluru-India/Lead-Digital-Product-Manager_R-569054-1",
-  "Wells Fargo:/job/Hyderabad-India/Trade-Services-Associate_R-562397",
-  "Wells Fargo:/job/Hyderabad-India/Lead-Business-Execution-Consultant-Product-Owner-AI-Agentic_R-575953",
-  "Wells Fargo:/job/Hyderabad-India/Senior-Risk-Analytics-Consultant--AI_R-586625",
-  "Wells Fargo:/job/Hyderabad-India/Associate-Operations-Processor_R-585968",
-  "Visa:/job/IN---Bengaluru-India/Product-Analyst_REF090254W-1",
-  "SS&C:/job/Hyderabad-India/Senior-Associate-II_R46470",
-  "Arcesium:5297781007",
-  "InMobi:8349134",
-  "Okta:8245298",
-  "Meesho:1c0052a9-6664-4602-9aad-0e250d9c0980",
-  "Meesho:19954b1f-3bbc-44b6-b836-65c0f854953b",
-  "ServiceNow:744000161990071",
-  "PhonePe:1000000000006240",
-  "JPMorgan Chase:210808168",
-  "JPMorgan Chase:210807860",
-  "Licious:1578",
-  "Navi:00f99d9d-09ae-4db7-b79a-6aee9a70a093",
-  "Amazon:10606831",
-  "Amazon:10603019",
-  "Amazon:10606887",
-  "Amazon:10604023",
-  "Amazon:10606827",
-  "Amazon:10606886",
-  "Amazon:10599651",
-  "Amazon:10594354",
-  "Amazon:10513262",
-  "Goldman Sachs:188548_GS_MID_CAREER",
-  "Goldman Sachs:188827_GS_MID_CAREER",
-  "Goldman Sachs:188886_GS_MID_CAREER",
-  "Google:139412686688395974",
-  "Google:117418056086364870",
-  "Google:87621290973635270",
-  "Tesco:204833"
+  "Amazon:10576804"
  ],
- "latest_at": "17 Nov, 02:30 PM"
+ "latest_at": "17 Nov, 03:34 PM"
 }

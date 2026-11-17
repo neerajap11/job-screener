@@ -1,12 +1,12 @@
-Run 2026-11-17 14:30 took 1200s; 837 matches, 35 new this run
+Run 2026-11-17 15:34 took 1297s; 831 matches, 1 new this run
   AQR: 2 jobs
   Acko: 9 jobs
   Adobe: 3 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 342 jobs
+  Amazon: 341 jobs
   American Express: 1 jobs
-  Apple: 7 jobs
+  Apple: 0 jobs  ERROR JSONDecodeError: Expecting value: line 1 column 1 (char 0)
   Arcesium: 8 jobs
   Atlan: 0 jobs
   Atlassian: 1 jobs
@@ -58,7 +58,7 @@ Run 2026-11-17 14:30 took 1200s; 837 matches, 35 new this run
   Novartis: 5 jobs
   Nvidia: 1 jobs
   Okta: 6 jobs
-  Oracle: 7 jobs
+  Oracle: 6 jobs
   PayPal: 2 jobs
   Paytm: 19 jobs
   Philips: 2 jobs
@@ -77,9 +77,9 @@ Run 2026-11-17 14:30 took 1200s; 837 matches, 35 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 7 jobs
+  Standard Chartered: 9 jobs
   State Street: 11 jobs
-  Stripe: 6 jobs
+  Stripe: 7 jobs
   Swiggy: 6 jobs
   Target: 5 jobs
   Tesco: 10 jobs
