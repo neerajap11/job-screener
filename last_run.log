@@ -1,10 +1,10 @@
-Run 2026-11-16 14:40 took 1230s; 842 matches, 35 new this run
-  AQR: 3 jobs
+Run 2026-11-17 01:37 took 1153s; 838 matches, 4 new this run
+  AQR: 2 jobs
   Acko: 22 jobs
   Adobe: 3 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 347 jobs
+  Amazon: 345 jobs
   American Express: 1 jobs
   Apple: 7 jobs
   Arcesium: 7 jobs
@@ -61,14 +61,14 @@ Run 2026-11-16 14:40 took 1230s; 842 matches, 35 new this run
   Oracle: 8 jobs
   PayPal: 3 jobs
   Paytm: 19 jobs
-  Philips: 1 jobs
+  Philips: 2 jobs
   PhonePe: 25 jobs
   Postman: 0 jobs
   Qualcomm: 13 jobs
   Razorpay: 10 jobs
   Rippling: 11 jobs
   SS&C: 1 jobs
-  Salesforce: 5 jobs
+  Salesforce: 9 jobs
   Samsung: 0 jobs
   ServiceNow: 4 jobs
   ShareChat: 0 jobs
@@ -77,7 +77,7 @@ Run 2026-11-16 14:40 took 1230s; 842 matches, 35 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 14 jobs
+  Standard Chartered: 11 jobs
   State Street: 11 jobs
   Stripe: 6 jobs
   Swiggy: 6 jobs
@@ -86,8 +86,8 @@ Run 2026-11-16 14:40 took 1230s; 842 matches, 35 new this run
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
-  Visa: 6 jobs
-  Wells Fargo: 14 jobs
+  Visa: 8 jobs
+  Wells Fargo: 9 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
