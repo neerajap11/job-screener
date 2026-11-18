@@ -1,12 +1,12 @@
-Run 2026-11-17 15:34 took 1297s; 831 matches, 1 new this run
+Run 2026-11-18 00:33 took 1151s; 831 matches, 9 new this run
   AQR: 2 jobs
   Acko: 9 jobs
   Adobe: 3 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 341 jobs
+  Amazon: 345 jobs
   American Express: 1 jobs
-  Apple: 0 jobs  ERROR JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Apple: 7 jobs
   Arcesium: 8 jobs
   Atlan: 0 jobs
   Atlassian: 1 jobs
@@ -29,10 +29,10 @@ Run 2026-11-17 15:34 took 1297s; 831 matches, 1 new this run
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 0 jobs
-  Goldman Sachs: 26 jobs
+  Goldman Sachs: 25 jobs
   Google: 37 jobs
   Groww: 1 jobs
-  HSBC: 13 jobs
+  HSBC: 6 jobs
   InMobi: 4 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
@@ -47,28 +47,28 @@ Run 2026-11-17 15:34 took 1297s; 831 matches, 1 new this run
   Lowe's: 7 jobs
   Mastercard: 0 jobs
   Meesho: 10 jobs
-  Microsoft: 8 jobs
+  Microsoft: 7 jobs
   Millennium: 0 jobs
   Mindtickle: 2 jobs
   Morgan Stanley: 2 jobs
   Nasdaq: 4 jobs
   Navi: 23 jobs
   Nike: 0 jobs
-  Northern Trust: 12 jobs
+  Northern Trust: 13 jobs
   Novartis: 5 jobs
   Nvidia: 1 jobs
   Okta: 6 jobs
   Oracle: 6 jobs
   PayPal: 2 jobs
   Paytm: 19 jobs
-  Philips: 2 jobs
+  Philips: 6 jobs
   PhonePe: 26 jobs
   Postman: 0 jobs
   Qualcomm: 13 jobs
   Razorpay: 10 jobs
   Rippling: 11 jobs
   SS&C: 2 jobs
-  Salesforce: 5 jobs
+  Salesforce: 6 jobs
   Samsung: 0 jobs
   ServiceNow: 6 jobs
   ShareChat: 0 jobs
@@ -78,7 +78,7 @@ Run 2026-11-17 15:34 took 1297s; 831 matches, 1 new this run
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
   Standard Chartered: 9 jobs
-  State Street: 11 jobs
+  State Street: 10 jobs
   Stripe: 7 jobs
   Swiggy: 6 jobs
   Target: 5 jobs
@@ -87,7 +87,7 @@ Run 2026-11-17 15:34 took 1297s; 831 matches, 1 new this run
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 9 jobs
-  Wells Fargo: 16 jobs
+  Wells Fargo: 10 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
