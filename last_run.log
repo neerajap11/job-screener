@@ -1,4 +1,4 @@
-Run 2026-11-19 00:00 took 1064s; 842 matches, 4 new this run
+Run 2026-11-19 05:25 took 1167s; 835 matches, 0 new this run
   AQR: 2 jobs
   Acko: 9 jobs
   Adobe: 3 jobs
@@ -13,13 +13,13 @@ Run 2026-11-19 00:00 took 1064s; 842 matches, 4 new this run
   Autodesk: 0 jobs
   Barclays: 1 jobs
   BlackRock: 0 jobs
-  Bosch: 35 jobs
+  Bosch: 36 jobs
   Broadridge: 2 jobs
   BrowserStack: 0 jobs
   CRED: 3 jobs
   Cars24: 8 jobs
   Cashfree: 5 jobs
-  Cisco: 13 jobs
+  Cisco: 12 jobs
   Citi: 1 jobs
   D. E. Shaw: 8 jobs
   Databricks: 2 jobs
@@ -32,12 +32,12 @@ Run 2026-11-19 00:00 took 1064s; 842 matches, 4 new this run
   Goldman Sachs: 27 jobs
   Google: 37 jobs
   Groww: 1 jobs
-  HSBC: 7 jobs
+  HSBC: 8 jobs
   InMobi: 4 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
   Invesco: 8 jobs
-  JPMorgan Chase: 51 jobs
+  JPMorgan Chase: 49 jobs
   Jupiter: 2 jobs
   Juspay: 9 jobs
   Lendingkart: 0 jobs
@@ -77,12 +77,12 @@ Run 2026-11-19 00:00 took 1064s; 842 matches, 4 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 11 jobs
+  Standard Chartered: 8 jobs
   State Street: 13 jobs
   Stripe: 7 jobs
   Swiggy: 7 jobs
   Target: 2 jobs
-  Tesco: 11 jobs
+  Tesco: 9 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
