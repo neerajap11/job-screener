@@ -1,10 +1,10 @@
-Run 2026-11-18 15:10 took 1205s; 850 matches, 34 new this run
+Run 2026-11-19 00:00 took 1064s; 842 matches, 4 new this run
   AQR: 2 jobs
   Acko: 9 jobs
   Adobe: 3 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 353 jobs
+  Amazon: 352 jobs
   American Express: 1 jobs
   Apple: 7 jobs
   Arcesium: 8 jobs
@@ -29,15 +29,15 @@ Run 2026-11-18 15:10 took 1205s; 850 matches, 34 new this run
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 0 jobs
-  Goldman Sachs: 28 jobs
-  Google: 39 jobs
+  Goldman Sachs: 27 jobs
+  Google: 37 jobs
   Groww: 1 jobs
-  HSBC: 11 jobs
+  HSBC: 7 jobs
   InMobi: 4 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
   Invesco: 8 jobs
-  JPMorgan Chase: 50 jobs
+  JPMorgan Chase: 51 jobs
   Jupiter: 2 jobs
   Juspay: 9 jobs
   Lendingkart: 0 jobs
@@ -47,7 +47,7 @@ Run 2026-11-18 15:10 took 1205s; 850 matches, 34 new this run
   Lowe's: 7 jobs
   Mastercard: 0 jobs
   Meesho: 10 jobs
-  Microsoft: 8 jobs
+  Microsoft: 7 jobs
   Millennium: 0 jobs
   Mindtickle: 2 jobs
   Morgan Stanley: 2 jobs
@@ -55,20 +55,20 @@ Run 2026-11-18 15:10 took 1205s; 850 matches, 34 new this run
   Navi: 23 jobs
   Nike: 0 jobs
   Northern Trust: 12 jobs
-  Novartis: 6 jobs
+  Novartis: 5 jobs
   Nvidia: 1 jobs
   Okta: 6 jobs
   Oracle: 6 jobs
   PayPal: 1 jobs
   Paytm: 19 jobs
-  Philips: 1 jobs
+  Philips: 3 jobs
   PhonePe: 26 jobs
   Postman: 0 jobs
   Qualcomm: 12 jobs
   Razorpay: 10 jobs
   Rippling: 11 jobs
-  SS&C: 2 jobs
-  Salesforce: 3 jobs
+  SS&C: 1 jobs
+  Salesforce: 5 jobs
   Samsung: 0 jobs
   ServiceNow: 5 jobs
   ShareChat: 0 jobs
@@ -77,17 +77,17 @@ Run 2026-11-18 15:10 took 1205s; 850 matches, 34 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 8 jobs
-  State Street: 12 jobs
+  Standard Chartered: 11 jobs
+  State Street: 13 jobs
   Stripe: 7 jobs
   Swiggy: 7 jobs
-  Target: 4 jobs
+  Target: 2 jobs
   Tesco: 11 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
-  Visa: 8 jobs
-  Wells Fargo: 13 jobs
+  Visa: 9 jobs
+  Wells Fargo: 8 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
