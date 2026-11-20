@@ -1,10 +1,10 @@
-Run 2026-11-19 15:10 took 1373s; 852 matches, 26 new this run
+Run 2026-11-20 00:27 took 1529s; 836 matches, 5 new this run
   AQR: 2 jobs
   Acko: 10 jobs
-  Adobe: 3 jobs
+  Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 348 jobs
+  Amazon: 346 jobs
   American Express: 1 jobs
   Apple: 7 jobs
   Arcesium: 8 jobs
@@ -12,7 +12,7 @@ Run 2026-11-19 15:10 took 1373s; 852 matches, 26 new this run
   Atlassian: 2 jobs
   Autodesk: 0 jobs
   Barclays: 2 jobs
-  BlackRock: 0 jobs
+  BlackRock: 1 jobs
   Bosch: 36 jobs
   Broadridge: 3 jobs
   BrowserStack: 0 jobs
@@ -30,21 +30,21 @@ Run 2026-11-19 15:10 took 1373s; 852 matches, 26 new this run
   Fidelity: 1 jobs
   Freshworks: 0 jobs
   Goldman Sachs: 28 jobs
-  Google: 37 jobs
+  Google: 35 jobs
   Groww: 1 jobs
-  HSBC: 14 jobs
+  HSBC: 7 jobs
   InMobi: 7 jobs
   Intel: 0 jobs
   Intuit: 3 jobs
   Invesco: 8 jobs
-  JPMorgan Chase: 52 jobs
+  JPMorgan Chase: 53 jobs
   Jupiter: 2 jobs
   Juspay: 9 jobs
   Lendingkart: 0 jobs
   Lenskart: 2 jobs
   Licious: 1 jobs
   LinkedIn: 0 jobs
-  Lowe's: 7 jobs
+  Lowe's: 5 jobs
   Mastercard: 0 jobs
   Meesho: 11 jobs
   Microsoft: 7 jobs
@@ -61,33 +61,33 @@ Run 2026-11-19 15:10 took 1373s; 852 matches, 26 new this run
   Oracle: 6 jobs
   PayPal: 1 jobs
   Paytm: 19 jobs
-  Philips: 2 jobs
+  Philips: 6 jobs
   PhonePe: 26 jobs
   Postman: 0 jobs
   Qualcomm: 12 jobs
   Razorpay: 10 jobs
   Rippling: 11 jobs
   SS&C: 2 jobs
-  Salesforce: 3 jobs
+  Salesforce: 4 jobs
   Samsung: 0 jobs
   ServiceNow: 5 jobs
   ShareChat: 0 jobs
-  Shell: 1 jobs
+  Shell: 0 jobs
   Slice: 0 jobs
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 9 jobs
+  Standard Chartered: 8 jobs
   State Street: 11 jobs
-  Stripe: 7 jobs
+  Stripe: 6 jobs
   Swiggy: 8 jobs
   Target: 2 jobs
-  Tesco: 10 jobs
+  Tesco: 9 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 8 jobs
-  Wells Fargo: 12 jobs
+  Wells Fargo: 7 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
