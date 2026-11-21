@@ -1,4 +1,4 @@
-Run 2026-11-21 14:20 took 1560s; 833 matches, 0 new this run
+Run 2026-11-21 22:54 took 1046s; 833 matches, 4 new this run
   AQR: 2 jobs
   Acko: 10 jobs
   Adobe: 4 jobs
@@ -11,7 +11,7 @@ Run 2026-11-21 14:20 took 1560s; 833 matches, 0 new this run
   Atlan: 0 jobs
   Atlassian: 2 jobs
   Autodesk: 0 jobs
-  Barclays: 2 jobs
+  Barclays: 1 jobs
   BlackRock: 1 jobs
   Bosch: 38 jobs
   Broadridge: 3 jobs
@@ -32,7 +32,7 @@ Run 2026-11-21 14:20 took 1560s; 833 matches, 0 new this run
   Goldman Sachs: 28 jobs
   Google: 33 jobs
   Groww: 1 jobs
-  HSBC: 6 jobs
+  HSBC: 7 jobs
   InMobi: 7 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
@@ -47,7 +47,7 @@ Run 2026-11-21 14:20 took 1560s; 833 matches, 0 new this run
   Lowe's: 5 jobs
   Mastercard: 0 jobs
   Meesho: 11 jobs
-  Microsoft: 8 jobs
+  Microsoft: 7 jobs
   Millennium: 0 jobs
   Mindtickle: 2 jobs
   Morgan Stanley: 2 jobs
@@ -78,7 +78,7 @@ Run 2026-11-21 14:20 took 1560s; 833 matches, 0 new this run
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
   Standard Chartered: 10 jobs
-  State Street: 12 jobs
+  State Street: 13 jobs
   Stripe: 6 jobs
   Swiggy: 7 jobs
   Target: 2 jobs
