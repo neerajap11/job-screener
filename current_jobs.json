@@ -192,16 +192,6 @@
   },
   {
    "company": "Wells Fargo",
-   "id": "Wells Fargo:/job/BENGALURU-KA/Senior-Risk-Analytics-Consultant_R-586186-1",
-   "title": "Senior Risk Analytics Consultant",
-   "location": "BENGALURU, KA",
-   "url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BENGALURU-KA/Senior-Risk-Analytics-Consultant_R-586186-1",
-   "posted": "2026-11-17",
-   "closes": "2026-11-21",
-   "years": 4
-  },
-  {
-   "company": "Wells Fargo",
    "id": "Wells Fargo:/job/Bengaluru-India/Corporate-Banking-Analyst--Securities-Research-Associate_R-580935-1",
    "title": "Corporate Banking Analyst -Securities Research Associate",
    "location": "Bengaluru, India",
@@ -439,16 +429,6 @@
    "posted": "2026-10-13",
    "closes": "",
    "years": 5
-  },
-  {
-   "company": "Cisco",
-   "id": "Cisco:/job/Bangalore-India/Capital-Program-Manager_2023058-1",
-   "title": "Capital Program Manager",
-   "location": "Bangalore, India",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Capital-Program-Manager_2023058-1",
-   "posted": "2026-09-28",
-   "closes": "",
-   "years": 8
   },
   {
    "company": "Visa",
@@ -1871,16 +1851,6 @@
    "years": 5
   },
   {
-   "company": "ServiceNow",
-   "id": "ServiceNow:744000159219049",
-   "title": "Now on Now Go To Market Sr. Manager",
-   "location": "Hyderabad, in",
-   "url": "https://jobs.smartrecruiters.com/servicenow/744000159219049",
-   "posted": "2026-11-02",
-   "closes": "",
-   "years": 7
-  },
-  {
    "company": "Swiggy",
    "id": "Swiggy:6000000001591986",
    "title": "Senior Growth Manager I",
@@ -2551,16 +2521,6 @@
    "years": null
   },
   {
-   "company": "Oracle",
-   "id": "Oracle:346488",
-   "title": "Business Analyst 3-Ops",
-   "location": "BENGALURU, KARNATAKA, India",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346488",
-   "posted": "2026-11-16",
-   "closes": "",
-   "years": null
-  },
-  {
    "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210784365",
    "title": "Alternative Fund Services - Private Fund Services - Fund Accounting - Analyst/Associate - Bangalore",
@@ -2932,16 +2892,6 @@
   },
   {
    "company": "JPMorgan Chase",
-   "id": "JPMorgan Chase:210800926",
-   "title": "Data Management Senior Associate",
-   "location": "Bengaluru, Karnataka, India, Hyderabad, Telangana, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800926",
-   "posted": "2026-10-26",
-   "closes": "",
-   "years": 6
-  },
-  {
-   "company": "JPMorgan Chase",
    "id": "JPMorgan Chase:210801656",
    "title": "Data Governance Associate",
    "location": "Bengaluru, Karnataka, India",
@@ -3072,16 +3022,6 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557047351",
-   "title": "Group Product Manager",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
-   "posted": "2026-10-28",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557040598",
    "title": "Senior Product Manager",
    "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
@@ -3097,6 +3037,16 @@
    "location": "India, Karnataka, Bangalore",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
    "posted": "2026-11-20",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557047351",
+   "title": "Group Product Manager",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557047351",
+   "posted": "2026-10-28",
    "closes": "",
    "years": null
   },
@@ -3232,21 +3182,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721996687",
-   "title": "Staff Product Manager - Smartphones and AI",
-   "location": "Hyderabad, Telang\u0101na, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721996687",
-   "posted": "2026-11-12",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446721309717",
    "title": "Senior Android SW Product Manager",
    "location": "Hyderabad, Telang\u0101na, India",
    "url": "https://careers.qualcomm.com/careers/job/446721309717",
    "posted": "2026-10-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721996687",
+   "title": "Staff Product Manager - Smartphones and AI",
+   "location": "Hyderabad, Telang\u0101na, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721996687",
+   "posted": "2026-11-12",
    "closes": "",
    "years": null
   },
@@ -3272,21 +3222,11 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612616090",
-   "title": "Lead - Central Securities Depository Risk",
+   "id": "HSBC:563774612616688",
+   "title": "Business Analyst",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612616090",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612616688",
    "posted": "2026-11-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612386913",
-   "title": "Associate Balance Sheet Steering and Optimisation",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
-   "posted": "2026-10-01",
    "closes": "",
    "years": null
   },
@@ -3302,20 +3242,10 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612662858",
-   "title": "Senior Business Analyst - Securities Services",
+   "id": "HSBC:563774612616090",
+   "title": "Lead - Central Securities Depository Risk",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612662858",
-   "posted": "2026-11-18",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612616688",
-   "title": "Business Analyst",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612616688",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612616090",
    "posted": "2026-11-10",
    "closes": "",
    "years": null
@@ -3327,6 +3257,26 @@
    "location": "Bangalore, Karnataka, India; Hyderabad, Telangana, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
    "posted": "2026-11-10",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612662858",
+   "title": "Senior Business Analyst - Securities Services",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612662858",
+   "posted": "2026-11-18",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
+   "id": "HSBC:563774612386913",
+   "title": "Associate Balance Sheet Steering and Optimisation",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
+   "posted": "2026-10-01",
    "closes": "",
    "years": null
   },
@@ -3432,6 +3382,46 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:65618",
+   "title": "Process Lead - Market Ops Reference Data",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Process-Lead-Market-Ops-Reference-Data/65618-en_GB",
+   "posted": "2026-11-10",
+   "closes": "2026-11-25",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:64057",
+   "title": "Senior Manager, Market Risk Management",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:57947",
+   "title": "Senior Manager Risk Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:65833",
+   "title": "Associate Lead, IRRBB Reporting",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Lead%2C-IRRBB-Reporting/65833-en_GB",
+   "posted": "2026-11-11",
+   "closes": "2026-11-27",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:65147",
    "title": "Associate Manager, Contract Management Services",
    "location": "Bangalore, IND ",
@@ -3442,22 +3432,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:63217",
-   "title": "Manager, OTCR, Risk Reporting",
+   "id": "Standard Chartered:65358",
+   "title": "Regulatory Conduct Risk Governance Lead",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Manager%2C-OTCR%2C-Risk-Reporting/63217-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-24",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:61083",
-   "title": "Associate Manager, FR Cards Strategy",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager%2C-FR-Cards-Strategy/61083-en_GB",
-   "posted": "2026-11-11",
-   "closes": "2026-11-27",
+   "url": "https://jobs.standardchartered.com/job/Regulatory-Conduct-Risk-Governance-Lead/65358-en_GB",
+   "posted": "2026-11-19",
+   "closes": "2026-11-23",
    "years": null
   },
   {
@@ -3472,32 +3452,12 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:65149",
-   "title": "Associate Manager, Contract Management Services",
+   "id": "Standard Chartered:64952",
+   "title": "Digital Channels Cash Product Lead",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager%2C-Contract-Management-Services/65149-en_GB",
-   "posted": "2026-11-19",
-   "closes": "2026-11-24",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:65618",
-   "title": "Process Lead - Market Ops Reference Data",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Process-Lead-Market-Ops-Reference-Data/65618-en_GB",
-   "posted": "2026-11-10",
-   "closes": "2026-11-25",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
-   "id": "Standard Chartered:65358",
-   "title": "Regulatory Conduct Risk Governance Lead",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Regulatory-Conduct-Risk-Governance-Lead/65358-en_GB",
-   "posted": "2026-11-19",
-   "closes": "2026-11-23",
+   "url": "https://jobs.standardchartered.com/job/Digital-Channels-Cash-Product-Lead/64952-en_GB",
+   "posted": "2026-11-18",
+   "closes": "2026-12-12",
    "years": null
   },
   {
@@ -7732,30 +7692,20 @@
   },
   {
    "company": "Goldman Sachs",
+   "id": "Goldman Sachs:188008_GS_MID_CAREER",
+   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/188008",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
    "id": "Goldman Sachs:188546_GS_MID_CAREER",
    "title": "Global Banking and Market Operations-Exotic Trade Review-Associate-Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/188546",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187896_GS_MID_CAREER",
-   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187896",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188886_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-AM Alts Pvt Loan Data Quality-Associate-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188886",
    "posted": "",
    "closes": "",
    "years": null
@@ -7782,10 +7732,20 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188008_GS_MID_CAREER",
-   "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
+   "id": "Goldman Sachs:188886_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-AM Alts Pvt Loan Data Quality-Associate-Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188008",
+   "url": "https://higher.gs.com/roles/188886",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:187896_GS_MID_CAREER",
+   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187896",
    "posted": "",
    "closes": "",
    "years": null
@@ -8401,7 +8361,7 @@
    null
   ],
   "Wells Fargo": [
-   10,
+   9,
    null
   ],
   "Citi": [
@@ -8421,7 +8381,7 @@
    null
   ],
   "Cisco": [
-   12,
+   11,
    null
   ],
   "Visa": [
@@ -8597,7 +8557,7 @@
    null
   ],
   "ServiceNow": [
-   10,
+   9,
    null
   ],
   "Swiggy": [
@@ -8641,11 +8601,11 @@
    null
   ],
   "Oracle": [
-   7,
+   6,
    null
   ],
   "JPMorgan Chase": [
-   52,
+   51,
    null
   ],
   "American Express": [
@@ -8677,7 +8637,7 @@
    null
   ],
   "Standard Chartered": [
-   9,
+   10,
    null
   ],
   "Juspay": [
