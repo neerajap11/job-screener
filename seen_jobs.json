@@ -5985,7 +5985,7 @@
   "first_seen": "2026-11-04",
   "years": null,
   "title": "Senior Manager, OTCR Risk Reporting",
-  "last_seen": "2026-11-21"
+  "last_seen": "2026-11-22"
  },
  "Navi:785610db-9bf9-4cd9-adcd-816a58ebdd37": {
   "first_seen": "2026-11-04",
@@ -8097,7 +8097,7 @@
   "first_seen": "2026-11-18",
   "years": null,
   "title": "Product Owner",
-  "last_seen": "2026-11-21"
+  "last_seen": "2026-11-22"
  },
  "Amazon:10607954": {
   "first_seen": "2026-11-18",
@@ -8649,6 +8649,12 @@
   "first_seen": "2026-11-22",
   "years": null,
   "title": "Senior Associate - Employee Workplace Solutions",
+  "last_seen": "2026-11-22"
+ },
+ "Amazon:10611004": {
+  "first_seen": "2026-11-22",
+  "years": 7,
+  "title": "Senior Risk Manager, AI Assurance & Inspections, FORGE",
   "last_seen": "2026-11-22"
  }
 }
