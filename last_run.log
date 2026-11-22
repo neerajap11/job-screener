@@ -1,4 +1,4 @@
-Run 2026-11-22 14:07 took 1206s; 836 matches, 1 new this run
+Run 2026-11-22 23:22 took 1401s; 830 matches, 4 new this run
   AQR: 2 jobs
   Acko: 10 jobs
   Adobe: 4 jobs
@@ -25,14 +25,14 @@ Run 2026-11-22 14:07 took 1206s; 836 matches, 1 new this run
   Databricks: 2 jobs
   Deutsche Bank: 2 jobs
   Expedia: 1 jobs
-  FactSet: 2 jobs
+  FactSet: 1 jobs
   Fi Money: 0 jobs
   Fidelity: 1 jobs
   Freshworks: 0 jobs
   Goldman Sachs: 28 jobs
   Google: 33 jobs
   Groww: 1 jobs
-  HSBC: 10 jobs
+  HSBC: 9 jobs
   InMobi: 7 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
@@ -77,8 +77,8 @@ Run 2026-11-22 14:07 took 1206s; 836 matches, 1 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 11 jobs
-  State Street: 13 jobs
+  Standard Chartered: 9 jobs
+  State Street: 12 jobs
   Stripe: 6 jobs
   Swiggy: 7 jobs
   Target: 2 jobs
@@ -87,7 +87,7 @@ Run 2026-11-22 14:07 took 1206s; 836 matches, 1 new this run
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 8 jobs
-  Wells Fargo: 8 jobs
+  Wells Fargo: 7 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
