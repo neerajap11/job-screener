@@ -1,10 +1,10 @@
-Run 2026-11-22 23:22 took 1401s; 830 matches, 4 new this run
+Run 2026-11-23 05:09 took 1180s; 827 matches, 4 new this run
   AQR: 2 jobs
   Acko: 10 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 337 jobs
+  Amazon: 339 jobs
   American Express: 1 jobs
   Apple: 7 jobs
   Arcesium: 8 jobs
@@ -17,7 +17,7 @@ Run 2026-11-22 23:22 took 1401s; 830 matches, 4 new this run
   Broadridge: 3 jobs
   BrowserStack: 0 jobs
   CRED: 2 jobs
-  Cars24: 8 jobs
+  Cars24: 0 jobs  ERROR StopIteration: 
   Cashfree: 5 jobs
   Cisco: 11 jobs
   Citi: 1 jobs
@@ -77,17 +77,17 @@ Run 2026-11-22 23:22 took 1401s; 830 matches, 4 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 9 jobs
+  Standard Chartered: 13 jobs
   State Street: 12 jobs
   Stripe: 6 jobs
   Swiggy: 7 jobs
   Target: 2 jobs
-  Tesco: 9 jobs
+  Tesco: 7 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 8 jobs
-  Wells Fargo: 7 jobs
+  Wells Fargo: 8 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
