@@ -1,10 +1,10 @@
-Run 2026-11-24 17:05 took 1296s; 861 matches, 50 new this run
+Run 2026-11-25 02:03 took 1078s; 859 matches, 8 new this run
   AQR: 2 jobs
   Acko: 9 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 369 jobs
+  Amazon: 375 jobs
   American Express: 1 jobs
   Apple: 7 jobs
   Arcesium: 8 jobs
@@ -30,21 +30,21 @@ Run 2026-11-24 17:05 took 1296s; 861 matches, 50 new this run
   Fidelity: 1 jobs
   Freshworks: 0 jobs
   Goldman Sachs: 29 jobs
-  Google: 32 jobs
+  Google: 30 jobs
   Groww: 0 jobs
-  HSBC: 13 jobs
+  HSBC: 10 jobs
   InMobi: 8 jobs
   Intel: 0 jobs
   Intuit: 2 jobs
-  Invesco: 9 jobs
-  JPMorgan Chase: 48 jobs
+  Invesco: 8 jobs
+  JPMorgan Chase: 47 jobs
   Jupiter: 2 jobs
   Juspay: 9 jobs
   Lendingkart: 0 jobs
   Lenskart: 2 jobs
   Licious: 1 jobs
   LinkedIn: 0 jobs
-  Lowe's: 5 jobs
+  Lowe's: 4 jobs
   Mastercard: 0 jobs
   Meesho: 11 jobs
   Microsoft: 7 jobs
@@ -58,17 +58,17 @@ Run 2026-11-24 17:05 took 1296s; 861 matches, 50 new this run
   Novartis: 6 jobs
   Nvidia: 1 jobs
   Okta: 6 jobs
-  Oracle: 5 jobs
+  Oracle: 6 jobs
   PayPal: 1 jobs
   Paytm: 19 jobs
-  Philips: 2 jobs
+  Philips: 3 jobs
   PhonePe: 24 jobs
   Postman: 0 jobs
   Qualcomm: 13 jobs
   Razorpay: 7 jobs
   Rippling: 10 jobs
-  SS&C: 2 jobs
-  Salesforce: 3 jobs
+  SS&C: 1 jobs
+  Salesforce: 4 jobs
   Samsung: 0 jobs
   ServiceNow: 10 jobs
   ShareChat: 0 jobs
@@ -77,17 +77,17 @@ Run 2026-11-24 17:05 took 1296s; 861 matches, 50 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 8 jobs
+  Standard Chartered: 11 jobs
   State Street: 15 jobs
   Stripe: 6 jobs
   Swiggy: 6 jobs
-  Target: 4 jobs
+  Target: 3 jobs
   Tesco: 11 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
   Urban Company: 0 jobs
   Visa: 9 jobs
-  Wells Fargo: 8 jobs
+  Wells Fargo: 5 jobs
   Whatfix: 0 jobs
   Workday: 0 jobs
   WorldQuant: 0 jobs
