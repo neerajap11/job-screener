@@ -1,10 +1,10 @@
-Run 2026-11-28 01:12 took 1201s; 826 matches, 1 new this run
+Run 2026-11-28 15:07 took 1287s; 807 matches, 0 new this run
   AQR: 2 jobs
   Acko: 8 jobs
   Adobe: 4 jobs
   Agoda: 0 jobs
   Airbnb: 0 jobs
-  Amazon: 348 jobs
+  Amazon: 347 jobs
   American Express: 2 jobs
   Apple: 7 jobs
   Arcesium: 7 jobs
@@ -52,7 +52,7 @@ Run 2026-11-28 01:12 took 1201s; 826 matches, 1 new this run
   Mindtickle: 1 jobs
   Morgan Stanley: 1 jobs
   Nasdaq: 4 jobs
-  Navi: 20 jobs
+  Navi: 0 jobs  ERROR ValueError: no JSON from https://thapi.azurewebsites.net/api/token/noauth: 'Service Unavailable due to planned maintenance'
   Nike: 0 jobs
   Northern Trust: 11 jobs
   Novartis: 6 jobs
@@ -68,7 +68,7 @@ Run 2026-11-28 01:12 took 1201s; 826 matches, 1 new this run
   Razorpay: 7 jobs
   Rippling: 10 jobs
   SS&C: 1 jobs
-  Salesforce: 2 jobs
+  Salesforce: 1 jobs
   Samsung: 0 jobs
   ServiceNow: 4 jobs
   ShareChat: 0 jobs
@@ -77,7 +77,7 @@ Run 2026-11-28 01:12 took 1201s; 826 matches, 1 new this run
   Snowflake: 0 jobs
   Sprinklr: 0 jobs
   Squarepoint: 0 jobs
-  Standard Chartered: 11 jobs
+  Standard Chartered: 14 jobs
   State Street: 12 jobs
   Stripe: 7 jobs
   Swiggy: 6 jobs
@@ -85,7 +85,7 @@ Run 2026-11-28 01:12 took 1201s; 826 matches, 1 new this run
   Tesco: 12 jobs
   Twilio: 0 jobs
   Unacademy: 0 jobs
-  Urban Company: 0 jobs
+  Urban Company: 0 jobs  ERROR KeyError: 'jobs'
   Visa: 7 jobs
   Wells Fargo: 3 jobs
   Whatfix: 0 jobs

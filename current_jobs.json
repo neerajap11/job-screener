@@ -11,16 +11,6 @@
    "years": 5
   },
   {
-   "company": "Salesforce",
-   "id": "Salesforce:/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366420",
-   "title": "Technical Business Analyst, Product & Pricing Operations",
-   "location": "India - Hyderabad",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366420",
-   "posted": "2026-11-13",
-   "closes": "",
-   "years": 1
-  },
-  {
    "company": "Adobe",
    "id": "Adobe:/job/Bangalore/Senior-Manager--Risk-Advisory---Assurance-Services--JAPAC-_R170952",
    "title": "Senior Manager, Risk Advisory & Assurance Services (JAPAC)",
@@ -1042,20 +1032,20 @@
   },
   {
    "company": "InMobi",
-   "id": "InMobi:7995193",
+   "id": "InMobi:8138503",
    "title": "Senior Associate - Deal Desk",
    "location": "Bangalore",
-   "url": "https://job-boards.greenhouse.io/inmobi/jobs/7995193",
+   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8138503",
    "posted": "2026-08-18",
    "closes": "",
    "years": null
   },
   {
    "company": "InMobi",
-   "id": "InMobi:8138503",
+   "id": "InMobi:7995193",
    "title": "Senior Associate - Deal Desk",
    "location": "Bangalore",
-   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8138503",
+   "url": "https://job-boards.greenhouse.io/inmobi/jobs/7995193",
    "posted": "2026-08-18",
    "closes": "",
    "years": null
@@ -1122,21 +1112,21 @@
   },
   {
    "company": "Stripe",
-   "id": "Stripe:7813411",
-   "title": "Strategy and Analytics Business Partner",
-   "location": "Bengaluru",
-   "url": "https://stripe.com/jobs/search?gh_jid=7813411",
-   "posted": "2026-04-30",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Stripe",
    "id": "Stripe:8245230",
    "title": "Strategy and Analytics Business Partner",
    "location": "Bangalore",
    "url": "https://stripe.com/jobs/search?gh_jid=8245230",
    "posted": "2026-10-13",
+   "closes": "",
+   "years": 3
+  },
+  {
+   "company": "Stripe",
+   "id": "Stripe:7813411",
+   "title": "Strategy and Analytics Business Partner",
+   "location": "Bengaluru",
+   "url": "https://stripe.com/jobs/search?gh_jid=7813411",
+   "posted": "2026-04-30",
    "closes": "",
    "years": 3
   },
@@ -2762,21 +2752,21 @@
   },
   {
    "company": "Microsoft",
-   "id": "Microsoft:1970393557075027",
-   "title": "Senior Product Manager",
-   "location": "India, Karnataka, Bangalore",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
-   "posted": "2026-11-20",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Microsoft",
    "id": "Microsoft:1970393557040598",
    "title": "Senior Product Manager",
    "location": "India, Karnataka, Bangalore; India, Telangana, Hyderabad",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040598",
    "posted": "2026-10-16",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Microsoft",
+   "id": "Microsoft:1970393557075027",
+   "title": "Senior Product Manager",
+   "location": "India, Karnataka, Bangalore",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075027",
+   "posted": "2026-11-20",
    "closes": "",
    "years": null
   },
@@ -2842,21 +2832,21 @@
   },
   {
    "company": "Qualcomm",
-   "id": "Qualcomm:446721582625",
-   "title": "DDR Subsystem - Sr HW Program Manager",
-   "location": "Bangalore, India",
-   "url": "https://careers.qualcomm.com/careers/job/446721582625",
-   "posted": "2026-10-15",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Qualcomm",
    "id": "Qualcomm:446718894423",
    "title": "Senior HW Program Manager",
    "location": "Bangalore, India",
    "url": "https://careers.qualcomm.com/careers/job/446718894423",
    "posted": "2026-06-10",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Qualcomm",
+   "id": "Qualcomm:446721582625",
+   "title": "DDR Subsystem - Sr HW Program Manager",
+   "location": "Bangalore, India",
+   "url": "https://careers.qualcomm.com/careers/job/446721582625",
+   "posted": "2026-10-15",
    "closes": "",
    "years": null
   },
@@ -2932,6 +2922,16 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774612582770",
+   "title": "Senior Associate - Research",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612582770",
+   "posted": "2026-11-03",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612616077",
    "title": "Non Financial Risk Senior Manager",
    "location": "Bangalore, Karnataka, India",
@@ -2942,31 +2942,21 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774612386913",
+   "title": "Associate Balance Sheet Steering and Optimisation",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
+   "posted": "2026-10-01",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612616090",
    "title": "Lead - Central Securities Depository Risk",
    "location": "Bangalore, Karnataka, India",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612616090",
    "posted": "2026-11-10",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612620506",
-   "title": "Change Business Analyst - Global Markets",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612620506",
-   "posted": "2026-11-11",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612582770",
-   "title": "Senior Associate - Research",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612582770",
-   "posted": "2026-11-03",
    "closes": "",
    "years": null
   },
@@ -2992,6 +2982,16 @@
   },
   {
    "company": "HSBC",
+   "id": "HSBC:563774612648906",
+   "title": "Senior Business Analyst - Markets and Securities Services",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612648906",
+   "posted": "2026-11-16",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "HSBC",
    "id": "HSBC:563774612672369",
    "title": "Senior Associate - Employee Workplace Solutions",
    "location": "Bangalore, Karnataka, India",
@@ -3012,21 +3012,11 @@
   },
   {
    "company": "HSBC",
-   "id": "HSBC:563774612386913",
-   "title": "Associate Balance Sheet Steering and Optimisation",
+   "id": "HSBC:563774612620506",
+   "title": "Change Business Analyst - Global Markets",
    "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612386913",
-   "posted": "2026-10-01",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "HSBC",
-   "id": "HSBC:563774612648906",
-   "title": "Senior Business Analyst - Markets and Securities Services",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612648906",
-   "posted": "2026-11-16",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612620506",
+   "posted": "2026-11-11",
    "closes": "",
    "years": null
   },
@@ -3152,6 +3142,16 @@
   },
   {
    "company": "Standard Chartered",
+   "id": "Standard Chartered:57947",
+   "title": "Senior Manager Risk Manager",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
+   "posted": "2026-11-09",
+   "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
    "id": "Standard Chartered:64952",
    "title": "Digital Channels Cash Product Lead",
    "location": "Bangalore, IND ",
@@ -3162,12 +3162,32 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:57947",
-   "title": "Senior Manager Risk Manager",
+   "id": "Standard Chartered:60236",
+   "title": "Product Owner Risk Analytics",
    "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Senior-Manager-Risk-Manager/57947-en_GB",
-   "posted": "2026-11-09",
-   "closes": "2026-11-28",
+   "url": "https://jobs.standardchartered.com/job/Product-Owner-Risk-Analytics/60236-en_GB",
+   "posted": "2026-11-23",
+   "closes": "2026-11-30",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:66213",
+   "title": "Risk Manager, Tech TPRM",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Risk-Manager%2C-Tech-TPRM/66213-en_GB",
+   "posted": "2026-11-23",
+   "closes": "2026-12-19",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:63913",
+   "title": "Spl'st, Ops Excellence",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Spl&apos;st%2C-Ops-Excellence/63913-en_GB",
+   "posted": "2026-11-23",
+   "closes": "2026-12-07",
    "years": null
   },
   {
@@ -3182,22 +3202,22 @@
   },
   {
    "company": "Standard Chartered",
-   "id": "Standard Chartered:66721",
-   "title": "Associate Manager - Product Control",
-   "location": "Bangalore, IND ",
-   "url": "https://jobs.standardchartered.com/job/Associate-Manager-Product-Control/66721-en_GB",
-   "posted": "2026-11-26",
-   "closes": "2026-12-12",
-   "years": null
-  },
-  {
-   "company": "Standard Chartered",
    "id": "Standard Chartered:64057",
    "title": "Senior Manager, Market Risk Management",
    "location": "Bangalore, IND ",
    "url": "https://jobs.standardchartered.com/job/Senior-Manager%2C-Market-Risk-Management/64057-en_GB",
    "posted": "2026-11-09",
    "closes": "2026-11-28",
+   "years": null
+  },
+  {
+   "company": "Standard Chartered",
+   "id": "Standard Chartered:66721",
+   "title": "Associate Manager - Product Control",
+   "location": "Bangalore, IND ",
+   "url": "https://jobs.standardchartered.com/job/Associate-Manager-Product-Control/66721-en_GB",
+   "posted": "2026-11-26",
+   "closes": "2026-12-12",
    "years": null
   },
   {
@@ -3709,206 +3729,6 @@
    "posted": "2026-08-17",
    "closes": "",
    "years": 3
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:f4035760-2bde-466e-8090-651950c08fa7",
-   "title": "Associate Manager - Cash Loan Business",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/XLa2Kv2DQJb7lVb7Yu0rUQoxdKapKjYBRJvgeFcnAbUv7b5u8PaGWqQ0g7E1PsYq",
-   "posted": "2026-09-29",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:939c818b-c57c-4c26-9dea-390beabaaff1",
-   "title": "Associate Manager - Company Secretary",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/CI_spCmYZQvjUVHsUjM%2F%2FjzuLoLf4bc5ld_JlM0XF%2F0wZYh8NyBSvucJ2P62EdF%2F",
-   "posted": "2026-11-02",
-   "closes": "",
-   "years": 1
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:60fc6983-1ab2-44eb-8fe6-210ee50c7db6",
-   "title": "Associate Manager - Compliance",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/diw3O%2FApx19rO1JUG6q6VwlKElhZNIdKJq1qv_ic1x8QCyeAOkGrr7AklcugzxJX",
-   "posted": "2026-09-17",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:bc17fb2c-d669-4e61-9bf6-4041c1138fc5",
-   "title": "Associate Manager - Credit Risk",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/ThW7m80LvgpUEf8hmO51MtRkQBHjlJiPFv1QJo3Kqas5Dbyjn8Dq%2FRdRqgNACjij",
-   "posted": "2026-11-11",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:00f99d9d-09ae-4db7-b79a-6aee9a70a093",
-   "title": "Associate Manager - Fraud Risk & Strategy",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/3f4Ni5gaTS2bHjKGtnagWJdlBIHkd7V8hpjvXYpUFEtg5mD8FXQjCACHh1MBKbmK",
-   "posted": "2026-11-17",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:9e7f50d7-47a0-47e6-b48e-2301301e665b",
-   "title": "Associate Manager - II ( DNE Office)",
-   "location": "Navi Technologies, Ibbaluru, Bellandur, Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/GYyC2xr2RdSSXvJACy6yHhBzmIZZnK7WXMk5nap5WRh3XaGSQHxZPA8lYFRWPpGx",
-   "posted": "2026-11-11",
-   "closes": "",
-   "years": 2
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:cddc3310-3bb9-4f61-8006-3c50ccd66ed6",
-   "title": "Associate Manager II - Compliance Monitoring",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/VVYaUsUR30BEXpg0zZo0aODqfQcOlPn9Hvmy8ImSFbvK9iZRqHpd_tKfHBTQJCWF",
-   "posted": "2026-11-03",
-   "closes": "",
-   "years": 3
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:5048f8d1-686d-435c-8387-331622bb3101",
-   "title": "Associate Manager II - Credit Risk",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/A9IEzvyxzupgtgfQV5E1R6v_8VGKoQEAxNXn%2FQJV_DX8ps1VEPyNwIh6Lb_Pvbow",
-   "posted": "2026-10-26",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:7f66e3a3-f67f-459c-8ffc-57c6bc0fbaff",
-   "title": "Associate Manager- Social Media Marketing",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/hRspMWK2OrkY5RJmtpN4iqJp6eoIh%2F4%2FO_KOaIDHpHb8gvxWNIkofu_9tTS5a0kI",
-   "posted": "2026-11-06",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:8e46ae54-4f20-4c60-a232-bc9a934b228e",
-   "title": "Chief of Staff - Product",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/jatz%2FXMw5zOIjvGSRvdAGORYSS_Jz_ARabD876RkPqoiNY0DEaxnrzs68hX28UYz",
-   "posted": "2026-09-21",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:c9232f1f-de80-4681-b8b5-86cd54d8b28d",
-   "title": "Enterprise Risk Management (Financial Risk)",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/ArFwzk9k1FsFJLPBB06jqCMZJjDt7UPoGAVRfnYakd_rsLGxljOwJXkgSW5_ER7L",
-   "posted": "2026-11-11",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:f4ceea6f-7155-4648-a177-732d1b354975",
-   "title": "Group Product Manager",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/TAzoFg0MTE_r6O3ZkoUms0US2wg6VdJPxj87Pwjalv0S77pSvsinDJTOM%2Fx1_boD",
-   "posted": "2026-08-27",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:744252e1-edba-467f-80cf-f756f855ba80",
-   "title": "Manager - Information Security (Governance, Risk & Compliance)",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/0kYZ9Jns49ubhWv2h8gDFNB0NUpJhlAxNcAtgxacYbi%2F6qoe7eUZDYSRJXE_3I9q",
-   "posted": "2026-10-14",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:81c0edfd-ea9f-450b-bd06-f7ae95d365bc",
-   "title": "Manager - Strategic Partnerships (Operations)",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/YVTbMI2u3zDgRAyED7hSZ9ue3mgih0VfFbjIEumk0Txw5J49SUBQjl2C%2FuMuYhRt",
-   "posted": "2026-11-11",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:785610db-9bf9-4cd9-adcd-816a58ebdd37",
-   "title": "Senior Associate I- Human Resources (SBO) - Bangalore",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/2owKyMEqNwV6v863%2F1_NnxxEAvSC6bZFDsCrJGSbAadLHfuBkruqrERy5HpTHU1J",
-   "posted": "2026-11-04",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:1644e39e-4cd4-4636-a3ff-f109de8062c6",
-   "title": "Senior Associate I- Human Resources (SBO) - Hyderabad",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/Td8JMhX_yrldcqoY_0JSzxZeAKtzILMRMwNgBUKIq8YyRvaEZBiiIG46eWJCJqOI",
-   "posted": "2026-11-11",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:84510d00-9891-4d80-b078-69ae520066b2",
-   "title": "Senior Associate II - Collateral Risk",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/T1pZsiSDRaAyVlCooyB9EuXS2TwAYSKtGtl0taOF1AWgSGPv0gtkf2odZ9UIJ81B",
-   "posted": "2025-10-21",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:4389e3b5-5e86-49ed-8efb-bafed5a119a0",
-   "title": "Senior Associate II - Medical Officer (Medical Claim Adjudication)",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/OUYEfs71bKJCq_g8UCBB5_SnBIDeyVkZ8woGT4OVtIGqbpiT34W6mLmQHNXcvISY",
-   "posted": "2025-11-11",
-   "closes": "",
-   "years": 5
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:b3861626-81a2-4d99-80a3-4da6616811f6",
-   "title": "Senior Manager - Information Security (Governance, Risk & Compliance)",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/bM1Mm440JmWCl1bxAQBU8zoRiqdK8vVnky0QGR3YRoIPS7kj7LNvYJGGOITCj8JJ",
-   "posted": "2026-10-13",
-   "closes": "",
-   "years": 7
-  },
-  {
-   "company": "Navi",
-   "id": "Navi:66c58ce9-05c7-4a36-83be-3a2665db73ac",
-   "title": "Senior Product Manager",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://navi.turbohire.co/job/publicjobs/%2FbJ%2FF_L57f2aNZ73U1jb3Zma2AO5KT0%2F_FuBJX%2FyknngA5UDtpZU7SRhhEDHHBww",
-   "posted": "2026-08-04",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Jupiter",
@@ -5259,16 +5079,6 @@
    "posted": "2026-10-19",
    "closes": "",
    "years": null
-  },
-  {
-   "company": "Amazon",
-   "id": "Amazon:10593268",
-   "title": "Program Manager, Amazon Now",
-   "location": "Bengaluru, Karnataka, IND",
-   "url": "https://www.amazon.jobs/en/jobs/10593268/program-manager-amazon-now",
-   "posted": "2026-11-02",
-   "closes": "",
-   "years": 3
   },
   {
    "company": "Amazon",
@@ -7512,26 +7322,6 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:186251_GS_MID_CAREER",
-   "title": "Asset & Wealth Management- MAS PMR - Associate- Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/186251",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
-   "id": "Goldman Sachs:189669_GS_MID_CAREER",
-   "title": "Tax-Core Tax Process Management-Associate-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/189669",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
    "id": "Goldman Sachs:186122_GS_MID_CAREER",
    "title": "Wealth Management-Private Lending Services-Associate -Bengaluru",
    "location": "Bengaluru",
@@ -7556,6 +7346,26 @@
    "title": "Asset & Wealth Management - MAS Research- Associate- Bengaluru",
    "location": "Bengaluru",
    "url": "https://higher.gs.com/roles/186253",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:186251_GS_MID_CAREER",
+   "title": "Asset & Wealth Management- MAS PMR - Associate- Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/186251",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
+   "id": "Goldman Sachs:189669_GS_MID_CAREER",
+   "title": "Tax-Core Tax Process Management-Associate-Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/189669",
    "posted": "",
    "closes": "",
    "years": null
@@ -7592,20 +7402,20 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187271_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+   "id": "Goldman Sachs:187896_GS_MID_CAREER",
+   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
    "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187271",
+   "url": "https://higher.gs.com/roles/187896",
    "posted": "",
    "closes": "",
    "years": null
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:187896_GS_MID_CAREER",
-   "title": "Global Banking & Markets - Dcs & Listed Derivatives Ops-Senior Analyst-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/187896",
+   "id": "Goldman Sachs:188834_GS_MID_CAREER",
+   "title": "Global Banking & Markets Operations - Liquidity Trade Management - Associate- Hyderabad",
+   "location": "Hyderabad",
+   "url": "https://higher.gs.com/roles/188834",
    "posted": "",
    "closes": "",
    "years": null
@@ -7682,6 +7492,16 @@
   },
   {
    "company": "Goldman Sachs",
+   "id": "Goldman Sachs:188886_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-AM Alts Pvt Loan Data Quality-Associate-Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/188886",
+   "posted": "",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Goldman Sachs",
    "id": "Goldman Sachs:188008_GS_MID_CAREER",
    "title": "Corporate Planning & Management - Support Operations Lead - Customer Experience - Associate - Bengaluru",
    "location": "Bengaluru",
@@ -7712,16 +7532,6 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188886_GS_MID_CAREER",
-   "title": "Asset & Wealth Management-AM Alts Pvt Loan Data Quality-Associate-Bengaluru",
-   "location": "Bengaluru",
-   "url": "https://higher.gs.com/roles/188886",
-   "posted": "",
-   "closes": "",
-   "years": null
-  },
-  {
-   "company": "Goldman Sachs",
    "id": "Goldman Sachs:c02dfc49-5190-47f2-8455-022fcd8e19e9",
    "title": "Asset & Wealth Management, Public, MAS, Portfolio Management & Risk, Analyst, Bengaluru",
    "location": "Bengaluru",
@@ -7732,10 +7542,10 @@
   },
   {
    "company": "Goldman Sachs",
-   "id": "Goldman Sachs:188834_GS_MID_CAREER",
-   "title": "Global Banking & Markets Operations - Liquidity Trade Management - Associate- Hyderabad",
-   "location": "Hyderabad",
-   "url": "https://higher.gs.com/roles/188834",
+   "id": "Goldman Sachs:187271_GS_MID_CAREER",
+   "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+   "location": "Bengaluru",
+   "url": "https://higher.gs.com/roles/187271",
    "posted": "",
    "closes": "",
    "years": null
@@ -8172,6 +7982,16 @@
   },
   {
    "company": "Tesco",
+   "id": "Tesco:218928",
+   "title": "Technical Programme Manager Tagetik SaaS Platform",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
+   "posted": "2026-11-06",
+   "closes": "",
+   "years": null
+  },
+  {
+   "company": "Tesco",
    "id": "Tesco:204833",
    "title": "Senior Associate-Digital Transformation",
    "location": "Bengaluru, Karnataka, India",
@@ -8189,16 +8009,6 @@
    "posted": "2026-09-10",
    "closes": "",
    "years": 1
-  },
-  {
-   "company": "Tesco",
-   "id": "Tesco:218928",
-   "title": "Technical Programme Manager Tagetik SaaS Platform",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://careers.tesco.com/en_GB/careers/JobDetail/Technical-Programme-Manager-Tagetik-SaaS-Platform/218928",
-   "posted": "2026-11-06",
-   "closes": "",
-   "years": null
   },
   {
    "company": "Tesco",
@@ -8263,7 +8073,7 @@
  ],
  "status": {
   "Salesforce": [
-   2,
+   1,
    null
   ],
   "Adobe": [
@@ -8567,7 +8377,7 @@
    null
   ],
   "Standard Chartered": [
-   11,
+   14,
    null
   ],
   "Juspay": [
@@ -8580,7 +8390,7 @@
   ],
   "Urban Company": [
    0,
-   null
+   "KeyError: 'jobs'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 619, in urban_company\n    for j in http(\"https://www.urbanclap.com/api/v2/platform-gateway/getAllJobs\", {})[\"jobs\"]:\n             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^\nKeyError: 'jobs'\n"
   ],
   "Licious": [
    1,
@@ -8607,15 +8417,15 @@
    null
   ],
   "Navi": [
-   20,
-   null
+   0,
+   "ValueError: no JSON from https://thapi.azurewebsites.net/api/token/noauth: 'Service Unavailable due to planned maintenance'\nTraceback (most recent call last):\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 738, in run_source\n    return name, fn(), None\n                 ^^^^\n  File \"/home/runner/work/job-screener/job-screener/screener.py\", line 727, in <lambda>\n    (\"Cars24\", cars24), (\"Navi\", lambda: turbohire(\"Navi\", \"navi\", \"3e818601-0baa-429c-b6f8-4b21903ae0e6\")),\n                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: no JSON from https://thapi.azurewebsites.net/api/token/noauth: 'Service Unavailable due to planned maintenance'\n"
   ],
   "Jupiter": [
    2,
    null
   ],
   "Amazon": [
-   348,
+   347,
    null
   ],
   "Goldman Sachs": [
